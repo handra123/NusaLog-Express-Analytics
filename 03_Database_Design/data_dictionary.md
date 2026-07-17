@@ -68,3 +68,13 @@ routes     (1) ---- (N) shipments
 ```
 
 Satu `shipment` selalu terhubung ke tepat satu `customer`, satu `courier`, dan satu `route`. Relasi ini menjadi dasar penyusunan ERD dan query join pada tahap SQL.
+
+## Catatan Desain: Normalisasi
+
+Struktur 5 tabel ini dirancang langsung dalam bentuk ternormalisasi (3NF), bukan hasil pemecahan dari satu tabel besar. Beberapa keputusan desain yang mencerminkan hal ini:
+
+- Tidak ada data warehouse (city, region, kapasitas) yang disimpan berulang di tabel `shipments`, `couriers`, atau `routes`. Data tersebut hanya disimpan sekali di `warehouses`, dan diakses lewat `warehouse_id` (FK).
+- Tidak ada data customer/courier yang diduplikasi di `shipments`. Setiap shipment cukup menyimpan `customer_id` dan `courier_id`, detail lengkapnya diambil lewat join ke tabel masing-masing.
+- Setiap tabel memiliki primary key tunggal dan seluruh kolom non-key bergantung penuh pada key tersebut, sehingga tidak ada ketergantungan transitif (misalnya `city` bergantung pada `warehouse_id`, bukan pada `shipment_id`).
+
+Desain ini menghindari redundansi data dan potensi anomali update, misalnya perubahan kapasitas satu warehouse cukup dilakukan di satu baris, bukan di banyak baris shipment.
