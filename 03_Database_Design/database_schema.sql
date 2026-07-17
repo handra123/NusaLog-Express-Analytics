@@ -1,9 +1,6 @@
 CREATE DATABASE IF NOT EXISTS nusalog_express;
 USE nusalog_express;
 
--- ============================================
--- 1. Table: warehouses
--- ============================================
 CREATE TABLE warehouses (
     warehouse_id INT PRIMARY KEY AUTO_INCREMENT,
     warehouse_name VARCHAR(100) NOT NULL,
@@ -12,9 +9,6 @@ CREATE TABLE warehouses (
     daily_shipment_capacity INT NOT NULL
 );
 
--- ============================================
--- 2. Table: couriers
--- ============================================
 CREATE TABLE couriers (
     courier_id INT PRIMARY KEY AUTO_INCREMENT,
     courier_name VARCHAR(100) NOT NULL,
@@ -24,9 +18,6 @@ CREATE TABLE couriers (
     FOREIGN KEY (warehouse_id) REFERENCES warehouses(warehouse_id)
 );
 
--- ============================================
--- 3. Table: routes
--- ============================================
 CREATE TABLE routes (
     route_id INT PRIMARY KEY AUTO_INCREMENT,
     origin_warehouse_id INT NOT NULL,
@@ -37,9 +28,6 @@ CREATE TABLE routes (
     FOREIGN KEY (destination_warehouse_id) REFERENCES warehouses(warehouse_id)
 );
 
--- ============================================
--- 4. Table: customers
--- ============================================
 CREATE TABLE customers (
     customer_id INT PRIMARY KEY AUTO_INCREMENT,
     customer_name VARCHAR(100) NOT NULL,
@@ -47,9 +35,6 @@ CREATE TABLE customers (
     customer_type VARCHAR(20) NOT NULL
 );
 
--- ============================================
--- 5. Table: shipments (fact table)
--- ============================================
 CREATE TABLE shipments (
     shipment_id INT PRIMARY KEY AUTO_INCREMENT,
     customer_id INT NOT NULL,
@@ -66,9 +51,7 @@ CREATE TABLE shipments (
     FOREIGN KEY (route_id) REFERENCES routes(route_id)
 );
 
--- ============================================
 -- Indexes (optimasi query analitik)
--- ============================================
 CREATE INDEX idx_shipments_status ON shipments(shipment_status);
 CREATE INDEX idx_shipments_date ON shipments(shipment_date);
 CREATE INDEX idx_shipments_courier ON shipments(courier_id);
