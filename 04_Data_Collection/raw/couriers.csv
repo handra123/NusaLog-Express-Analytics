@@ -1,0 +1,301 @@
+courier_id,courier_name,warehouse_id,vehicle_type,daily_delivery_capacity
+1,"Balidin Dongoran, S.T.",6,Motor,24
+2,Darmana Mandala,5,Motor,19
+3,"Ciaobella Wastuti, M.Pd",2,Mobil Box,45
+4,Lantar Anggraini,8,Mobil Box,50
+5,Among Iswahyudi,12,Motor,25
+6,Daruna Mayasari,14,Motor,19
+7,Cut Putri Napitupulu,6,Truk,53
+8,"Sadina Palastri, S.Farm",2,Motor,17
+9,Ikin Rahmawati,12,Motor,17
+10,Yessi Ardianto,5,Mobil Box,49
+11,"KH. Capa Anggraini, S.Psi",1,Mobil Box,47
+12,Eva Pratama,12,Mobil Box,44
+13,"Tgk. Baktiono Iswahyudi, S.Sos",10,Motor,23
+14,Gatot Situmorang,6,Motor,15
+15,Tgk. Yani Gunawan,13,Mobil Box,43
+16,"Michelle Nasyiah, S.IP",12,Motor,15
+17,Cindy Puspasari,9,Motor,19
+18,Yance Utami,1,Truk,71
+19,dr. Ratih Nababan,11,Motor,20
+20,"Betania Gunawan, S.H.",11,Motor,17
+21,"T. Bahuwirya Pradipta, S.IP",15,Truk,65
+22,Indah Hasanah,10,Truk,72
+23,"Rafid Utama, S.E.",12,Motor,23
+24,Kamila Pranowo,12,Mobil Box,40
+25,"Emas Zulaika, S.Pt",15,Motor,24
+26,Hj. Ella Nasyidah,14,Motor,22
+27,"Hesti Marpaung, M.M.",14,Mobil Box,35
+28,Humaira Uyainah,15,Mobil Box,41
+29,"Puti Prasetya, S.Psi",14,Mobil Box,50
+30,"Cut Ghaliyati Firmansyah, S.Psi",3,Motor,22
+31,Hasna Haryanto,12,Mobil Box,33
+32,Vino Purnawati,7,Mobil Box,37
+33,"Iriana Prabowo, M.Kom.",4,Truk,75
+34,Syahrini Haryanti,9,Mobil Box,47
+35,Eman Mandala,3,Mobil Box,34
+36,Panca Purwanti,5,Motor,23
+37,T. Pangeran Padmasari,3,Motor,18
+38,Restu Wacana,7,Truk,76
+39,Gawati Mandala,5,Truk,71
+40,drg. Bakijan Hardiansyah,9,Motor,15
+41,"Puti Eva Utami, S.E.",7,Motor,23
+42,"Ir. Indra Riyanti, S.Pt",2,Motor,15
+43,Kezia Riyanti,4,Motor,19
+44,Paris Ramadan,9,Truk,69
+45,Dt. Maman Latupono,12,Motor,17
+46,"Timbul Nasyiah, S.T.",14,Motor,20
+47,"Ir. Ganep Kusumo, S.Pd",2,Motor,16
+48,Endah Hasanah,10,Motor,17
+49,Xanana Saptono,9,Motor,19
+50,KH. Cemani Mayasari,10,Mobil Box,44
+51,Tedi Utami,5,Mobil Box,31
+52,Zaenab Uyainah,2,Motor,24
+53,Drs. Dalimin Mangunsong,4,Motor,22
+54,Vanesa Marpaung,12,Motor,16
+55,KH. Virman Nuraini,15,Mobil Box,42
+56,Liman Sinaga,12,Motor,19
+57,Anita Kusumo,7,Motor,21
+58,Yance Samosir,12,Truk,73
+59,Asmianto Permadi,13,Motor,15
+60,Puti Chelsea Laksita,8,Truk,71
+61,"Puti Vanya Nasyidah, S.E.I",15,Motor,15
+62,Maryanto Kusmawati,3,Motor,16
+63,R.M. Eman Nuraini,14,Mobil Box,44
+64,"Ir. Lintang Prabowo, M.Pd",1,Mobil Box,46
+65,"H. Muhammad Pangestu, S.Pd",4,Mobil Box,40
+66,Salsabila Yulianti,2,Motor,19
+67,Maida Maryati,8,Motor,24
+68,Devi Prayoga,4,Motor,23
+69,Atma Sirait,2,Mobil Box,46
+70,Lanjar Puspasari,14,Motor,15
+71,Lanjar Prasetya,6,Truk,51
+72,Bagus Usamah,6,Motor,23
+73,Dartono Hidayat,10,Motor,17
+74,Satya Sitompul,4,Mobil Box,30
+75,Kamidin Prakasa,6,Mobil Box,50
+76,Salsabila Laksita,13,Truk,65
+77,Kayun Mustofa,15,Motor,21
+78,"Queen Permata, M.Kom.",2,Motor,20
+79,Purwanto Kusmawati,10,Motor,15
+80,"dr. Dadap Kuswoyo, S.IP",12,Truk,54
+81,"Irfan Thamrin, S.Farm",2,Motor,19
+82,Nadia Habibi,10,Motor,20
+83,"Martani Yuliarti, S.IP",14,Motor,17
+84,Hadi Sirait,4,Motor,19
+85,"R. Drajat Nababan, S.Kom",14,Motor,21
+86,drg. Cahyono Anggraini,15,Motor,19
+87,Estiawan Hariyah,15,Motor,19
+88,Taufan Hutagalung,8,Mobil Box,34
+89,Yani Pudjiastuti,14,Truk,59
+90,Asirwanda Yulianti,7,Motor,24
+91,Dt. Bakiman Prakasa,12,Motor,17
+92,Hasim Laksita,9,Mobil Box,46
+93,Gabriella Wacana,14,Motor,19
+94,Catur Wibowo,8,Motor,23
+95,Harsaya Saptono,5,Motor,15
+96,"KH. Jaeman Suwarno, S.Farm",13,Motor,17
+97,"Uchita Puspita, M.Kom.",2,Mobil Box,42
+98,Dadap Sihombing,15,Motor,18
+99,Asmianto Prastuti,5,Mobil Box,30
+100,"Puput Halim, S.Psi",8,Motor,15
+101,Asirwanda Padmasari,10,Motor,22
+102,Olivia Nuraini,9,Motor,16
+103,Asmianto Melani,12,Motor,22
+104,Soleh Nashiruddin,12,Mobil Box,36
+105,Legawa Hidayat,12,Motor,24
+106,"Setya Prakasa, S.Sos",13,Motor,24
+107,Wardaya Purnawati,9,Mobil Box,31
+108,Labuh Riyanti,13,Motor,20
+109,Lukman Hutapea,15,Motor,20
+110,Sakura Padmasari,13,Motor,17
+111,Drs. Iriana Rajata,1,Motor,25
+112,Mulyono Sihotang,9,Mobil Box,47
+113,Eman Widodo,7,Motor,15
+114,Mumpuni Yuliarti,9,Motor,20
+115,Michelle Sihotang,8,Motor,19
+116,"R. Adika Haryanti, M.Ak",1,Mobil Box,46
+117,Puti Belinda Nasyiah,12,Motor,21
+118,Jono Saptono,8,Motor,19
+119,Wardi Tampubolon,8,Truk,70
+120,Tasnim Prasasta,15,Mobil Box,43
+121,Intan Manullang,11,Mobil Box,31
+122,Zahra Palastri,3,Motor,25
+123,"Ilsa Suryatmi, M.TI.",1,Motor,17
+124,Mulyanto Puspasari,8,Motor,21
+125,Salimah Jailani,3,Motor,20
+126,Eman Latupono,3,Motor,16
+127,Paiman Puspasari,1,Mobil Box,35
+128,Empluk Suryono,11,Motor,16
+129,R.A. Tina Siregar,5,Truk,51
+130,Mahfud Usada,10,Motor,16
+131,"Tgk. Ophelia Lestari, S.T.",7,Mobil Box,44
+132,"Cut Cornelia Usada, S.Farm",10,Motor,25
+133,"Tgk. Aurora Adriansyah, S.Psi",9,Motor,17
+134,"R.M. Makuta Saptono, S.E.",12,Mobil Box,31
+135,"Maimunah Puspasari, S.Farm",7,Motor,18
+136,Dt. Balidin Hutagalung,9,Motor,23
+137,"Eka Palastri, S.Gz",8,Truk,55
+138,"dr. Restu Puspasari, S.E.I",12,Mobil Box,30
+139,Dian Gunarto,2,Motor,22
+140,Karimah Gunarto,1,Motor,21
+141,Fathonah Zulaika,7,Motor,24
+142,Mulyanto Jailani,7,Mobil Box,48
+143,Victoria Purwanti,14,Motor,15
+144,"drg. Raina Mangunsong, S.H.",8,Motor,19
+145,"R. Wirda Nugroho, S.Farm",5,Motor,18
+146,Cemani Sitorus,3,Motor,24
+147,"dr. Rama Winarsih, S.H.",12,Mobil Box,46
+148,Endah Kurniawan,8,Motor,24
+149,Ani Halimah,6,Truk,66
+150,Daliono Haryanti,11,Motor,18
+151,Ina Pradana,3,Motor,22
+152,Ajiono Wahyuni,1,Motor,19
+153,Heru Sitompul,3,Motor,16
+154,Zelaya Hidayat,5,Truk,55
+155,"T. Gara Yuniar, M.TI.",15,Mobil Box,50
+156,Shania Nasyiah,14,Motor,16
+157,Ana Latupono,3,Mobil Box,42
+158,Elma Prastuti,1,Motor,25
+159,Ani Kurniawan,5,Mobil Box,40
+160,drg. Jelita Sihotang,10,Motor,25
+161,Rachel Melani,7,Motor,17
+162,Harsana Permata,15,Motor,23
+163,Dodo Gunawan,14,Motor,21
+164,"Maya Adriansyah, M.TI.",7,Motor,21
+165,"Dr. Mahfud Winarsih, S.Kom",11,Motor,25
+166,Mala Hidayat,9,Motor,20
+167,"Viman Sitompul, M.Ak",15,Motor,22
+168,Salimah Maheswara,15,Truk,53
+169,"Ifa Mayasari, S.Pd",10,Motor,22
+170,"Hasan Simbolon, S.Sos",10,Motor,18
+171,"Ida Puspasari, S.E.I",12,Mobil Box,32
+172,Imam Widiastuti,13,Mobil Box,32
+173,Shania Natsir,3,Motor,25
+174,Ir. Ilsa Waskita,15,Motor,16
+175,Dt. Gadang Suwarno,7,Mobil Box,48
+176,Irfan Prastuti,1,Motor,17
+177,Hj. Janet Hastuti,4,Truk,70
+178,Maimunah Wulandari,13,Mobil Box,34
+179,Kajen Kusmawati,4,Motor,16
+180,"KH. Oman Narpati, S.Pt",14,Motor,24
+181,Oliva Wijayanti,5,Truk,78
+182,"Lukman Sitorus, S.Pt",7,Motor,20
+183,"R.A. Samiah Saragih, S.H.",7,Motor,19
+184,"Sutan Cakrajiya Dongoran, S.Gz",13,Mobil Box,35
+185,Jaswadi Suryatmi,15,Mobil Box,30
+186,"Puti Mutia Agustina, M.Farm",11,Truk,54
+187,Nasim Winarno,13,Truk,58
+188,Lalita Prasasta,4,Mobil Box,41
+189,Marwata Ardianto,13,Mobil Box,43
+190,"KH. Timbul Kurniawan, S.Farm",7,Mobil Box,31
+191,Cecep Maryati,11,Mobil Box,46
+192,Alika Puspita,3,Motor,24
+193,Vero Maheswara,6,Motor,25
+194,Diana Hariyah,12,Mobil Box,38
+195,"Karta Purwanti, M.Ak",2,Mobil Box,44
+196,Usyi Handayani,10,Mobil Box,44
+197,Drs. Maria Pudjiastuti,13,Mobil Box,40
+198,Endah Kusmawati,14,Mobil Box,45
+199,Hana Prayoga,9,Motor,15
+200,"Hj. Ika Nurdiyanti, M.Kom.",5,Motor,24
+201,"Digdaya Saefullah, M.M.",6,Motor,18
+202,Nasab Suwarno,12,Motor,15
+203,Empluk Sitorus,12,Motor,22
+204,Puput Hutapea,12,Mobil Box,46
+205,Cakrawangsa Pradipta,12,Motor,17
+206,Talia Mangunsong,4,Mobil Box,49
+207,"Gabriella Haryanto, S.Farm",14,Motor,22
+208,Julia Namaga,14,Mobil Box,43
+209,Lidya Halim,11,Motor,24
+210,Rafi Andriani,10,Motor,21
+211,Vera Padmasari,7,Motor,22
+212,"Ayu Permata, S.Sos",12,Mobil Box,31
+213,Agnes Thamrin,9,Motor,24
+214,Umi Wibisono,7,Truk,63
+215,"drg. Paulin Palastri, M.Ak",14,Motor,25
+216,Jinawi Prasetya,1,Motor,22
+217,Maya Laksita,1,Truk,68
+218,Harsaya Sirait,9,Motor,21
+219,"Mustika Waskita, S.E.",11,Motor,17
+220,"Dr. Dian Oktaviani, M.Pd",14,Motor,21
+221,Umaya Wijaya,9,Motor,25
+222,Ir. Salimah Dongoran,4,Mobil Box,44
+223,Margana Aryani,13,Motor,16
+224,Sakti Hariyah,9,Motor,24
+225,Asirwanda Rajata,3,Motor,20
+226,Jane Prabowo,7,Mobil Box,32
+227,Jane Sirait,6,Motor,17
+228,"dr. Estiawan Andriani, S.T.",8,Motor,23
+229,"Puti Nadine Budiyanto, M.Pd",11,Mobil Box,34
+230,Wawan Tampubolon,9,Mobil Box,39
+231,Martaka Hidayat,14,Motor,21
+232,"Ir. Arta Dabukke, S.H.",5,Motor,23
+233,Salman Damanik,1,Motor,15
+234,R. Halima Mahendra,3,Motor,21
+235,Salsabila Latupono,10,Motor,20
+236,R.A. Nadia Rajasa,12,Motor,24
+237,"Tgk. Caturangga Sudiati, M.Ak",8,Motor,23
+238,"Tina Latupono, S.E.",15,Motor,15
+239,Cici Prastuti,11,Truk,62
+240,Wisnu Saragih,6,Mobil Box,49
+241,Hj. Keisha Widodo,8,Motor,23
+242,"Faizah Hutagalung, M.Farm",9,Truk,53
+243,"Yance Utami, S.H.",4,Mobil Box,39
+244,Mursinin Sihombing,1,Motor,17
+245,"Hj. Rahayu Lazuardi, M.Farm",14,Motor,23
+246,"Dt. Ganjaran Nasyidah, S.Farm",1,Motor,16
+247,"Hairyanto Hidayat, M.TI.",10,Motor,18
+248,"Ganep Budiman, S.Farm",4,Mobil Box,44
+249,"Dr. Cici Astuti, S.I.Kom",12,Motor,20
+250,"Tri Haryanti, S.E.I",14,Motor,16
+251,Elma Nurdiyanti,7,Truk,64
+252,"Emong Susanti, M.Pd",2,Mobil Box,37
+253,"drg. Jaka Fujiati, M.Farm",3,Motor,22
+254,Janet Prasasta,1,Truk,66
+255,"Puti Indah Hartati, S.H.",5,Truk,61
+256,"drg. Kairav Suryatmi, S.Sos",1,Truk,68
+257,Ana Lailasari,8,Motor,24
+258,"dr. Elvina Laksita, S.Kom",1,Mobil Box,38
+259,Wirda Rajata,11,Motor,19
+260,Indah Riyanti,1,Mobil Box,35
+261,"Ika Puspita, S.Ked",2,Truk,69
+262,Sutan Bakiadi Permadi,2,Mobil Box,31
+263,"Laila Lestari, M.Pd",12,Mobil Box,42
+264,"Sutan Muhammad Kusmawati, M.Kom.",6,Mobil Box,35
+265,Widya Budiyanto,7,Mobil Box,34
+266,Emil Prasetya,5,Motor,23
+267,Talia Prasasta,1,Motor,15
+268,Salimah Prastuti,1,Motor,19
+269,Nabila Puspasari,3,Mobil Box,50
+270,Tgk. Irwan Pudjiastuti,14,Motor,20
+271,Kamila Hasanah,2,Motor,20
+272,Ina Ramadan,5,Motor,21
+273,Banawa Nababan,12,Motor,18
+274,Devi Nasyiah,10,Mobil Box,40
+275,"H. Cengkal Nababan, S.Kom",6,Mobil Box,38
+276,"Novi Saefullah, M.Farm",7,Motor,21
+277,"Dr. Lembah Suryono, S.IP",4,Truk,52
+278,"R.A. Ida Pradana, S.I.Kom",7,Motor,17
+279,Gada Budiman,11,Motor,22
+280,"Patricia Mahendra, S.T.",8,Mobil Box,34
+281,Asmadi Puspasari,11,Motor,18
+282,Tami Mahendra,1,Motor,22
+283,"Taswir Lestari, S.IP",15,Mobil Box,35
+284,"Cut Queen Suryono, M.Kom.",6,Motor,16
+285,Maida Siregar,8,Motor,18
+286,Aslijan Ramadan,5,Motor,25
+287,"Dr. Calista Haryanto, S.Sos",4,Motor,18
+288,Belinda Permata,2,Motor,20
+289,"Mahfud Habibi, S.E.I",6,Motor,20
+290,Rosman Pratiwi,6,Mobil Box,46
+291,Chelsea Prayoga,11,Mobil Box,35
+292,Kalim Agustina,15,Mobil Box,48
+293,Ir. Widya Safitri,1,Mobil Box,31
+294,Prayoga Nurdiyanti,9,Mobil Box,44
+295,Mila Handayani,12,Motor,25
+296,Zelda Rahmawati,11,Motor,22
+297,Ina Purnawati,6,Motor,24
+298,Cut Rahmi Januar,13,Motor,17
+299,"Sutan Luis Prabowo, S.T.",3,Motor,19
+300,"Bajragin Manullang, S.H.",4,Motor,20

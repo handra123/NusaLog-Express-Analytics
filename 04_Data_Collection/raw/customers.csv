@@ -1,0 +1,3001 @@
+customer_id,customer_name,city,customer_type
+1,Kusuma Hutagalung,Jakarta,Individual
+2,Ade Wasita,Batam,Individual
+3,Shakila Riyanti,Batam,Individual
+4,Icha Firmansyah,Sidoarjo,Business
+5,Edward Suryono,Lampung,Individual
+6,"Zelda Hasanah, S.Pt",Medan,Individual
+7,"Daruna Saptono, M.Farm",Bandung,Individual
+8,"Rangga Napitupulu, S.Farm",Palembang,Business
+9,Kenari Prasetyo,Yogyakarta,Individual
+10,"Cakrawala Santoso, S.E.I",Tangerang,Individual
+11,Asmuni Marbun,Palembang,Individual
+12,"T. Legawa Purnawati, S.Pd",Palembang,Individual
+13,Dewi Hastuti,Depok,Individual
+14,"Ilsa Waskita, S.T.",Pekanbaru,Individual
+15,Dr. Jumadi Farida,Cirebon,Individual
+16,Liman Gunarto,Cirebon,Individual
+17,Unjani Sinaga,Bogor,Individual
+18,Tgk. Aisyah Iswahyudi,Bekasi,Individual
+19,Yono Wulandari,Medan,Individual
+20,"Ir. Rini Damanik, S.T.",Padang,Individual
+21,Cut Vanesa Natsir,Yogyakarta,Individual
+22,Padma Yulianti,Sidoarjo,Individual
+23,Indah Najmudin,Depok,Individual
+24,drg. Siska Lestari,Malang,Individual
+25,Jarwadi Tampubolon,Yogyakarta,Individual
+26,Juli Sinaga,Palembang,Individual
+27,"Bala Marpaung, S.Psi",Depok,Individual
+28,Talia Lailasari,Malang,Business
+29,Salimah Wacana,Bandung,Individual
+30,"Drs. Ani Hasanah, S.Pt",Bengkulu,Individual
+31,Hafshah Sinaga,Padang,Business
+32,Prasetyo Waskita,Bengkulu,Individual
+33,"Drs. Yunita Adriansyah, M.Pd",Pekanbaru,Individual
+34,Laras Habibi,Medan,Individual
+35,Karja Tarihoran,Bengkulu,Individual
+36,Dr. Sari Handayani,Bengkulu,Business
+37,"Dt. Damu Santoso, M.Pd",Medan,Individual
+38,Wira Suwarno,Cirebon,Business
+39,Tami Laksita,Bogor,Individual
+40,Alambana Usamah,Bandung,Individual
+41,R.A. Titin Manullang,Yogyakarta,Individual
+42,Puspa Budiman,Semarang,Individual
+43,dr. Bakiman Prasetyo,Batam,Individual
+44,"Puti Malika Lazuardi, S.E.I",Medan,Business
+45,Tina Siregar,Padang,Individual
+46,H. Empluk Agustina,Tangerang,Business
+47,"Dr. Nadine Prasasta, M.M.",Bengkulu,Individual
+48,R.M. Harjo Nainggolan,Bogor,Business
+49,Drs. Ulva Mansur,Medan,Individual
+50,"Puti Ika Agustina, S.Psi",Bekasi,Individual
+51,"Dr. Emas Adriansyah, S.Pd",Sidoarjo,Business
+52,"Ifa Rahmawati, M.Farm",Palembang,Business
+53,"Jindra Maryadi, M.M.",Malang,Individual
+54,drg. Gangsar Sitorus,Batam,Individual
+55,KH. Kenari Waluyo,Cirebon,Individual
+56,Janet Nainggolan,Depok,Individual
+57,"Halima Pertiwi, S.Sos",Cirebon,Individual
+58,Sabri Zulkarnain,Solo,Business
+59,Galiono Kusmawati,Bogor,Individual
+60,"Yessi Wibowo, S.Sos",Cirebon,Individual
+61,"Prima Yulianti, S.E.I",Solo,Business
+62,Ani Mahendra,Sidoarjo,Individual
+63,Drs. Gamblang Januar,Lampung,Individual
+64,"Dr. Cinthia Novitasari, M.M.",Tangerang,Business
+65,Najam Megantara,Lampung,Individual
+66,Safina Mangunsong,Solo,Business
+67,Jarwadi Saptono,Bengkulu,Individual
+68,Sarah Widodo,Bekasi,Individual
+69,"Bajragin Sitompul, M.Pd",Bengkulu,Business
+70,Jamalia Utami,Batam,Business
+71,"Vanya Laksita, M.Pd",Sidoarjo,Individual
+72,Lasmanto Hidayat,Sidoarjo,Business
+73,Laswi Suwarno,Jambi,Business
+74,Pangeran Iswahyudi,Sidoarjo,Individual
+75,Cinthia Usada,Bekasi,Individual
+76,"Cinthia Handayani, S.E.",Surabaya,Individual
+77,"Ifa Dabukke, S.Gz",Padang,Individual
+78,Wulan Hakim,Yogyakarta,Individual
+79,Kani Wahyudin,Palembang,Individual
+80,Dalima Prasasta,Cirebon,Individual
+81,dr. Karya Zulaika,Padang,Individual
+82,"R.M. Cawisono Natsir, S.Pt",Solo,Individual
+83,drg. Raina Zulaika,Palembang,Individual
+84,Jamal Padmasari,Surabaya,Business
+85,Daru Hariyah,Padang,Individual
+86,"Dodo Haryanti, S.T.",Surabaya,Individual
+87,"Adika Hastuti, S.Pd",Pekanbaru,Individual
+88,"Kenes Manullang, S.Pt",Cirebon,Individual
+89,Jelita Rahmawati,Bengkulu,Individual
+90,Suci Anggraini,Solo,Business
+91,"Hafshah Hasanah, S.Pd",Lampung,Individual
+92,Harjo Laksmiwati,Bekasi,Individual
+93,Dasa Wibowo,Jakarta,Individual
+94,dr. Ratih Sihombing,Surabaya,Individual
+95,"Ida Damanik, S.Sos",Sidoarjo,Individual
+96,Ajeng Pratiwi,Yogyakarta,Individual
+97,"Hj. Victoria Hardiansyah, M.Ak",Jakarta,Business
+98,"Najwa Suwarno, S.H.",Lampung,Individual
+99,dr. Gawati Usada,Cirebon,Individual
+100,Lukman Ramadan,Semarang,Individual
+101,"Perkasa Wahyuni, S.E.I",Yogyakarta,Business
+102,"Bakti Utami, S.Gz",Medan,Individual
+103,Winda Farida,Bekasi,Business
+104,Labuh Utama,Pekanbaru,Individual
+105,"Diah Iswahyudi, S.Pd",Padang,Business
+106,Ulva Agustina,Bekasi,Business
+107,Daliono Mustofa,Bogor,Business
+108,"Dr. Taufik Utama, M.TI.",Bengkulu,Business
+109,T. Radika Marbun,Pekanbaru,Individual
+110,Yunita Laksmiwati,Bandung,Individual
+111,"T. Pangeran Sirait, S.IP",Tangerang,Individual
+112,Citra Megantara,Surabaya,Business
+113,"Sutan Satya Wastuti, S.Sos",Yogyakarta,Individual
+114,"Drs. Karimah Iswahyudi, S.Sos",Lampung,Individual
+115,Eman Nasyiah,Tangerang,Business
+116,Jaeman Uwais,Cirebon,Individual
+117,"Pangestu Wulandari, S.T.",Depok,Individual
+118,drg. Yuni Uyainah,Sidoarjo,Individual
+119,Cici Wulandari,Surabaya,Business
+120,Jarwi Dongoran,Malang,Individual
+121,Drs. Jane Suryatmi,Lampung,Individual
+122,Marsudi Haryanto,Semarang,Individual
+123,"Ridwan Hariyah, S.Pd",Bandung,Individual
+124,"Hasan Latupono, S.E.I",Surabaya,Individual
+125,Warsita Firgantoro,Tangerang,Individual
+126,Nilam Latupono,Bandung,Business
+127,Daryani Nasyiah,Tangerang,Individual
+128,Harsanto Hasanah,Yogyakarta,Business
+129,Salsabila Namaga,Bandung,Individual
+130,Rini Mangunsong,Lampung,Individual
+131,Safina Januar,Yogyakarta,Individual
+132,"Dr. Raisa Wasita, S.T.",Sidoarjo,Individual
+133,Muhammad Uwais,Solo,Individual
+134,Ibun Handayani,Yogyakarta,Business
+135,Sabar Tarihoran,Sidoarjo,Individual
+136,Mahfud Uwais,Batam,Business
+137,Ir. Gatot Halim,Bogor,Individual
+138,Ika Nainggolan,Padang,Individual
+139,Warta Hasanah,Malang,Individual
+140,Mujur Prabowo,Solo,Individual
+141,"Manah Riyanti, S.Ked",Jakarta,Individual
+142,Panji Sitorus,Solo,Business
+143,Budi Pratiwi,Medan,Individual
+144,Bagiya Puspasari,Bengkulu,Individual
+145,Langgeng Pratama,Malang,Individual
+146,"R.A. Julia Maulana, M.Ak",Yogyakarta,Business
+147,Enteng Maulana,Batam,Business
+148,Kayun Ramadan,Depok,Individual
+149,"R.M. Balapati Wijayanti, S.Ked",Medan,Individual
+150,Aditya Tamba,Bekasi,Individual
+151,"KH. Dasa Rahmawati, S.Psi",Semarang,Individual
+152,Cayadi Saptono,Padang,Individual
+153,Budi Andriani,Bekasi,Individual
+154,R. Panca Haryanto,Padang,Individual
+155,Melinda Tarihoran,Cirebon,Individual
+156,Drs. Balangga Hartati,Bogor,Individual
+157,Sutan Warsita Susanti,Padang,Business
+158,Ozy Wahyuni,Malang,Individual
+159,T. Jagapati Yuniar,Bekasi,Individual
+160,Aswani Kuswandari,Bandung,Individual
+161,"drg. Maria Kurniawan, M.Kom.",Lampung,Business
+162,"Maimunah Hidayanto, S.Pt",Semarang,Individual
+163,Rachel Maulana,Semarang,Individual
+164,Budi Saefullah,Cirebon,Business
+165,Hj. Restu Pudjiastuti,Cirebon,Individual
+166,"Jane Wibowo, M.Ak",Jakarta,Individual
+167,T. Jaeman Mayasari,Sidoarjo,Business
+168,drg. Cinthia Latupono,Lampung,Business
+169,"Hj. Sadina Puspasari, S.Kom",Semarang,Individual
+170,Mila Pradana,Jambi,Business
+171,Jessica Hasanah,Bekasi,Individual
+172,Lidya Kuswoyo,Jakarta,Individual
+173,Maria Sihotang,Lampung,Business
+174,"Dodo Wahyudin, S.E.I",Medan,Individual
+175,"Virman Kusmawati, S.Pt",Bandung,Individual
+176,Radika Hutasoit,Semarang,Individual
+177,Ian Kuswoyo,Padang,Business
+178,"Ulya Wahyudin, S.E.I",Lampung,Business
+179,Dt. Langgeng Purwanti,Medan,Individual
+180,Tgk. Mumpuni Maheswara,Bandung,Business
+181,Kamila Widiastuti,Jambi,Individual
+182,"dr. Taswir Habibi, S.Pd",Surabaya,Business
+183,Tgk. Kamila Jailani,Palembang,Individual
+184,Drs. Gabriella Mangunsong,Bengkulu,Business
+185,"Jaya Prasetyo, S.IP",Yogyakarta,Individual
+186,Zulfa Puspita,Malang,Business
+187,Calista Setiawan,Yogyakarta,Business
+188,R.A. Yani Aryani,Jakarta,Individual
+189,"Drs. Vivi Oktaviani, M.Ak",Malang,Individual
+190,"Margana Puspita, S.Ked",Surabaya,Individual
+191,Hj. Yance Santoso,Palembang,Individual
+192,Cemeti Saputra,Palembang,Individual
+193,"Vanesa Saragih, S.Psi",Bogor,Individual
+194,Agnes Najmudin,Cirebon,Individual
+195,"R. Padmi Wahyuni, S.Sos",Bogor,Business
+196,Caket Usada,Pekanbaru,Individual
+197,Bakijan Nuraini,Bekasi,Individual
+198,Harimurti Andriani,Palembang,Individual
+199,Jasmin Manullang,Surabaya,Individual
+200,Ira Simbolon,Lampung,Individual
+201,"Drs. Lembah Hutasoit, S.Gz",Pekanbaru,Individual
+202,Candrakanta Safitri,Palembang,Individual
+203,Mursita Hutapea,Tangerang,Individual
+204,Maimunah Wijayanti,Bengkulu,Individual
+205,Nova Sudiati,Bogor,Individual
+206,Lidya Saputra,Padang,Individual
+207,Perkasa Mulyani,Bengkulu,Individual
+208,Gangsar Astuti,Sidoarjo,Individual
+209,Edi Wastuti,Malang,Individual
+210,"Lega Laksita, M.TI.",Padang,Business
+211,"Gaiman Gunawan, S.H.",Malang,Business
+212,Rahayu Hakim,Medan,Individual
+213,Damu Sihombing,Tangerang,Individual
+214,Pranata Mandala,Pekanbaru,Individual
+215,"T. Elvin Simbolon, S.IP",Solo,Individual
+216,Jamal Astuti,Jambi,Individual
+217,Cager Wibowo,Bogor,Individual
+218,H. Dartono Mardhiyah,Jakarta,Individual
+219,Ir. Reksa Thamrin,Jakarta,Business
+220,Hasta Gunarto,Jakarta,Business
+221,Anita Haryanti,Bekasi,Individual
+222,Setya Sihotang,Bekasi,Individual
+223,drg. Queen Waskita,Sidoarjo,Business
+224,"Suci Agustina, S.Pd",Depok,Individual
+225,Halim Damanik,Cirebon,Business
+226,Ella Safitri,Surabaya,Business
+227,Yance Tarihoran,Tangerang,Business
+228,Ibrani Kurniawan,Bekasi,Individual
+229,Ibrani Rahmawati,Tangerang,Business
+230,Paramita Hutapea,Bogor,Business
+231,Ira Sirait,Jambi,Individual
+232,Ganda Narpati,Bekasi,Individual
+233,Kajen Usada,Solo,Individual
+234,Karta Melani,Surabaya,Individual
+235,Utama Tampubolon,Depok,Individual
+236,Titi Yuliarti,Sidoarjo,Individual
+237,"R. Gilda Jailani, S.E.I",Palembang,Individual
+238,Faizah Natsir,Padang,Individual
+239,R. Vanya Yolanda,Batam,Business
+240,Cecep Utami,Semarang,Business
+241,Malika Pratiwi,Bengkulu,Individual
+242,"Drs. Ikin Zulaika, M.Farm",Batam,Individual
+243,"Makara Oktaviani, S.Psi",Malang,Business
+244,"Hj. Iriana Maryadi, M.M.",Yogyakarta,Business
+245,Jarwadi Handayani,Tangerang,Individual
+246,"Gadang Saefullah, M.Farm",Depok,Individual
+247,Garan Mayasari,Lampung,Individual
+248,Galak Hariyah,Palembang,Individual
+249,Ani Hakim,Bengkulu,Business
+250,Yance Suwarno,Jambi,Individual
+251,Mariadi Iswahyudi,Palembang,Business
+252,Ir. Ophelia Winarno,Sidoarjo,Business
+253,Ratna Puspasari,Tangerang,Individual
+254,"H. Umar Gunarto, M.M.",Bengkulu,Individual
+255,"Drs. Martana Nainggolan, S.Psi",Semarang,Business
+256,Dr. Olivia Maryadi,Bandung,Business
+257,Ihsan Jailani,Bekasi,Individual
+258,"Tgk. Nasab Hutasoit, M.TI.",Batam,Individual
+259,"Cawuk Gunarto, S.H.",Palembang,Individual
+260,"Maida Farida, M.TI.",Sidoarjo,Individual
+261,Drs. Capa Utama,Lampung,Individual
+262,Intan Wibisono,Bogor,Individual
+263,Vicky Sirait,Depok,Individual
+264,"Liman Habibi, S.Psi",Pekanbaru,Individual
+265,Gambira Kuswoyo,Yogyakarta,Business
+266,Ir. Harsana Suryono,Padang,Individual
+267,Tari Wahyuni,Lampung,Individual
+268,R. Juli Hutapea,Bekasi,Individual
+269,Hj. Dinda Tampubolon,Bandung,Individual
+270,Safina Wijayanti,Cirebon,Individual
+271,Diah Riyanti,Bandung,Business
+272,"Chelsea Saragih, M.Pd",Yogyakarta,Individual
+273,Syahrini Sitompul,Bogor,Individual
+274,"R. Salsabila Novitasari, S.Pt",Semarang,Business
+275,"Mumpuni Anggraini, M.TI.",Lampung,Individual
+276,Anita Tarihoran,Depok,Individual
+277,Elvina Prabowo,Pekanbaru,Individual
+278,Vivi Laksita,Depok,Individual
+279,Darmanto Mandala,Tangerang,Individual
+280,Bahuwarna Sihombing,Jambi,Individual
+281,"Puti Ophelia Namaga, M.TI.",Palembang,Business
+282,Mitra Sirait,Jambi,Individual
+283,"Drs. Cahyadi Riyanti, S.Sos",Medan,Business
+284,Carub Najmudin,Yogyakarta,Individual
+285,"Ir. Yessi Marbun, M.M.",Cirebon,Business
+286,Hendra Utama,Palembang,Individual
+287,"Najib Prakasa, M.M.",Lampung,Business
+288,Tgk. Umi Hassanah,Palembang,Individual
+289,Kasusra Permadi,Jambi,Individual
+290,Yessi Halimah,Bandung,Individual
+291,"R.A. Kartika Wastuti, M.Farm",Yogyakarta,Business
+292,Malika Suryono,Jakarta,Individual
+293,"dr. Jefri Nuraini, S.Farm",Malang,Individual
+294,Rendy Pangestu,Yogyakarta,Individual
+295,"Drs. Cahyo Ramadan, S.Gz",Batam,Individual
+296,"Jaya Wahyudin, M.Pd",Depok,Individual
+297,Narji Maryati,Sidoarjo,Business
+298,"Puti Intan Hutasoit, S.E.",Medan,Individual
+299,Mila Mulyani,Sidoarjo,Business
+300,Radika Fujiati,Bekasi,Individual
+301,Warsita Prasetya,Lampung,Individual
+302,"Dr. Kamaria Dongoran, S.Farm",Palembang,Individual
+303,Harto Mardhiyah,Padang,Individual
+304,Gilda Winarno,Sidoarjo,Individual
+305,Hardi Prasetyo,Bogor,Business
+306,Galuh Januar,Jakarta,Business
+307,"Hj. Juli Maulana, S.E.I",Malang,Business
+308,Edison Halimah,Lampung,Individual
+309,"Yance Mandala, M.Kom.",Medan,Individual
+310,Raisa Ardianto,Sidoarjo,Individual
+311,Ajiman Rajasa,Bogor,Business
+312,Rafid Maryadi,Cirebon,Individual
+313,H. Lulut Nuraini,Bogor,Business
+314,Carla Suwarno,Semarang,Individual
+315,Gada Maheswara,Batam,Business
+316,Digdaya Andriani,Pekanbaru,Individual
+317,"Putu Oktaviani, M.M.",Yogyakarta,Individual
+318,Balapati Mandasari,Bandung,Business
+319,Drs. Anita Usamah,Malang,Individual
+320,Drs. Dimas Megantara,Jakarta,Individual
+321,Maria Adriansyah,Solo,Business
+322,dr. Halima Pertiwi,Bengkulu,Individual
+323,Fitria Widiastuti,Tangerang,Individual
+324,"Bakiadi Novitasari, S.I.Kom",Bandung,Individual
+325,Xanana Novitasari,Pekanbaru,Business
+326,Dr. Panji Mayasari,Batam,Business
+327,Dt. Harsaya Halimah,Sidoarjo,Business
+328,Makara Wibisono,Batam,Business
+329,Hafshah Budiyanto,Jakarta,Individual
+330,Winda Hidayat,Bekasi,Individual
+331,Halima Wahyuni,Lampung,Individual
+332,"Bala Prastuti, S.Psi",Bekasi,Individual
+333,Artawan Thamrin,Batam,Individual
+334,Tgk. Rahmat Yuniar,Jakarta,Individual
+335,Radika Hariyah,Cirebon,Individual
+336,"Natalia Usamah, S.E.",Malang,Individual
+337,"R.M. Atma Haryanti, S.Gz",Surabaya,Individual
+338,Farah Gunawan,Pekanbaru,Individual
+339,"Sutan Timbul Gunarto, S.Psi",Pekanbaru,Individual
+340,Oliva Widodo,Bengkulu,Business
+341,"Drs. Nabila Ramadan, S.Gz",Solo,Business
+342,"Ir. Dadap Suwarno, S.I.Kom",Bengkulu,Business
+343,"Cut Zelaya Yolanda, S.Psi",Palembang,Individual
+344,Dewi Uwais,Solo,Individual
+345,Lalita Farida,Palembang,Individual
+346,Jessica Nashiruddin,Medan,Business
+347,Talia Mandasari,Malang,Business
+348,Wirda Maryati,Palembang,Business
+349,Wani Hutasoit,Padang,Business
+350,"Lintang Hutapea, S.Farm",Medan,Individual
+351,R. Puji Sihombing,Lampung,Individual
+352,Ciaobella Hutapea,Lampung,Individual
+353,Salimah Sihombing,Medan,Individual
+354,Melinda Suartini,Semarang,Business
+355,"Maria Marbun, M.M.",Batam,Individual
+356,Melinda Gunarto,Semarang,Individual
+357,"Kamila Susanti, S.Farm",Jambi,Individual
+358,Suci Hakim,Lampung,Individual
+359,Mumpuni Uyainah,Bogor,Individual
+360,Karimah Mulyani,Semarang,Business
+361,"H. Mustika Manullang, S.Ked",Bandung,Individual
+362,Samsul Sudiati,Semarang,Business
+363,"Purwa Farida, S.Gz",Medan,Individual
+364,Bagas Prakasa,Palembang,Individual
+365,"Ir. Ghani Tarihoran, S.Sos",Padang,Individual
+366,Cut Rahmi Mangunsong,Cirebon,Individual
+367,"Ihsan Uwais, S.I.Kom",Depok,Business
+368,Vanesa Hutagalung,Jambi,Individual
+369,R. Paris Utama,Bekasi,Business
+370,Iriana Yulianti,Palembang,Individual
+371,Hilda Latupono,Depok,Individual
+372,Oman Nashiruddin,Padang,Individual
+373,Padma Wibisono,Bengkulu,Business
+374,R. Eluh Rajata,Tangerang,Business
+375,"Melinda Prabowo, M.Ak",Lampung,Individual
+376,Talia Lestari,Depok,Business
+377,Banawi Mansur,Solo,Individual
+378,"Puti Mila Natsir, M.M.",Yogyakarta,Individual
+379,Rusman Zulaika,Batam,Business
+380,"dr. Salwa Situmorang, S.Pt",Bekasi,Individual
+381,Dr. Elvin Salahudin,Sidoarjo,Business
+382,"R. Tania Uyainah, S.E.",Depok,Individual
+383,"Tgk. Kacung Prasetyo, S.IP",Sidoarjo,Individual
+384,Prima Mandala,Cirebon,Business
+385,Paiman Lailasari,Bandung,Individual
+386,Gatra Puspasari,Bengkulu,Individual
+387,dr. Nadia Puspasari,Solo,Individual
+388,Luwar Irawan,Surabaya,Individual
+389,Galak Widodo,Medan,Individual
+390,"Tantri Kuswandari, M.TI.",Pekanbaru,Individual
+391,Vivi Wasita,Bandung,Individual
+392,"Ir. Belinda Mahendra, S.Psi",Bekasi,Individual
+393,"Bagya Hartati, M.M.",Surabaya,Individual
+394,"Kariman Situmorang, S.E.I",Bekasi,Business
+395,"Drs. Suci Rahmawati, S.E.",Medan,Business
+396,"R.M. Ian Mardhiyah, S.Gz",Pekanbaru,Individual
+397,"Puti Padma Mangunsong, S.Pd",Malang,Individual
+398,Caraka Sinaga,Bekasi,Business
+399,"Genta Situmorang, M.TI.",Semarang,Individual
+400,Zulfa Hutapea,Jakarta,Individual
+401,Faizah Usada,Tangerang,Individual
+402,T. Budi Utami,Malang,Individual
+403,Raisa Nasyidah,Semarang,Individual
+404,Jefri Yuniar,Bandung,Individual
+405,Lega Prastuti,Palembang,Individual
+406,Cawisono Wahyuni,Bengkulu,Individual
+407,Ir. Jessica Pratiwi,Bogor,Individual
+408,Rudi Dabukke,Palembang,Individual
+409,Arsipatra Yuniar,Surabaya,Individual
+410,"Drs. Eman Yulianti, S.Kom",Bandung,Business
+411,"Drs. Hamzah Safitri, S.Ked",Bandung,Individual
+412,Sari Palastri,Surabaya,Business
+413,Syahrini Sihombing,Jambi,Individual
+414,Hesti Waskita,Palembang,Individual
+415,Mutia Hidayanto,Yogyakarta,Individual
+416,"Almira Manullang, M.M.",Lampung,Individual
+417,Novi Hariyah,Solo,Individual
+418,Ganep Sudiati,Solo,Individual
+419,Galar Simanjuntak,Solo,Individual
+420,"Zelda Situmorang, S.Sos",Jambi,Individual
+421,Prabawa Uwais,Padang,Individual
+422,Dr. Balamantri Simanjuntak,Batam,Individual
+423,Jaka Maheswara,Yogyakarta,Business
+424,Mila Prayoga,Palembang,Individual
+425,Bakti Hardiansyah,Bengkulu,Individual
+426,Kiandra Susanti,Sidoarjo,Business
+427,Hilda Manullang,Jakarta,Individual
+428,"dr. Ratih Sihotang, S.Kom",Palembang,Business
+429,"R.M. Jamil Mulyani, M.M.",Bandung,Individual
+430,Ina Mandasari,Semarang,Individual
+431,Bakijan Wijaya,Sidoarjo,Individual
+432,drg. Dimas Pratama,Tangerang,Individual
+433,dr. Alika Hardiansyah,Tangerang,Individual
+434,Nilam Riyanti,Surabaya,Individual
+435,"Hj. Samiah Halimah, S.Pd",Semarang,Business
+436,Dt. Slamet Kurniawan,Malang,Business
+437,Diana Saptono,Medan,Individual
+438,"Karimah Waskita, S.I.Kom",Yogyakarta,Individual
+439,Himawan Habibi,Palembang,Business
+440,Drs. Febi Tarihoran,Depok,Individual
+441,T. Bagya Winarno,Padang,Individual
+442,drg. Prakosa Pudjiastuti,Depok,Business
+443,Yunita Oktaviani,Malang,Individual
+444,"Lurhur Lazuardi, S.E.I",Bekasi,Individual
+445,Hartana Wahyudin,Tangerang,Individual
+446,"Tgk. Kalim Utama, S.E.I",Surabaya,Individual
+447,Luhung Melani,Bandung,Individual
+448,Olivia Gunarto,Pekanbaru,Business
+449,Aris Mandala,Depok,Business
+450,"Juli Kusmawati, M.TI.",Jakarta,Business
+451,Eka Sudiati,Pekanbaru,Individual
+452,R.M. Gamanto Suryatmi,Solo,Business
+453,Elisa Wijaya,Jambi,Individual
+454,Tgk. Rika Sirait,Tangerang,Business
+455,Dr. Kasiran Lestari,Padang,Individual
+456,"Padmi Salahudin, M.Kom.",Bogor,Individual
+457,"Cut Kartika Sitompul, S.IP",Semarang,Individual
+458,Restu Samosir,Semarang,Individual
+459,"H. Teddy Usamah, S.Ked",Palembang,Business
+460,Dr. Hani Yolanda,Padang,Business
+461,"KH. Labuh Permata, S.H.",Jambi,Individual
+462,"Anastasia Padmasari, M.Kom.",Malang,Individual
+463,Karna Usamah,Medan,Individual
+464,"Raina Wibowo, S.E.I",Batam,Individual
+465,"Hj. Hesti Firmansyah, M.Farm",Yogyakarta,Business
+466,"Carla Nainggolan, S.Ked",Depok,Individual
+467,Iriana Andriani,Medan,Business
+468,Hendri Putra,Lampung,Business
+469,Olivia Suryatmi,Batam,Individual
+470,Zizi Halim,Bengkulu,Individual
+471,"Dina Maryati, S.Kom",Pekanbaru,Individual
+472,Tgk. Mujur Kuswandari,Solo,Individual
+473,dr. Galar Natsir,Jakarta,Individual
+474,Patricia Siregar,Bekasi,Individual
+475,Tgk. Murti Zulaika,Yogyakarta,Individual
+476,"Rangga Saptono, M.Ak",Jambi,Individual
+477,Febi Prayoga,Semarang,Individual
+478,Puti Salahudin,Bekasi,Business
+479,Wardaya Salahudin,Yogyakarta,Business
+480,"T. Niyaga Pranowo, M.Kom.",Surabaya,Individual
+481,Natalia Tampubolon,Pekanbaru,Individual
+482,KH. Najam Saefullah,Yogyakarta,Individual
+483,Dewi Pertiwi,Bandung,Individual
+484,"Kenari Wibowo, S.Sos",Bengkulu,Individual
+485,"dr. Vera Maulana, S.Pd",Lampung,Individual
+486,Edward Hutapea,Bekasi,Individual
+487,Maimunah Yolanda,Padang,Individual
+488,Ulva Kuswandari,Sidoarjo,Individual
+489,Damar Nasyiah,Bengkulu,Business
+490,Putri Saputra,Padang,Individual
+491,Balangga Susanti,Cirebon,Individual
+492,"Rini Permadi, S.H.",Medan,Individual
+493,Mulyono Nuraini,Jambi,Individual
+494,Makuta Pradipta,Bengkulu,Individual
+495,Baktianto Zulkarnain,Semarang,Business
+496,Tina Halimah,Solo,Business
+497,Maman Mandala,Bogor,Business
+498,Yoga Pudjiastuti,Jambi,Business
+499,Hasim Yolanda,Depok,Business
+500,Natalia Yulianti,Padang,Individual
+501,Praba Suwarno,Cirebon,Individual
+502,Irma Yuliarti,Tangerang,Individual
+503,Umaya Irawan,Solo,Individual
+504,"Kemal Pradipta, M.Pd",Depok,Business
+505,"Tari Firgantoro, S.E.",Bogor,Individual
+506,Zalindra Nugroho,Medan,Individual
+507,Raihan Widodo,Bogor,Business
+508,"drg. Cengkir Siregar, S.Gz",Bogor,Individual
+509,Emin Purnawati,Cirebon,Individual
+510,Puti Juli Suryono,Padang,Individual
+511,Syahrini Palastri,Palembang,Individual
+512,drg. Tirtayasa Mansur,Yogyakarta,Individual
+513,"Drs. Nadia Saputra, S.Kom",Bogor,Individual
+514,"R. Gamblang Marpaung, M.M.",Medan,Individual
+515,"Edi Nashiruddin, S.Ked",Batam,Individual
+516,"Jessica Sihombing, M.Farm",Cirebon,Business
+517,"Praba Nababan, S.E.",Bengkulu,Individual
+518,Hj. Latika Aryani,Pekanbaru,Business
+519,Tgk. Bakianto Wacana,Jambi,Business
+520,"Bakiono Nashiruddin, S.E.I",Bekasi,Business
+521,Janet Prayoga,Batam,Individual
+522,Elon Winarno,Yogyakarta,Individual
+523,Ivan Santoso,Bogor,Individual
+524,Ilsa Padmasari,Malang,Individual
+525,"Queen Anggriawan, S.T.",Solo,Business
+526,"Gatra Prakasa, S.Gz",Bogor,Business
+527,"Banara Hastuti, S.Pd",Tangerang,Individual
+528,Halim Mardhiyah,Sidoarjo,Individual
+529,"Vera Saragih, S.IP",Semarang,Individual
+530,"Vero Sihombing, S.I.Kom",Pekanbaru,Individual
+531,R.A. Gawati Mansur,Sidoarjo,Individual
+532,Eva Hasanah,Semarang,Individual
+533,"Rachel Wahyudin, S.Farm",Bogor,Individual
+534,"Pia Halimah, M.Pd",Padang,Individual
+535,"Ir. Rudi Pratama, S.H.",Solo,Business
+536,"Perkasa Riyanti, S.Pt",Bandung,Individual
+537,drg. Karsana Tarihoran,Lampung,Individual
+538,Vero Pratiwi,Sidoarjo,Individual
+539,Aswani Pudjiastuti,Bogor,Individual
+540,Sutan Kemal Nasyiah,Sidoarjo,Business
+541,Catur Simbolon,Jambi,Individual
+542,"Drs. Maimunah Latupono, S.Kom",Batam,Business
+543,"Restu Lestari, S.Pt",Bengkulu,Individual
+544,drg. Rusman Hakim,Bekasi,Business
+545,Diah Mulyani,Tangerang,Individual
+546,Mutia Pratiwi,Bengkulu,Business
+547,Kurnia Hariyah,Bengkulu,Business
+548,"Respati Samosir, S.Ked",Pekanbaru,Business
+549,Hamima Adriansyah,Bekasi,Individual
+550,"Gasti Prastuti, S.Pt",Medan,Individual
+551,Indra Situmorang,Medan,Individual
+552,"Bella Namaga, S.Gz",Padang,Individual
+553,Warji Halimah,Bengkulu,Business
+554,Edison Wasita,Sidoarjo,Individual
+555,Pranawa Mansur,Batam,Individual
+556,"Ir. Omar Yuliarti, S.Farm",Palembang,Business
+557,Kezia Hassanah,Medan,Business
+558,"drg. Keisha Hutapea, M.Pd",Jakarta,Individual
+559,Martani Tampubolon,Batam,Individual
+560,Cemani Nasyiah,Bekasi,Individual
+561,Paris Mahendra,Yogyakarta,Individual
+562,"Genta Adriansyah, S.Ked",Depok,Individual
+563,Malika Wulandari,Bogor,Individual
+564,"Puji Anggraini, M.Pd",Yogyakarta,Business
+565,Yuni Pradana,Semarang,Individual
+566,Jagaraga Situmorang,Depok,Individual
+567,Enteng Nainggolan,Depok,Business
+568,"Vanesa Kusumo, S.Gz",Pekanbaru,Individual
+569,"Ir. Hari Susanti, S.Ked",Bandung,Individual
+570,Danang Hidayat,Padang,Individual
+571,Legawa Firmansyah,Semarang,Individual
+572,Rahayu Wulandari,Palembang,Business
+573,"Alika Prasasta, S.Gz",Pekanbaru,Business
+574,Maida Pradipta,Bengkulu,Individual
+575,Sutan Perkasa Hakim,Medan,Business
+576,Jefri Siregar,Malang,Business
+577,Rahman Permata,Yogyakarta,Individual
+578,Ratih Rahimah,Lampung,Individual
+579,"Ir. Reza Sinaga, S.H.",Jambi,Business
+580,Dinda Wijayanti,Surabaya,Individual
+581,Sutan Hendri Salahudin,Malang,Individual
+582,Almira Puspita,Bogor,Individual
+583,R. Sari Wastuti,Depok,Individual
+584,Puti Lailasari,Semarang,Individual
+585,Gangsar Yuniar,Padang,Individual
+586,"Harjaya Novitasari, S.Psi",Bekasi,Individual
+587,"Lidya Wasita, S.E.I",Pekanbaru,Business
+588,Keisha Nashiruddin,Yogyakarta,Individual
+589,"Dr. Jasmani Permadi, S.H.",Jambi,Individual
+590,Zamira Megantara,Bandung,Individual
+591,"drg. Vinsen Hakim, M.Pd",Batam,Individual
+592,Lidya Puspita,Batam,Individual
+593,R.M. Harsanto Prasasta,Pekanbaru,Individual
+594,Farhunnisa Sitompul,Padang,Business
+595,"Bahuwirya Hartati, S.I.Kom",Malang,Individual
+596,Kawaca Nainggolan,Semarang,Individual
+597,Embuh Waluyo,Solo,Individual
+598,"Lukita Suartini, S.Gz",Cirebon,Individual
+599,"Puti Fitriani Rahmawati, M.Pd",Sidoarjo,Individual
+600,Jatmiko Pranowo,Cirebon,Individual
+601,"dr. Ilsa Budiman, S.Kom",Lampung,Business
+602,Yono Lazuardi,Padang,Individual
+603,"Usyi Kuswandari, S.H.",Malang,Individual
+604,"Rahmi Putra, S.Sos",Solo,Individual
+605,Kusuma Sinaga,Lampung,Individual
+606,"T. Harjasa Hastuti, M.Pd",Pekanbaru,Business
+607,"Gatot Samosir, S.T.",Bekasi,Individual
+608,Oliva Mandasari,Solo,Individual
+609,Cinthia Halimah,Jambi,Individual
+610,"Tgk. Vinsen Putra, S.I.Kom",Sidoarjo,Individual
+611,Laras Gunawan,Medan,Individual
+612,R.A. Ulya Maulana,Padang,Individual
+613,Elon Puspasari,Padang,Business
+614,Ir. Tantri Agustina,Batam,Individual
+615,Eva Napitupulu,Pekanbaru,Individual
+616,Ghaliyati Wibowo,Yogyakarta,Business
+617,R.A. Najwa Pudjiastuti,Yogyakarta,Individual
+618,"Warsa Sirait, S.T.",Bengkulu,Individual
+619,"drg. Nyoman Yuniar, M.Kom.",Yogyakarta,Business
+620,Ella Thamrin,Semarang,Individual
+621,Cahyono Palastri,Bekasi,Individual
+622,Fitria Namaga,Jakarta,Business
+623,"Yusuf Halim, M.TI.",Semarang,Business
+624,Salman Hutagalung,Pekanbaru,Individual
+625,"Hj. Alika Ardianto, S.Farm",Jambi,Individual
+626,Saiful Usamah,Semarang,Individual
+627,Bagas Maryadi,Palembang,Individual
+628,Darimin Mayasari,Bekasi,Individual
+629,Kasiyah Halim,Pekanbaru,Individual
+630,Hj. Salwa Susanti,Solo,Individual
+631,Sakura Laksita,Depok,Business
+632,Adiarja Nasyidah,Malang,Individual
+633,dr. Adinata Budiyanto,Padang,Business
+634,H. Endra Nasyiah,Medan,Individual
+635,Anita Mardhiyah,Medan,Individual
+636,"Hj. Mala Nugroho, S.IP",Semarang,Individual
+637,Karna Maryadi,Bekasi,Individual
+638,Dadi Safitri,Lampung,Individual
+639,T. Rahman Thamrin,Medan,Business
+640,Wulan Widodo,Lampung,Business
+641,Hardi Waskita,Bengkulu,Individual
+642,Padmi Prasasta,Palembang,Business
+643,"Genta Salahudin, S.Pt",Pekanbaru,Business
+644,"Sidiq Yulianti, S.Gz",Bengkulu,Individual
+645,Halim Wibowo,Surabaya,Business
+646,Puspa Kusmawati,Yogyakarta,Individual
+647,Makuta Anggriawan,Batam,Individual
+648,"Ella Hutasoit, M.Kom.",Bengkulu,Individual
+649,"drg. Septi Sitompul, M.Farm",Tangerang,Individual
+650,"Puti Paris Gunarto, S.H.",Bengkulu,Individual
+651,Umay Purnawati,Depok,Individual
+652,Humaira Gunawan,Jakarta,Individual
+653,Mahdi Setiawan,Bandung,Individual
+654,Drs. Maryadi Firmansyah,Medan,Individual
+655,Wisnu Sihotang,Cirebon,Individual
+656,Yono Pranowo,Malang,Individual
+657,R. Umi Widodo,Bandung,Individual
+658,Eja Marpaung,Bengkulu,Individual
+659,R.A. Qori Wibisono,Solo,Individual
+660,"Usman Namaga, S.Psi",Depok,Individual
+661,Usyi Mandala,Solo,Individual
+662,"H. Nyoman Hutapea, M.TI.",Bekasi,Individual
+663,"Jelita Habibi, S.IP",Lampung,Individual
+664,Gina Hutagalung,Depok,Business
+665,Rahmi Susanti,Batam,Business
+666,drg. Vicky Simbolon,Bekasi,Business
+667,Mahesa Saputra,Semarang,Business
+668,"drg. Joko Pradana, S.I.Kom",Lampung,Individual
+669,dr. Ian Nashiruddin,Bengkulu,Individual
+670,"Lanang Wijayanti, S.Sos",Jambi,Business
+671,Prasetyo Safitri,Tangerang,Individual
+672,Wirda Prayoga,Cirebon,Individual
+673,"Belinda Hutasoit, S.T.",Surabaya,Business
+674,Harjasa Usada,Jakarta,Individual
+675,Okta Wibisono,Surabaya,Individual
+676,Karen Kurniawan,Jambi,Individual
+677,Adhiarja Samosir,Sidoarjo,Individual
+678,Karen Saputra,Yogyakarta,Business
+679,Cahyadi Irawan,Palembang,Individual
+680,Irfan Hassanah,Tangerang,Individual
+681,Dr. Kambali Wasita,Bengkulu,Individual
+682,Akarsana Irawan,Tangerang,Individual
+683,Puspa Iswahyudi,Solo,Business
+684,Ir. Violet Simbolon,Sidoarjo,Individual
+685,"drg. Amalia Siregar, S.Farm",Jambi,Individual
+686,Victoria Hutasoit,Bandung,Individual
+687,"Putri Prasasta, M.Farm",Surabaya,Individual
+688,R.M. Mahdi Wibowo,Sidoarjo,Individual
+689,Cahyono Santoso,Malang,Individual
+690,Hasna Lailasari,Jakarta,Individual
+691,Atma Marbun,Bogor,Business
+692,Ika Andriani,Solo,Individual
+693,Novi Hutagalung,Semarang,Business
+694,Hafshah Prayoga,Pekanbaru,Individual
+695,"Sari Lailasari, M.Ak",Tangerang,Business
+696,R.A. Michelle Kurniawan,Pekanbaru,Individual
+697,Gadang Ardianto,Jakarta,Individual
+698,Juli Safitri,Bengkulu,Individual
+699,Wani Sitompul,Padang,Individual
+700,Juli Astuti,Malang,Business
+701,"Hj. Rina Mansur, S.Pd",Yogyakarta,Individual
+702,Rahmi Pangestu,Jakarta,Individual
+703,Iriana Nugroho,Jambi,Business
+704,Jamalia Siregar,Yogyakarta,Business
+705,"Talia Usada, M.Kom.",Tangerang,Business
+706,R.A. Jane Waluyo,Sidoarjo,Individual
+707,Yuliana Wijaya,Palembang,Business
+708,Calista Pratiwi,Bandung,Business
+709,Lega Palastri,Palembang,Individual
+710,Mahmud Pudjiastuti,Bandung,Business
+711,Wawan Hariyah,Palembang,Individual
+712,"Fathonah Farida, S.Pd",Solo,Business
+713,"Puti Yuliana Wasita, M.Kom.",Jakarta,Individual
+714,Mahesa Sihombing,Jambi,Business
+715,Dono Wahyuni,Batam,Individual
+716,Nasrullah Anggraini,Medan,Individual
+717,"dr. Bagya Hassanah, M.Ak",Solo,Individual
+718,Restu Wacana,Cirebon,Business
+719,Dr. Virman Andriani,Medan,Business
+720,Dt. Paiman Tarihoran,Surabaya,Individual
+721,"Yessi Nasyiah, M.Ak",Solo,Individual
+722,"Vinsen Hutasoit, S.IP",Surabaya,Individual
+723,"Sutan Maryadi Widiastuti, S.I.Kom",Lampung,Individual
+724,Marsudi Suryatmi,Tangerang,Individual
+725,Kardi Yuliarti,Jakarta,Business
+726,"Marsudi Wacana, S.Psi",Surabaya,Individual
+727,"dr. Balamantri Anggriawan, S.IP",Lampung,Individual
+728,Gawati Melani,Bengkulu,Individual
+729,"Padma Puspita, M.Farm",Bengkulu,Individual
+730,"Ratih Prasetya, M.M.",Jambi,Business
+731,Kania Hariyah,Palembang,Individual
+732,"Ir. Lanjar Mardhiyah, S.E.I",Tangerang,Business
+733,Aisyah Laksmiwati,Padang,Business
+734,Ega Agustina,Batam,Business
+735,Bambang Megantara,Bandung,Individual
+736,Ira Siregar,Malang,Individual
+737,Violet Putra,Bengkulu,Individual
+738,drg. Gantar Kusmawati,Surabaya,Individual
+739,Ismail Hartati,Pekanbaru,Individual
+740,Betania Salahudin,Cirebon,Individual
+741,Rusman Latupono,Pekanbaru,Business
+742,Samsul Siregar,Solo,Business
+743,"Balangga Wastuti, S.E.",Pekanbaru,Business
+744,"Hesti Maryati, S.E.",Depok,Individual
+745,R.M. Gamblang Purwanti,Jambi,Business
+746,Malika Pradipta,Pekanbaru,Business
+747,"dr. Lasmono Nashiruddin, S.E.",Batam,Business
+748,"Maryadi Astuti, S.Sos",Pekanbaru,Individual
+749,Okto Susanti,Bengkulu,Individual
+750,Ihsan Rahayu,Bogor,Individual
+751,Kayla Ardianto,Tangerang,Individual
+752,"Gabriella Putra, S.T.",Jambi,Individual
+753,"H. Rusman Haryanto, M.Farm",Medan,Individual
+754,Raharja Nasyiah,Tangerang,Individual
+755,Ghani Simbolon,Tangerang,Individual
+756,Jagapati Latupono,Semarang,Business
+757,Salsabila Lestari,Bandung,Individual
+758,Ir. Galar Riyanti,Pekanbaru,Individual
+759,Rahmi Wijaya,Solo,Individual
+760,Puti Kamaria Thamrin,Cirebon,Individual
+761,"Dr. Raina Natsir, S.Pd",Palembang,Individual
+762,Ir. Chelsea Wulandari,Pekanbaru,Business
+763,Galar Lazuardi,Bengkulu,Individual
+764,Gaduh Latupono,Jambi,Individual
+765,Hardi Megantara,Palembang,Individual
+766,dr. Hari Riyanti,Tangerang,Business
+767,Kamal Winarno,Semarang,Business
+768,Fitria Laksita,Bandung,Business
+769,"Kawaya Yuliarti, S.E.",Jakarta,Individual
+770,R.M. Jindra Suwarno,Lampung,Individual
+771,Cengkir Sihotang,Palembang,Individual
+772,"Dr. Raina Habibi, S.I.Kom",Lampung,Individual
+773,Jayeng Mansur,Jambi,Individual
+774,Rahman Winarno,Bogor,Business
+775,Dr. Martani Lailasari,Malang,Individual
+776,Silvia Lestari,Batam,Individual
+777,Titin Handayani,Bekasi,Individual
+778,Eli Hutasoit,Semarang,Individual
+779,Cut Wulan Prasetya,Padang,Business
+780,Ami Saefullah,Palembang,Business
+781,Kawaya Suwarno,Bandung,Individual
+782,Purwadi Haryanti,Tangerang,Individual
+783,Dr. Pia Melani,Malang,Individual
+784,Kemal Latupono,Sidoarjo,Individual
+785,Vicky Palastri,Palembang,Individual
+786,"dr. Puput Gunarto, M.M.",Bogor,Individual
+787,Sutan Irwan Jailani,Depok,Business
+788,"Yance Yolanda, S.H.",Padang,Individual
+789,Ami Hartati,Bogor,Individual
+790,Kamaria Irawan,Solo,Individual
+791,Zelaya Lazuardi,Cirebon,Individual
+792,"KH. Dasa Pranowo, M.Farm",Malang,Business
+793,"Kamaria Suryatmi, S.Farm",Cirebon,Individual
+794,Latif Mandala,Medan,Business
+795,"Sutan Rahmat Putra, S.Gz",Jakarta,Individual
+796,dr. Patricia Setiawan,Bengkulu,Individual
+797,Drs. Ella Sinaga,Depok,Individual
+798,"Icha Siregar, M.Farm",Tangerang,Individual
+799,Zamira Mulyani,Yogyakarta,Individual
+800,"Rahman Kuswoyo, S.E.I",Cirebon,Individual
+801,"KH. Hendra Halim, S.T.",Batam,Business
+802,"Hj. Dian Mustofa, S.H.",Tangerang,Individual
+803,Narji Sinaga,Medan,Individual
+804,"R.A. Vanya Wastuti, S.Sos",Medan,Individual
+805,Dinda Permata,Pekanbaru,Individual
+806,"Embuh Utami, S.Farm",Bogor,Individual
+807,Mila Hutagalung,Palembang,Business
+808,"Putu Iswahyudi, S.Sos",Bengkulu,Individual
+809,H. Estiawan Uwais,Solo,Individual
+810,Nova Simbolon,Bekasi,Business
+811,Cut Vicky Iswahyudi,Yogyakarta,Individual
+812,"Michelle Usada, S.I.Kom",Pekanbaru,Individual
+813,"Puti Wulan Nasyidah, S.Sos",Padang,Business
+814,Ikhsan Prabowo,Cirebon,Individual
+815,Hasna Sinaga,Sidoarjo,Individual
+816,"Tgk. Jessica Pudjiastuti, M.Farm",Semarang,Individual
+817,Karya Laksita,Semarang,Individual
+818,"Tgk. Tugiman Zulaika, S.Gz",Batam,Individual
+819,Baktiadi Utami,Bogor,Business
+820,"drg. Agus Maheswara, S.E.",Jakarta,Individual
+821,Mutia Adriansyah,Batam,Individual
+822,Farah Mustofa,Bekasi,Individual
+823,"Gada Manullang, S.T.",Tangerang,Individual
+824,Marwata Tarihoran,Batam,Individual
+825,Chelsea Wahyudin,Depok,Individual
+826,"Unggul Yulianti, S.E.",Batam,Business
+827,Harto Utami,Bekasi,Business
+828,Tari Pradipta,Jambi,Individual
+829,Safina Iswahyudi,Bengkulu,Business
+830,"Cinta Adriansyah, S.Kom",Malang,Business
+831,Citra Mustofa,Bogor,Business
+832,R.A. Padma Zulaika,Tangerang,Individual
+833,Ajeng Anggriawan,Surabaya,Individual
+834,"Jasmin Lazuardi, S.Farm",Padang,Individual
+835,"Diah Kuswandari, S.Pt",Yogyakarta,Individual
+836,Harjo Irawan,Cirebon,Individual
+837,"Yani Jailani, S.IP",Malang,Business
+838,Kartika Salahudin,Medan,Individual
+839,Harjaya Mansur,Surabaya,Individual
+840,"Murti Megantara, S.Pt",Tangerang,Individual
+841,Drs. Adika Suryatmi,Palembang,Business
+842,"Catur Farida, S.I.Kom",Surabaya,Individual
+843,"Gabriella Utami, S.E.I",Palembang,Business
+844,Raisa Handayani,Bogor,Business
+845,"R.A. Clara Januar, S.E.I",Semarang,Individual
+846,"R. Lanjar Winarno, S.I.Kom",Bekasi,Individual
+847,Iriana Mandala,Yogyakarta,Individual
+848,Enteng Yuliarti,Yogyakarta,Business
+849,Drajat Puspasari,Jakarta,Business
+850,Ir. Tantri Sudiati,Batam,Individual
+851,Victoria Dongoran,Sidoarjo,Individual
+852,"Hj. Ilsa Putra, M.TI.",Medan,Individual
+853,Drs. Fitriani Wijaya,Medan,Individual
+854,Septi Habibi,Malang,Business
+855,"KH. Xanana Permadi, M.Kom.",Bogor,Individual
+856,Carla Permadi,Jambi,Individual
+857,Suci Riyanti,Malang,Individual
+858,Karsana Budiman,Semarang,Individual
+859,Jamalia Mustofa,Sidoarjo,Individual
+860,Zelda Purnawati,Surabaya,Business
+861,Karimah Palastri,Semarang,Individual
+862,"Cawuk Halimah, S.Pt",Pekanbaru,Individual
+863,Langgeng Hidayat,Depok,Individual
+864,Eluh Pratama,Malang,Business
+865,Virman Halim,Lampung,Individual
+866,"dr. Jono Suwarno, M.TI.",Depok,Business
+867,"dr. Indra Wacana, S.Pt",Yogyakarta,Business
+868,"Kawaca Nasyiah, M.Ak",Yogyakarta,Individual
+869,Estiawan Hutasoit,Malang,Individual
+870,Cindy Melani,Tangerang,Business
+871,Respati Mangunsong,Padang,Individual
+872,Tgk. Hartaka Rahmawati,Jambi,Individual
+873,"Prabowo Yulianti, S.Pt",Solo,Business
+874,Tami Fujiati,Yogyakarta,Individual
+875,"Zulfa Permadi, S.Gz",Cirebon,Individual
+876,Bakianto Fujiati,Padang,Business
+877,Jaeman Suryatmi,Batam,Individual
+878,Cut Ira Widiastuti,Bandung,Individual
+879,"Sakura Natsir, S.IP",Batam,Individual
+880,Nugraha Mandala,Bengkulu,Individual
+881,"Ajeng Marpaung, M.Kom.",Palembang,Individual
+882,Putri Maryati,Medan,Individual
+883,"H. Eka Marbun, S.I.Kom",Batam,Individual
+884,Pangestu Santoso,Surabaya,Individual
+885,"Devi Dabukke, S.Psi",Bandung,Individual
+886,"dr. Empluk Novitasari, S.Pt",Batam,Business
+887,Tania Permata,Surabaya,Business
+888,"Bahuwarna Mandasari, M.M.",Bogor,Individual
+889,Tgk. Asman Mandasari,Batam,Individual
+890,"Ir. Eli Uwais, S.E.",Bengkulu,Individual
+891,Vera Jailani,Yogyakarta,Individual
+892,Hj. Tari Latupono,Semarang,Business
+893,Opung Melani,Bengkulu,Individual
+894,Artawan Budiman,Padang,Individual
+895,Arsipatra Halimah,Bengkulu,Business
+896,Kiandra Maryadi,Bekasi,Individual
+897,Wadi Firgantoro,Cirebon,Individual
+898,KH. Vino Yolanda,Tangerang,Business
+899,Genta Sinaga,Palembang,Business
+900,Hamzah Simanjuntak,Batam,Individual
+901,Yunita Hutagalung,Solo,Individual
+902,dr. Devi Mardhiyah,Jambi,Business
+903,"Umay Habibi, S.E.",Semarang,Individual
+904,Rangga Maryati,Jakarta,Individual
+905,Xanana Wacana,Lampung,Individual
+906,Tomi Hastuti,Batam,Individual
+907,"Tgk. Vicky Saragih, S.Psi",Batam,Business
+908,Kadir Hasanah,Sidoarjo,Individual
+909,Gading Pangestu,Lampung,Business
+910,Padmi Sihombing,Semarang,Business
+911,"Sarah Prasasta, M.M.",Surabaya,Individual
+912,Rika Lailasari,Tangerang,Individual
+913,"KH. Daliman Palastri, S.H.",Padang,Individual
+914,Adiarja Wasita,Cirebon,Individual
+915,Daruna Namaga,Bogor,Individual
+916,Siska Anggriawan,Malang,Individual
+917,Ade Wahyuni,Yogyakarta,Individual
+918,Zizi Samosir,Pekanbaru,Individual
+919,Danang Nuraini,Solo,Business
+920,Hari Lestari,Medan,Business
+921,Caket Setiawan,Depok,Individual
+922,Artawan Pradipta,Bengkulu,Individual
+923,"Drs. Laras Wahyudin, M.M.",Bandung,Individual
+924,"Chelsea Prastuti, S.IP",Surabaya,Individual
+925,R.M. Makuta Wijaya,Lampung,Business
+926,Lega Purnawati,Sidoarjo,Individual
+927,Ibrahim Wijayanti,Cirebon,Individual
+928,Dasa Siregar,Bekasi,Individual
+929,Zizi Sihotang,Semarang,Business
+930,"dr. Naradi Simbolon, S.Psi",Jakarta,Individual
+931,Humaira Pradipta,Padang,Business
+932,Warsa Pangestu,Yogyakarta,Business
+933,Purwadi Padmasari,Tangerang,Business
+934,Chandra Kurniawan,Semarang,Business
+935,Ihsan Hastuti,Bogor,Individual
+936,Laila Lazuardi,Bandung,Individual
+937,Tgk. Yoga Pranowo,Semarang,Individual
+938,Ina Hariyah,Malang,Individual
+939,Zulaikha Lazuardi,Bogor,Individual
+940,Candrakanta Sihombing,Padang,Business
+941,"Ir. Azalea Pratama, S.Psi",Bandung,Individual
+942,Bakijan Prayoga,Batam,Individual
+943,Lala Mulyani,Solo,Individual
+944,Murti Salahudin,Cirebon,Individual
+945,Yuliana Natsir,Depok,Individual
+946,Wawan Waskita,Malang,Individual
+947,"Dr. Puti Pudjiastuti, S.H.",Bandung,Business
+948,Jail Jailani,Lampung,Individual
+949,"KH. Cahyono Maheswara, S.Ked",Bandung,Individual
+950,Radika Prasetya,Bogor,Individual
+951,Dalimin Wacana,Bekasi,Individual
+952,Silvia Usamah,Jakarta,Individual
+953,"Bakiadi Padmasari, M.Farm",Bengkulu,Individual
+954,Yulia Hutagalung,Batam,Individual
+955,Atmaja Napitupulu,Cirebon,Business
+956,"Ibun Mahendra, S.Pt",Depok,Individual
+957,"dr. Dewi Gunarto, M.M.",Bogor,Individual
+958,Cawisadi Pertiwi,Jambi,Individual
+959,Yuni Widodo,Pekanbaru,Individual
+960,Ana Wibowo,Pekanbaru,Business
+961,"Irsad Natsir, S.I.Kom",Lampung,Individual
+962,Upik Nashiruddin,Semarang,Individual
+963,Indah Hassanah,Bogor,Individual
+964,Anom Susanti,Pekanbaru,Business
+965,Ir. Hesti Yuliarti,Bandung,Business
+966,Najwa Zulkarnain,Tangerang,Business
+967,drg. Aswani Irawan,Lampung,Individual
+968,Kiandra Mandala,Cirebon,Individual
+969,Farah Yuniar,Sidoarjo,Individual
+970,"Dr. Drajat Usamah, M.Pd",Malang,Business
+971,"Dt. Harjaya Tamba, M.Kom.",Sidoarjo,Individual
+972,KH. Jayeng Situmorang,Malang,Individual
+973,Drs. Janet Wibisono,Medan,Business
+974,Elvina Dongoran,Medan,Individual
+975,Rina Prasetya,Bandung,Individual
+976,Umar Setiawan,Semarang,Business
+977,Rusman Halimah,Batam,Individual
+978,Tgk. Pranata Padmasari,Cirebon,Individual
+979,Capa Januar,Palembang,Individual
+980,Maryadi Permadi,Cirebon,Individual
+981,Patricia Hakim,Jakarta,Business
+982,"Sutan Kamal Wibisono, S.I.Kom",Depok,Individual
+983,"R. Elma Prakasa, M.Farm",Bengkulu,Business
+984,Yani Tamba,Padang,Individual
+985,Cut Tiara Thamrin,Palembang,Individual
+986,Ir. Dinda Pratiwi,Semarang,Business
+987,Raihan Lailasari,Tangerang,Individual
+988,T. Cayadi Lestari,Batam,Individual
+989,Bakijan Hakim,Yogyakarta,Individual
+990,Luhung Prasetya,Yogyakarta,Individual
+991,Karsa Kuswandari,Bekasi,Individual
+992,Gamblang Susanti,Tangerang,Individual
+993,Reksa Mustofa,Solo,Individual
+994,Tina Nugroho,Pekanbaru,Business
+995,"Tgk. Asmuni Damanik, S.E.I",Tangerang,Individual
+996,R. Vicky Kusumo,Tangerang,Individual
+997,"Drs. Zelda Utama, S.Pt",Yogyakarta,Business
+998,Tiara Wijayanti,Bandung,Individual
+999,Rini Januar,Tangerang,Business
+1000,Ilsa Sinaga,Jakarta,Business
+1001,Candrakanta Fujiati,Padang,Individual
+1002,"Ir. Yosef Laksita, S.Psi",Tangerang,Individual
+1003,Nugraha Purwanti,Bekasi,Individual
+1004,"Raisa Tamba, S.H.",Surabaya,Individual
+1005,"Lanjar Natsir, S.Sos",Palembang,Individual
+1006,Uchita Sihombing,Bogor,Individual
+1007,Cecep Adriansyah,Jakarta,Business
+1008,"Queen Wijaya, M.Farm",Medan,Individual
+1009,Cemplunk Suartini,Cirebon,Individual
+1010,Yessi Suryatmi,Depok,Individual
+1011,Manah Pratiwi,Lampung,Business
+1012,Waluyo Mandasari,Pekanbaru,Individual
+1013,Gamblang Hutagalung,Malang,Individual
+1014,Ganjaran Simanjuntak,Cirebon,Individual
+1015,Makara Irawan,Depok,Individual
+1016,"Hj. Suci Sitorus, M.M.",Surabaya,Individual
+1017,Eman Pranowo,Cirebon,Business
+1018,Mustofa Hidayat,Jambi,Individual
+1019,Hamima Kurniawan,Medan,Business
+1020,"Ade Hardiansyah, S.Sos",Malang,Business
+1021,Uchita Andriani,Solo,Business
+1022,Tasdik Zulkarnain,Bogor,Individual
+1023,Keisha Tampubolon,Palembang,Individual
+1024,dr. Baktianto Kuswandari,Bengkulu,Individual
+1025,"Drs. Martana Prasetyo, S.E.",Lampung,Business
+1026,Belinda Firmansyah,Bandung,Individual
+1027,Ayu Simanjuntak,Bekasi,Individual
+1028,Ciaobella Hidayanto,Bengkulu,Individual
+1029,Ella Waluyo,Bekasi,Individual
+1030,Opan Hutagalung,Palembang,Individual
+1031,R. Gandi Riyanti,Medan,Individual
+1032,Dr. Tiara Dabukke,Padang,Business
+1033,Safina Marbun,Lampung,Individual
+1034,drg. Endah Habibi,Medan,Business
+1035,Gamblang Putra,Bogor,Individual
+1036,Hasan Puspasari,Semarang,Business
+1037,"Titi Namaga, S.T.",Tangerang,Business
+1038,"Eko Salahudin, S.H.",Bandung,Individual
+1039,Asirwanda Wijaya,Lampung,Individual
+1040,Drs. Zaenab Lestari,Palembang,Individual
+1041,Asmadi Tarihoran,Bogor,Business
+1042,Irsad Irawan,Yogyakarta,Individual
+1043,Yuni Wijayanti,Jambi,Individual
+1044,"Limar Kuswandari, S.Kom",Lampung,Individual
+1045,Akarsana Putra,Tangerang,Individual
+1046,Makuta Siregar,Palembang,Individual
+1047,Jasmani Latupono,Depok,Individual
+1048,Violet Widodo,Batam,Individual
+1049,Nurul Wijayanti,Bengkulu,Individual
+1050,Cornelia Yuniar,Semarang,Individual
+1051,dr. Cengkal Uwais,Medan,Individual
+1052,Kartika Nashiruddin,Cirebon,Business
+1053,Aurora Saptono,Malang,Individual
+1054,Nadia Saptono,Lampung,Individual
+1055,Raihan Santoso,Pekanbaru,Individual
+1056,Cut Eka Widiastuti,Cirebon,Business
+1057,Bakiadi Winarsih,Jambi,Individual
+1058,Yani Namaga,Medan,Individual
+1059,Usyi Rahmawati,Jakarta,Business
+1060,Kadir Halim,Bandung,Individual
+1061,"drg. Yuliana Nurdiyanti, S.Farm",Bengkulu,Business
+1062,Ir. Sakti Kusmawati,Malang,Individual
+1063,R.A. Nabila Salahudin,Sidoarjo,Individual
+1064,Harto Firmansyah,Pekanbaru,Individual
+1065,Drs. Umay Maryati,Surabaya,Individual
+1066,"Drs. Murti Safitri, S.E.I",Bogor,Individual
+1067,Wasis Hassanah,Medan,Individual
+1068,Warta Marbun,Cirebon,Business
+1069,Respati Nababan,Padang,Individual
+1070,Artanto Anggraini,Palembang,Business
+1071,Mahmud Fujiati,Solo,Individual
+1072,Ridwan Utami,Solo,Individual
+1073,Rafid Riyanti,Palembang,Individual
+1074,Jamalia Hidayat,Sidoarjo,Individual
+1075,Harsanto Puspita,Malang,Individual
+1076,Puspa Simbolon,Malang,Individual
+1077,"Tgk. Putri Haryanti, S.Ked",Batam,Business
+1078,"H. Leo Rahmawati, M.TI.",Bandung,Individual
+1079,"dr. Balidin Agustina, S.E.I",Medan,Individual
+1080,Kasim Rahmawati,Bandung,Business
+1081,Puti Cici Pratiwi,Bogor,Individual
+1082,"R. Panji Suwarno, M.Pd",Bogor,Business
+1083,Laras Saptono,Semarang,Individual
+1084,Safina Laksita,Jakarta,Individual
+1085,Ir. Nabila Firgantoro,Cirebon,Individual
+1086,Enteng Waskita,Sidoarjo,Business
+1087,Lasmanto Sudiati,Palembang,Individual
+1088,"Marsito Wacana, S.Gz",Depok,Business
+1089,Julia Prakasa,Depok,Business
+1090,Panca Kusmawati,Bengkulu,Individual
+1091,Kasiyah Damanik,Bogor,Business
+1092,Yuliana Sihombing,Bogor,Business
+1093,Indah Lestari,Yogyakarta,Individual
+1094,"Hj. Cinthia Pradana, S.E.I",Surabaya,Business
+1095,Uli Handayani,Padang,Individual
+1096,"Tgk. Embuh Agustina, M.Ak",Tangerang,Individual
+1097,"Bakidin Nainggolan, M.M.",Bandung,Business
+1098,Vino Wasita,Bekasi,Individual
+1099,"Nova Maryati, S.I.Kom",Jambi,Individual
+1100,"Cut Oliva Manullang, S.Pt",Surabaya,Individual
+1101,Titin Mayasari,Bekasi,Individual
+1102,Diana Novitasari,Pekanbaru,Individual
+1103,Cut Ellis Nababan,Padang,Individual
+1104,"R.A. Zalindra Hakim, S.H.",Jambi,Individual
+1105,Jaga Hardiansyah,Sidoarjo,Individual
+1106,Tiara Napitupulu,Sidoarjo,Business
+1107,Kartika Hariyah,Padang,Business
+1108,dr. Makara Maheswara,Depok,Business
+1109,"Among Permadi, S.I.Kom",Tangerang,Individual
+1110,Rina Hassanah,Jakarta,Individual
+1111,Yosef Kusmawati,Bandung,Individual
+1112,Drs. Kamaria Situmorang,Tangerang,Business
+1113,Raihan Rajata,Yogyakarta,Business
+1114,"Yance Iswahyudi, S.Pd",Batam,Individual
+1115,Harsana Hardiansyah,Palembang,Business
+1116,Sabar Pertiwi,Batam,Individual
+1117,"Sutan Sabri Prasetya, S.H.",Bekasi,Business
+1118,"Danang Santoso, S.Farm",Bekasi,Business
+1119,Dt. Saka Zulaika,Yogyakarta,Individual
+1120,Jasmani Mustofa,Semarang,Business
+1121,"Cawuk Rahimah, S.Ked",Jambi,Individual
+1122,Dono Sudiati,Jambi,Individual
+1123,"T. Narji Yuniar, S.T.",Bogor,Individual
+1124,Keisha Tampubolon,Batam,Individual
+1125,Hafshah Pratama,Pekanbaru,Individual
+1126,Ilsa Wastuti,Semarang,Individual
+1127,Drs. Hasta Padmasari,Surabaya,Individual
+1128,Adiarja Melani,Surabaya,Individual
+1129,"Saiful Wahyudin, M.Pd",Bogor,Individual
+1130,"Legawa Sudiati, S.Pd",Semarang,Individual
+1131,Silvia Kurniawan,Depok,Business
+1132,Bella Sirait,Bandung,Business
+1133,Suci Simbolon,Bengkulu,Individual
+1134,"Tgk. Hana Yolanda, S.Pd",Padang,Individual
+1135,Cakrawala Maryati,Bengkulu,Business
+1136,"Sutan Uda Hakim, M.Ak",Malang,Individual
+1137,Salimah Simanjuntak,Depok,Individual
+1138,"Cahyono Dongoran, M.Kom.",Bekasi,Individual
+1139,Hana Andriani,Jambi,Individual
+1140,Kayla Firgantoro,Batam,Individual
+1141,Ir. Yulia Nainggolan,Semarang,Business
+1142,Tari Prasetya,Malang,Business
+1143,"Kasusra Uyainah, M.Kom.",Semarang,Business
+1144,"Gatot Mayasari, S.Pd",Yogyakarta,Business
+1145,"R. Zaenab Wahyuni, M.Pd",Sidoarjo,Business
+1146,Emil Kuswoyo,Yogyakarta,Business
+1147,Dian Rajata,Batam,Individual
+1148,"Yani Purwanti, S.E.",Solo,Business
+1149,"Uda Sitorus, S.Pt",Semarang,Business
+1150,Garang Prasetyo,Bengkulu,Individual
+1151,"Ina Andriani, S.Psi",Bogor,Individual
+1152,Hana Padmasari,Depok,Business
+1153,Malika Lazuardi,Bandung,Business
+1154,Anastasia Usada,Tangerang,Individual
+1155,Ir. Raina Hidayanto,Depok,Individual
+1156,Febi Mardhiyah,Cirebon,Individual
+1157,Taswir Zulaika,Jambi,Individual
+1158,Paris Salahudin,Bengkulu,Individual
+1159,Anastasia Maryadi,Cirebon,Individual
+1160,Daliono Siregar,Batam,Individual
+1161,Qori Haryanti,Tangerang,Individual
+1162,Galih Najmudin,Bandung,Individual
+1163,"R. Jinawi Sitorus, S.E.",Bekasi,Individual
+1164,Siska Hakim,Jakarta,Individual
+1165,Jabal Saefullah,Bekasi,Business
+1166,Prabawa Narpati,Cirebon,Individual
+1167,R. Nurul Irawan,Tangerang,Individual
+1168,Luwes Fujiati,Padang,Individual
+1169,"Ikhsan Waskita, S.Farm",Jambi,Business
+1170,Kiandra Ardianto,Surabaya,Individual
+1171,Kasusra Pangestu,Cirebon,Business
+1172,"Kasiyah Budiman, S.Psi",Lampung,Individual
+1173,"Dr. Dadap Budiyanto, S.Ked",Jakarta,Individual
+1174,"Oskar Prayoga, S.H.",Lampung,Individual
+1175,"Jelita Saragih, S.E.I",Semarang,Individual
+1176,Harjo Mardhiyah,Batam,Business
+1177,Tgk. Eli Haryanto,Surabaya,Individual
+1178,"Cut Ifa Siregar, M.M.",Jakarta,Business
+1179,"Putri Riyanti, M.TI.",Semarang,Individual
+1180,Maya Mansur,Batam,Business
+1181,Nurul Tamba,Jakarta,Business
+1182,"Sutan Catur Waskita, S.Ked",Batam,Individual
+1183,Darmana Mustofa,Yogyakarta,Business
+1184,Oskar Damanik,Malang,Individual
+1185,Drs. Ella Maheswara,Solo,Business
+1186,Tania Yulianti,Surabaya,Business
+1187,"Dt. Harimurti Uyainah, S.T.",Solo,Individual
+1188,"Dr. Leo Hardiansyah, M.Ak",Depok,Business
+1189,Mitra Kurniawan,Semarang,Individual
+1190,"Raihan Damanik, S.Gz",Bandung,Business
+1191,"Calista Agustina, M.M.",Batam,Individual
+1192,Dewi Pudjiastuti,Bogor,Individual
+1193,Nabila Mangunsong,Surabaya,Business
+1194,Marsito Usamah,Batam,Individual
+1195,Gada Andriani,Jambi,Individual
+1196,"Baktianto Wijayanti, M.TI.",Jakarta,Individual
+1197,Sarah Sudiati,Bengkulu,Individual
+1198,"Dina Andriani, S.IP",Palembang,Individual
+1199,H. Lasmanto Lazuardi,Jakarta,Individual
+1200,Calista Kurniawan,Pekanbaru,Individual
+1201,Faizah Sudiati,Jakarta,Individual
+1202,Prayogo Saptono,Solo,Individual
+1203,"Drs. Farah Tamba, S.Farm",Yogyakarta,Individual
+1204,Elisa Gunarto,Lampung,Individual
+1205,drg. Viktor Pranowo,Jakarta,Individual
+1206,"Novi Sitompul, S.H.",Bekasi,Individual
+1207,Adinata Winarsih,Pekanbaru,Business
+1208,Umaya Kusumo,Jambi,Individual
+1209,"Ir. Salsabila Lailasari, S.E.I",Sidoarjo,Business
+1210,Purwadi Melani,Tangerang,Business
+1211,Nyoman Januar,Depok,Individual
+1212,Syahrini Pradipta,Malang,Individual
+1213,Ida Saptono,Tangerang,Business
+1214,Alika Januar,Jambi,Individual
+1215,"R. Azalea Siregar, S.I.Kom",Cirebon,Individual
+1216,"Ir. Galar Aryani, S.IP",Surabaya,Individual
+1217,Soleh Gunawan,Surabaya,Individual
+1218,Simon Mandala,Depok,Individual
+1219,"Marsudi Narpati, S.Psi",Medan,Individual
+1220,Maida Oktaviani,Lampung,Business
+1221,Uchita Iswahyudi,Tangerang,Individual
+1222,Yulia Siregar,Palembang,Individual
+1223,Balijan Wacana,Surabaya,Individual
+1224,Mutia Saputra,Bengkulu,Individual
+1225,"drg. Shakila Kuswandari, S.Farm",Surabaya,Individual
+1226,"Timbul Marbun, S.IP",Depok,Individual
+1227,Mursinin Halim,Solo,Individual
+1228,"R. Ciaobella Agustina, M.Farm",Semarang,Individual
+1229,Wani Purnawati,Bandung,Business
+1230,"Ismail Najmudin, M.Ak",Jakarta,Individual
+1231,Victoria Tamba,Depok,Individual
+1232,Cut Zelda Mustofa,Batam,Business
+1233,Nova Kusumo,Semarang,Business
+1234,Maida Gunawan,Padang,Individual
+1235,Elon Yolanda,Cirebon,Individual
+1236,Amalia Wastuti,Bekasi,Individual
+1237,KH. Paiman Permata,Semarang,Business
+1238,"Padmi Prasetyo, S.Psi",Depok,Individual
+1239,Dr. Malik Safitri,Padang,Individual
+1240,Ian Wijayanti,Malang,Business
+1241,"Hilda Laksmiwati, S.I.Kom",Cirebon,Individual
+1242,"Murti Yuniar, S.Sos",Sidoarjo,Individual
+1243,Salman Puspita,Bengkulu,Business
+1244,Cut Ajeng Yuniar,Lampung,Individual
+1245,Johan Halimah,Tangerang,Individual
+1246,"Dr. Eli Hutagalung, M.Kom.",Batam,Individual
+1247,Halima Sitompul,Cirebon,Individual
+1248,Alika Mayasari,Tangerang,Individual
+1249,Kunthara Yuniar,Jambi,Individual
+1250,Latika Prakasa,Bekasi,Individual
+1251,Jagaraga Handayani,Lampung,Business
+1252,"Drs. Ikin Irawan, M.Kom.",Lampung,Individual
+1253,Iriana Lazuardi,Jakarta,Individual
+1254,Uli Yolanda,Yogyakarta,Individual
+1255,Baktiono Waskita,Bandung,Individual
+1256,Ani Puspita,Sidoarjo,Business
+1257,Dt. Rudi Iswahyudi,Jakarta,Individual
+1258,"Drs. Yoga Safitri, S.Pd",Sidoarjo,Individual
+1259,Dr. Danang Yolanda,Depok,Business
+1260,"Jaga Siregar, S.I.Kom",Batam,Individual
+1261,"Cut Yuliana Prasetyo, M.M.",Padang,Business
+1262,Putri Safitri,Surabaya,Individual
+1263,Dr. Tina Wahyuni,Jakarta,Individual
+1264,Tina Hartati,Pekanbaru,Individual
+1265,Bakti Wahyuni,Pekanbaru,Individual
+1266,Ade Siregar,Tangerang,Individual
+1267,Yance Usada,Medan,Individual
+1268,"T. Kuncara Nurdiyanti, S.I.Kom",Cirebon,Business
+1269,"Cici Gunawan, S.E.",Jakarta,Business
+1270,Dina Wasita,Tangerang,Individual
+1271,Dodo Suryatmi,Bengkulu,Individual
+1272,Dacin Lazuardi,Medan,Individual
+1273,"drg. Gasti Haryanti, S.Kom",Malang,Individual
+1274,"Jessica Kurniawan, S.Farm",Semarang,Individual
+1275,Wira Usada,Medan,Business
+1276,"Hj. Rini Maheswara, M.M.",Sidoarjo,Business
+1277,Sakura Rahmawati,Medan,Individual
+1278,R.M. Yoga Mandasari,Padang,Individual
+1279,Karta Hardiansyah,Bekasi,Individual
+1280,dr. Salman Padmasari,Semarang,Individual
+1281,Oni Nugroho,Jakarta,Business
+1282,"Ratna Natsir, S.E.I",Pekanbaru,Individual
+1283,Harsanto Wahyuni,Jakarta,Business
+1284,Ir. Janet Mayasari,Bengkulu,Individual
+1285,Lili Sudiati,Yogyakarta,Business
+1286,"Vanesa Prayoga, S.T.",Bengkulu,Business
+1287,Jasmin Sihombing,Surabaya,Business
+1288,Yani Mansur,Jambi,Individual
+1289,Hendri Suartini,Semarang,Individual
+1290,"Ulva Mulyani, S.Pd",Semarang,Business
+1291,"Drs. Zelda Sihotang, M.Pd",Depok,Individual
+1292,"Darimin Pangestu, S.Kom",Bengkulu,Business
+1293,Tgk. Silvia Situmorang,Jambi,Business
+1294,"Cahyadi Yulianti, S.E.",Padang,Individual
+1295,Dr. Marsito Uyainah,Yogyakarta,Individual
+1296,Titin Latupono,Depok,Individual
+1297,"Tgk. Kanda Kuswandari, M.Farm",Bekasi,Individual
+1298,Hj. Titin Agustina,Cirebon,Individual
+1299,"Pangeran Nasyidah, S.Pd",Tangerang,Individual
+1300,"drg. Yani Budiman, M.TI.",Padang,Individual
+1301,Ajiono Wibowo,Tangerang,Business
+1302,Asmadi Winarsih,Depok,Business
+1303,Daliono Santoso,Palembang,Business
+1304,"KH. Caraka Suwarno, S.T.",Surabaya,Individual
+1305,Salman Halim,Tangerang,Individual
+1306,"Violet Sihombing, S.Kom",Yogyakarta,Individual
+1307,"Dr. Anggabaya Tamba, M.M.",Pekanbaru,Individual
+1308,Latif Wulandari,Solo,Individual
+1309,"Putri Prasetyo, M.Pd",Cirebon,Business
+1310,Gilda Melani,Bengkulu,Business
+1311,"KH. Raditya Suwarno, S.Gz",Malang,Business
+1312,Kayla Agustina,Jakarta,Individual
+1313,"Ir. Galar Puspasari, S.Gz",Medan,Business
+1314,Paiman Ramadan,Batam,Individual
+1315,Lukman Handayani,Depok,Individual
+1316,"R.A. Siska Yuliarti, S.I.Kom",Batam,Individual
+1317,"Drs. Kenes Suartini, S.Kom",Tangerang,Individual
+1318,"H. Yoga Nababan, S.Pd",Medan,Individual
+1319,Elma Zulaika,Lampung,Individual
+1320,Cengkir Natsir,Batam,Individual
+1321,"Oliva Lazuardi, S.Sos",Bogor,Business
+1322,Ikhsan Setiawan,Tangerang,Individual
+1323,T. Cager Marpaung,Jakarta,Individual
+1324,Tgk. Agnes Sitompul,Depok,Individual
+1325,Titin Mangunsong,Depok,Individual
+1326,Candra Sinaga,Sidoarjo,Individual
+1327,Cut Vicky Utami,Padang,Business
+1328,Hj. Ilsa Lestari,Bandung,Individual
+1329,"Drs. Kunthara Tamba, S.Pt",Lampung,Individual
+1330,"H. Galiono Novitasari, S.H.",Cirebon,Individual
+1331,Karma Hidayat,Bekasi,Individual
+1332,"Dr. Capa Agustina, M.Pd",Cirebon,Individual
+1333,dr. Bakiman Tampubolon,Yogyakarta,Business
+1334,Tasdik Prabowo,Surabaya,Individual
+1335,"Gamblang Sitompul, S.I.Kom",Cirebon,Business
+1336,Gasti Safitri,Jakarta,Individual
+1337,drg. Kanda Yulianti,Cirebon,Business
+1338,Balijan Winarsih,Surabaya,Individual
+1339,Melinda Permadi,Bengkulu,Individual
+1340,"Luwes Oktaviani, S.H.",Solo,Individual
+1341,Mahmud Sinaga,Tangerang,Individual
+1342,Wulan Latupono,Jakarta,Individual
+1343,Hamima Namaga,Solo,Individual
+1344,"Intan Dongoran, M.TI.",Palembang,Individual
+1345,"dr. Oliva Melani, M.M.",Tangerang,Individual
+1346,Aurora Sihombing,Batam,Business
+1347,"Dadi Sinaga, M.TI.",Tangerang,Business
+1348,Warta Kuswoyo,Surabaya,Individual
+1349,Yahya Nasyiah,Pekanbaru,Individual
+1350,Dt. Luis Haryanto,Bogor,Individual
+1351,Mumpuni Usamah,Solo,Individual
+1352,"Sutan Saka Anggraini, S.IP",Bogor,Business
+1353,Kawaya Fujiati,Palembang,Individual
+1354,"Rendy Hidayanto, S.E.I",Bogor,Business
+1355,Jagaraga Sitompul,Jambi,Individual
+1356,Bakianto Hidayanto,Padang,Individual
+1357,Cemani Ramadan,Padang,Business
+1358,R. Kamal Pradana,Lampung,Individual
+1359,Laila Wibisono,Depok,Individual
+1360,Siti Waskita,Batam,Individual
+1361,Iriana Budiyanto,Pekanbaru,Individual
+1362,Samiah Lazuardi,Semarang,Individual
+1363,Dt. Maras Safitri,Jambi,Individual
+1364,Praba Padmasari,Medan,Business
+1365,Naradi Hidayanto,Medan,Business
+1366,Olivia Kurniawan,Cirebon,Individual
+1367,Winda Sihombing,Bandung,Business
+1368,Puti Intan Farida,Lampung,Individual
+1369,Lala Wijayanti,Semarang,Business
+1370,Jasmani Manullang,Yogyakarta,Individual
+1371,Sutan Cahya Wijaya,Bekasi,Individual
+1372,"KH. Samsul Palastri, S.Pd",Jambi,Individual
+1373,"Cakrabirawa Salahudin, S.I.Kom",Yogyakarta,Individual
+1374,Kadir Puspita,Palembang,Business
+1375,Bancar Gunarto,Bekasi,Individual
+1376,Kemal Riyanti,Malang,Business
+1377,Paulin Pudjiastuti,Cirebon,Individual
+1378,Gaduh Pranowo,Surabaya,Individual
+1379,"Ulya Situmorang, S.Kom",Semarang,Business
+1380,Septi Mulyani,Bengkulu,Individual
+1381,Caraka Nashiruddin,Depok,Individual
+1382,Latif Ramadan,Padang,Business
+1383,Balijan Najmudin,Solo,Individual
+1384,"Raharja Purnawati, S.Gz",Bogor,Individual
+1385,"Drs. Malika Yuliarti, M.Pd",Bandung,Individual
+1386,Elvin Winarsih,Palembang,Business
+1387,Dwi Januar,Medan,Individual
+1388,Olga Prastuti,Cirebon,Individual
+1389,Julia Tamba,Sidoarjo,Individual
+1390,Mumpuni Yolanda,Sidoarjo,Business
+1391,Baktianto Suryono,Cirebon,Individual
+1392,Puti Febi Simanjuntak,Malang,Individual
+1393,Mila Sitompul,Surabaya,Business
+1394,Hj. Ina Padmasari,Jakarta,Individual
+1395,Karya Purnawati,Bengkulu,Individual
+1396,Yani Sihotang,Padang,Individual
+1397,Ella Ardianto,Bekasi,Individual
+1398,Hilda Prasetya,Bekasi,Business
+1399,"Ulya Yuniar, S.Farm",Lampung,Business
+1400,Zaenab Tarihoran,Malang,Business
+1401,Mustika Sitompul,Yogyakarta,Business
+1402,Malika Hassanah,Jakarta,Individual
+1403,Vicky Samosir,Jakarta,Individual
+1404,Puspa Kurniawan,Malang,Individual
+1405,Mariadi Sudiati,Surabaya,Business
+1406,Saadat Setiawan,Pekanbaru,Individual
+1407,"R. Paulin Napitupulu, S.T.",Malang,Individual
+1408,"Sari Hutagalung, S.Pt",Pekanbaru,Business
+1409,Samsul Mayasari,Bogor,Business
+1410,"Among Prastuti, M.Farm",Bekasi,Business
+1411,Vivi Rahayu,Malang,Individual
+1412,Umaya Firgantoro,Bogor,Individual
+1413,T. Kenari Namaga,Malang,Individual
+1414,Safina Maryadi,Jambi,Business
+1415,Kania Prasetyo,Depok,Individual
+1416,"Drs. Oskar Siregar, S.E.I",Surabaya,Individual
+1417,Olivia Melani,Solo,Individual
+1418,Hasta Utama,Cirebon,Business
+1419,Dt. Mujur Permadi,Medan,Individual
+1420,"Ir. Silvia Marbun, M.TI.",Batam,Individual
+1421,Ivan Manullang,Solo,Individual
+1422,Karya Pratiwi,Malang,Individual
+1423,"Teddy Maulana, M.Kom.",Sidoarjo,Business
+1424,Azalea Prasetya,Semarang,Individual
+1425,"drg. Daru Haryanto, S.T.",Lampung,Individual
+1426,Gina Gunarto,Surabaya,Business
+1427,"Danang Maryati, S.I.Kom",Yogyakarta,Business
+1428,Nadine Hasanah,Depok,Individual
+1429,Arta Yulianti,Semarang,Business
+1430,Ciaobella Nurdiyanti,Batam,Individual
+1431,"Radit Saefullah, S.T.",Depok,Individual
+1432,Drs. Qori Natsir,Jambi,Individual
+1433,Safina Waluyo,Medan,Business
+1434,Rini Yolanda,Yogyakarta,Individual
+1435,"Puti Padma Ramadan, S.Sos",Yogyakarta,Business
+1436,Kariman Waskita,Palembang,Individual
+1437,Yuliana Situmorang,Cirebon,Individual
+1438,Widya Laksmiwati,Malang,Individual
+1439,Cut Olivia Mandala,Medan,Business
+1440,Eli Pradana,Sidoarjo,Individual
+1441,Kamidin Yuniar,Sidoarjo,Individual
+1442,Gabriella Maryadi,Medan,Individual
+1443,Candrakanta Tarihoran,Yogyakarta,Individual
+1444,Puti Salimah Pradana,Tangerang,Individual
+1445,Yessi Sitompul,Batam,Business
+1446,"Calista Laksmiwati, M.Kom.",Bekasi,Individual
+1447,Fathonah Rahayu,Lampung,Individual
+1448,Marsudi Zulkarnain,Sidoarjo,Individual
+1449,Dimaz Gunawan,Pekanbaru,Individual
+1450,Kemal Rahayu,Jambi,Individual
+1451,Cahyanto Usamah,Jakarta,Individual
+1452,Dt. Tri Pertiwi,Medan,Individual
+1453,Asman Marbun,Bogor,Business
+1454,Elvina Maryati,Malang,Individual
+1455,Rahayu Pratiwi,Padang,Individual
+1456,"Ajiman Wijayanti, S.Pd",Yogyakarta,Business
+1457,Darijan Hassanah,Bandung,Business
+1458,Dr. Novi Narpati,Medan,Individual
+1459,Radika Zulkarnain,Bogor,Individual
+1460,R. Wulan Padmasari,Jambi,Individual
+1461,"R. Sarah Wahyuni, M.TI.",Bogor,Individual
+1462,Eli Siregar,Cirebon,Individual
+1463,Rina Rahayu,Jambi,Individual
+1464,Dartono Waluyo,Pekanbaru,Individual
+1465,Diah Kurniawan,Bekasi,Individual
+1466,Damar Nurdiyanti,Lampung,Individual
+1467,"Drs. Silvia Andriani, S.E.I",Bengkulu,Business
+1468,Puti Elma Kusmawati,Tangerang,Business
+1469,Ir. Ani Nasyidah,Jambi,Individual
+1470,KH. Banara Iswahyudi,Cirebon,Individual
+1471,Sakura Mustofa,Bogor,Business
+1472,Drs. Yunita Adriansyah,Bengkulu,Individual
+1473,"Ir. Martaka Astuti, M.TI.",Jambi,Individual
+1474,Kartika Gunawan,Bengkulu,Business
+1475,"Paris Aryani, S.H.",Cirebon,Individual
+1476,"drg. Paiman Wibowo, S.I.Kom",Depok,Business
+1477,Ir. Cinthia Anggraini,Batam,Individual
+1478,Dodo Kuswandari,Bandung,Individual
+1479,"Sutan Upik Hutasoit, S.Pd",Palembang,Individual
+1480,Drs. Laila Rajasa,Jambi,Individual
+1481,Adhiarja Ardianto,Depok,Individual
+1482,Drs. Devi Nurdiyanti,Lampung,Individual
+1483,Harimurti Yolanda,Surabaya,Business
+1484,Malik Sihotang,Bogor,Individual
+1485,Karen Kurniawan,Palembang,Individual
+1486,Irsad Yulianti,Bogor,Individual
+1487,Tgk. Hana Nasyiah,Bogor,Individual
+1488,Padmi Utama,Depok,Individual
+1489,Tgk. Sabrina Widodo,Cirebon,Individual
+1490,"Sutan Hendri Puspasari, M.Pd",Padang,Individual
+1491,Elma Uwais,Yogyakarta,Individual
+1492,Dr. Jayadi Ramadan,Semarang,Individual
+1493,Ratih Situmorang,Malang,Business
+1494,"H. Hasta Mandala, S.IP",Bandung,Business
+1495,"Ghaliyati Hassanah, S.E.",Medan,Individual
+1496,Dariati Melani,Yogyakarta,Individual
+1497,Winda Sirait,Depok,Individual
+1498,"Dr. Luwes Habibi, S.E.",Pekanbaru,Individual
+1499,Siska Ardianto,Palembang,Individual
+1500,"R. Ridwan Maulana, M.Kom.",Cirebon,Individual
+1501,drg. Clara Haryanto,Depok,Business
+1502,Gawati Uwais,Depok,Individual
+1503,Lulut Firgantoro,Bandung,Individual
+1504,"Kiandra Wacana, M.Ak",Padang,Individual
+1505,"Karma Suwarno, M.Ak",Sidoarjo,Individual
+1506,Warsita Natsir,Bogor,Individual
+1507,"Jumari Farida, S.Ked",Depok,Individual
+1508,Soleh Wahyuni,Bekasi,Individual
+1509,"Dr. Edison Nababan, S.Gz",Tangerang,Business
+1510,"Drs. Kajen Maryati, S.H.",Bengkulu,Individual
+1511,R. Samiah Firgantoro,Solo,Individual
+1512,Halima Yolanda,Palembang,Individual
+1513,Candrakanta Irawan,Batam,Individual
+1514,Victoria Wacana,Surabaya,Business
+1515,Salsabila Widodo,Solo,Individual
+1516,Rini Pangestu,Semarang,Individual
+1517,Dt. Okto Hidayat,Bogor,Individual
+1518,Kunthara Suryono,Cirebon,Business
+1519,"Yance Purwanti, M.Farm",Malang,Individual
+1520,Jelita Saefullah,Pekanbaru,Individual
+1521,Luluh Nababan,Semarang,Business
+1522,Latika Permata,Bogor,Individual
+1523,Elon Natsir,Malang,Individual
+1524,Ophelia Kurniawan,Bengkulu,Individual
+1525,R. Jefri Sihombing,Surabaya,Individual
+1526,Calista Mulyani,Bandung,Business
+1527,Paulin Permata,Malang,Business
+1528,Talia Handayani,Bogor,Individual
+1529,Padmi Laksmiwati,Malang,Individual
+1530,"Sutan Praba Sirait, M.M.",Surabaya,Business
+1531,"Jagaraga Rahmawati, S.Ked",Palembang,Individual
+1532,Calista Rajata,Yogyakarta,Individual
+1533,Harjaya Usada,Tangerang,Individual
+1534,"Sutan Murti Pradana, S.Psi",Bengkulu,Business
+1535,Kamila Maryati,Bekasi,Individual
+1536,Dt. Naradi Saptono,Semarang,Individual
+1537,Edward Iswahyudi,Depok,Business
+1538,Samiah Siregar,Jambi,Individual
+1539,Kadir Nugroho,Cirebon,Individual
+1540,Iriana Thamrin,Jakarta,Individual
+1541,Tugiman Pertiwi,Padang,Individual
+1542,Elvina Zulaika,Bogor,Business
+1543,Jamil Pangestu,Padang,Business
+1544,Oman Permadi,Bogor,Individual
+1545,"Tgk. Farhunnisa Pradana, S.Kom",Lampung,Business
+1546,"R.A. Zalindra Safitri, S.I.Kom",Bekasi,Individual
+1547,Prayogo Kurniawan,Solo,Individual
+1548,Viman Hutapea,Sidoarjo,Individual
+1549,"Yahya Wijayanti, M.Kom.",Bekasi,Business
+1550,Cut Vanesa Namaga,Sidoarjo,Individual
+1551,Samsul Laksmiwati,Sidoarjo,Individual
+1552,Raina Sihotang,Bengkulu,Business
+1553,Ratih Saefullah,Solo,Individual
+1554,Elvina Melani,Bogor,Individual
+1555,Lala Prasetya,Lampung,Business
+1556,"Drs. Cagak Habibi, M.TI.",Depok,Business
+1557,"dr. Jati Namaga, S.Gz",Bengkulu,Individual
+1558,Tgk. Hartana Natsir,Jambi,Individual
+1559,Devi Maryati,Jambi,Business
+1560,Iriana Anggriawan,Lampung,Individual
+1561,Mursita Pranowo,Surabaya,Business
+1562,Ratna Januar,Solo,Individual
+1563,Karen Suryatmi,Lampung,Individual
+1564,"Tgk. Fitria Pudjiastuti, S.T.",Padang,Individual
+1565,Embuh Halimah,Bogor,Individual
+1566,dr. Karimah Nashiruddin,Palembang,Individual
+1567,Lintang Pranowo,Bogor,Individual
+1568,Tira Wahyudin,Batam,Business
+1569,Zulaikha Wacana,Medan,Individual
+1570,Mila Najmudin,Jakarta,Individual
+1571,R. Ratih Pradana,Bengkulu,Individual
+1572,"Puti Tantri Saputra, S.H.",Malang,Individual
+1573,dr. Sabri Wibowo,Malang,Individual
+1574,Cakrabuana Maryadi,Batam,Individual
+1575,Yani Anggriawan,Tangerang,Individual
+1576,Imam Mandasari,Batam,Individual
+1577,Tugiman Usamah,Cirebon,Individual
+1578,Dr. Najib Sihotang,Bandung,Individual
+1579,"drg. Eja Ramadan, M.Pd",Batam,Individual
+1580,"Ir. Alika Widodo, S.IP",Cirebon,Individual
+1581,"Elisa Halim, S.Kom",Malang,Individual
+1582,"Tgk. Nabila Usamah, S.IP",Malang,Business
+1583,Uli Sitorus,Batam,Individual
+1584,Karen Tarihoran,Cirebon,Individual
+1585,Dr. Wardi Rajasa,Padang,Individual
+1586,Ayu Zulkarnain,Cirebon,Business
+1587,Gara Wastuti,Pekanbaru,Business
+1588,R.A. Ratih Permata,Surabaya,Individual
+1589,"Martaka Nasyiah, S.E.",Jakarta,Individual
+1590,"T. Garang Simbolon, M.TI.",Solo,Business
+1591,Vicky Hassanah,Palembang,Individual
+1592,Harjaya Susanti,Solo,Individual
+1593,Malika Usamah,Malang,Individual
+1594,Taswir Marbun,Tangerang,Individual
+1595,"Respati Sirait, S.Farm",Palembang,Individual
+1596,"Luwar Pertiwi, S.Sos",Pekanbaru,Individual
+1597,"Puti Cindy Marpaung, S.Psi",Bandung,Individual
+1598,Galar Simanjuntak,Depok,Business
+1599,"Erik Santoso, M.Ak",Jambi,Business
+1600,"Harto Saputra, M.M.",Depok,Individual
+1601,"Tgk. Pangeran Rahmawati, M.TI.",Yogyakarta,Individual
+1602,Laras Marbun,Solo,Business
+1603,Sabar Damanik,Surabaya,Individual
+1604,Ozy Prakasa,Bengkulu,Individual
+1605,"Dwi Hutapea, S.Kom",Lampung,Individual
+1606,Hasta Jailani,Sidoarjo,Business
+1607,Atma Kusmawati,Semarang,Individual
+1608,Dt. Akarsana Widodo,Solo,Individual
+1609,KH. Bakda Jailani,Bandung,Individual
+1610,Raina Mangunsong,Bengkulu,Individual
+1611,Marwata Wibisono,Cirebon,Business
+1612,Ghaliyati Prayoga,Bengkulu,Business
+1613,"Intan Handayani, S.E.I",Jakarta,Individual
+1614,Karsa Narpati,Lampung,Business
+1615,Anom Wijayanti,Pekanbaru,Individual
+1616,Zelda Simbolon,Pekanbaru,Individual
+1617,"Dr. Nadia Namaga, S.T.",Yogyakarta,Individual
+1618,drg. Cahya Namaga,Medan,Individual
+1619,Lantar Riyanti,Lampung,Individual
+1620,Siti Usada,Sidoarjo,Individual
+1621,drg. Paramita Uyainah,Surabaya,Individual
+1622,"Kasusra Saragih, S.I.Kom",Surabaya,Individual
+1623,Puput Pradana,Depok,Individual
+1624,"R. Ilyas Samosir, S.I.Kom",Cirebon,Individual
+1625,Hana Mangunsong,Medan,Business
+1626,Ajeng Adriansyah,Yogyakarta,Individual
+1627,KH. Samsul Mansur,Bengkulu,Individual
+1628,Irma Halimah,Padang,Individual
+1629,Dt. Malik Lestari,Yogyakarta,Individual
+1630,"drg. Eja Anggriawan, S.Farm",Solo,Business
+1631,"T. Lembah Pradipta, S.Ked",Bogor,Individual
+1632,Tgk. Dacin Zulkarnain,Medan,Individual
+1633,dr. Harto Prayoga,Palembang,Business
+1634,Nasrullah Yuliarti,Padang,Individual
+1635,Yance Waluyo,Tangerang,Individual
+1636,Eluh Hutapea,Bengkulu,Individual
+1637,Sari Permadi,Bandung,Individual
+1638,KH. Raharja Suryatmi,Jambi,Individual
+1639,"H. Mahdi Saputra, S.Pd",Jakarta,Individual
+1640,"Paiman Nasyidah, S.T.",Bogor,Business
+1641,Fitriani Hidayat,Jakarta,Individual
+1642,Cahya Siregar,Depok,Individual
+1643,Makuta Hasanah,Bengkulu,Business
+1644,Dr. Humaira Oktaviani,Malang,Business
+1645,Fitriani Sinaga,Solo,Individual
+1646,Cakrawangsa Hardiansyah,Lampung,Individual
+1647,Dt. Cengkir Jailani,Padang,Individual
+1648,Hasna Mahendra,Cirebon,Individual
+1649,"Maida Anggriawan, S.H.",Padang,Business
+1650,Cakrawangsa Budiman,Pekanbaru,Individual
+1651,Gasti Siregar,Bogor,Business
+1652,Ira Mandasari,Padang,Individual
+1653,Malika Firmansyah,Bengkulu,Individual
+1654,Cindy Maulana,Malang,Individual
+1655,Emas Wijaya,Cirebon,Individual
+1656,Kenari Halimah,Bandung,Individual
+1657,Dadi Ramadan,Yogyakarta,Individual
+1658,"drg. Yance Budiman, S.IP",Malang,Individual
+1659,"H. Drajat Winarno, M.M.",Sidoarjo,Business
+1660,Okto Firmansyah,Cirebon,Business
+1661,Jagaraga Kuswoyo,Pekanbaru,Individual
+1662,Ir. Daniswara Kusmawati,Palembang,Individual
+1663,Sabrina Saragih,Batam,Business
+1664,Endah Usamah,Lampung,Individual
+1665,"Azalea Pudjiastuti, M.TI.",Cirebon,Individual
+1666,Dono Laksmiwati,Jambi,Individual
+1667,"Emin Napitupulu, S.I.Kom",Solo,Individual
+1668,Saka Widiastuti,Cirebon,Business
+1669,Balidin Prakasa,Sidoarjo,Individual
+1670,"Ibrahim Simbolon, S.Ked",Semarang,Individual
+1671,Putu Saefullah,Pekanbaru,Individual
+1672,Puti Lala Prasasta,Lampung,Individual
+1673,Artanto Prastuti,Semarang,Individual
+1674,"H. Jaswadi Riyanti, S.E.I",Solo,Business
+1675,Vera Irawan,Semarang,Individual
+1676,Candrakanta Mandasari,Padang,Business
+1677,Mahfud Safitri,Surabaya,Individual
+1678,Vanya Utami,Lampung,Business
+1679,Asmuni Tamba,Tangerang,Individual
+1680,"Candra Nasyiah, S.IP",Bandung,Business
+1681,Jinawi Pradipta,Palembang,Business
+1682,Puti Yuliarti,Depok,Individual
+1683,"Tgk. Reksa Farida, S.Kom",Solo,Individual
+1684,Malik Waluyo,Depok,Individual
+1685,Tari Mansur,Sidoarjo,Individual
+1686,Azalea Laksita,Bekasi,Business
+1687,"Maida Purwanti, S.Pd",Medan,Business
+1688,H. Jindra Nainggolan,Yogyakarta,Individual
+1689,R. Puji Tampubolon,Pekanbaru,Individual
+1690,Uchita Hastuti,Malang,Individual
+1691,Yance Rahimah,Sidoarjo,Individual
+1692,"Drs. Elisa Hidayat, M.TI.",Tangerang,Individual
+1693,Ihsan Sihombing,Jambi,Individual
+1694,"Tgk. Puput Utama, M.M.",Surabaya,Business
+1695,Prayoga Uyainah,Medan,Business
+1696,dr. Oskar Nashiruddin,Semarang,Individual
+1697,Lukman Utama,Cirebon,Business
+1698,"Drs. Digdaya Sinaga, S.Pt",Yogyakarta,Business
+1699,"Kawaya Wibisono, S.Kom",Malang,Individual
+1700,Ir. Jamal Puspasari,Jakarta,Individual
+1701,Luwar Suryono,Solo,Individual
+1702,Laila Yuniar,Padang,Business
+1703,Carla Kuswoyo,Surabaya,Business
+1704,Ir. Bagas Gunawan,Palembang,Individual
+1705,"R. Elma Firmansyah, S.Kom",Jakarta,Individual
+1706,Jayeng Nababan,Tangerang,Individual
+1707,Anggabaya Pertiwi,Depok,Individual
+1708,"Raihan Wibisono, M.Kom.",Lampung,Individual
+1709,Drs. Nardi Rahayu,Jambi,Individual
+1710,Alika Utama,Bandung,Individual
+1711,Luluh Hidayanto,Solo,Individual
+1712,Wadi Pranowo,Depok,Business
+1713,"Joko Hutapea, M.M.",Pekanbaru,Individual
+1714,"Ir. Aswani Tarihoran, M.Pd",Tangerang,Individual
+1715,"Lidya Uwais, S.Gz",Surabaya,Individual
+1716,"Ir. Hasna Nuraini, S.Gz",Bandung,Individual
+1717,"Belinda Sihombing, S.Pt",Medan,Individual
+1718,Yosef Maryati,Bengkulu,Business
+1719,Baktianto Pradipta,Bekasi,Individual
+1720,dr. Dadap Nababan,Bandung,Business
+1721,Ir. Drajat Purnawati,Depok,Business
+1722,"Warta Nugroho, M.Pd",Medan,Individual
+1723,"Puti Agustina, S.IP",Batam,Individual
+1724,"Ir. Koko Tamba, M.M.",Bengkulu,Business
+1725,"Salwa Aryani, S.IP",Solo,Individual
+1726,Prima Najmudin,Palembang,Individual
+1727,dr. Johan Sirait,Lampung,Individual
+1728,"Candrakanta Nasyidah, M.Ak",Palembang,Individual
+1729,Kamila Sihotang,Semarang,Business
+1730,Tgk. Surya Wahyudin,Bandung,Individual
+1731,Vanesa Usada,Lampung,Individual
+1732,Yunita Sinaga,Bekasi,Individual
+1733,R.A. Padmi Palastri,Pekanbaru,Individual
+1734,Harimurti Pudjiastuti,Palembang,Individual
+1735,"Hamima Tarihoran, M.M.",Medan,Business
+1736,Lala Adriansyah,Cirebon,Individual
+1737,"Ami Suryono, M.Ak",Bengkulu,Individual
+1738,Karja Mansur,Solo,Individual
+1739,Agnes Salahudin,Lampung,Business
+1740,Dariati Sihotang,Solo,Individual
+1741,Prasetyo Saefullah,Bekasi,Individual
+1742,Dr. Kala Pertiwi,Yogyakarta,Business
+1743,R. Cinta Firgantoro,Lampung,Individual
+1744,Kani Mangunsong,Pekanbaru,Individual
+1745,Eman Utama,Padang,Individual
+1746,R.A. Gina Rajasa,Yogyakarta,Business
+1747,"T. Bakiman Pertiwi, S.Sos",Jambi,Individual
+1748,R.A. Uchita Hutagalung,Malang,Individual
+1749,"Jane Laksmiwati, S.E.",Bandung,Individual
+1750,Yunita Permata,Solo,Individual
+1751,"Puti Rina Yuniar, S.Pd",Semarang,Individual
+1752,Opan Permata,Batam,Individual
+1753,Cindy Hakim,Padang,Individual
+1754,"Tgk. Gantar Fujiati, S.Farm",Semarang,Business
+1755,"Puti Vera Pradana, M.Ak",Jambi,Individual
+1756,Mahesa Usamah,Tangerang,Individual
+1757,Anastasia Samosir,Batam,Individual
+1758,Dt. Galuh Namaga,Jambi,Individual
+1759,R. Jane Mardhiyah,Jambi,Individual
+1760,"Gawati Mangunsong, S.Gz",Semarang,Individual
+1761,"Opan Wijaya, M.M.",Yogyakarta,Individual
+1762,"Drs. Kamal Mayasari, S.Pt",Medan,Individual
+1763,Ian Siregar,Semarang,Individual
+1764,"dr. Cakrajiya Mustofa, S.Psi",Bandung,Individual
+1765,Jaswadi Pertiwi,Tangerang,Individual
+1766,"Alika Pudjiastuti, S.Sos",Bekasi,Individual
+1767,Chelsea Wacana,Depok,Business
+1768,dr. Prayitna Mustofa,Surabaya,Individual
+1769,"R.M. Jaya Purwanti, S.Kom",Batam,Business
+1770,Lala Yulianti,Bandung,Individual
+1771,R.A. Putri Susanti,Depok,Individual
+1772,"Paramita Prayoga, S.H.",Cirebon,Individual
+1773,Emas Astuti,Solo,Individual
+1774,Silvia Permata,Bengkulu,Individual
+1775,Balidin Winarsih,Jakarta,Individual
+1776,Lintang Utama,Bengkulu,Business
+1777,Fitriani Sinaga,Lampung,Business
+1778,Rina Yolanda,Cirebon,Business
+1779,Prasetya Samosir,Jakarta,Individual
+1780,Gara Susanti,Bengkulu,Business
+1781,"Dr. Sarah Maulana, M.M.",Bandung,Individual
+1782,Wahyu Pradipta,Semarang,Individual
+1783,Mahdi Wahyudin,Medan,Business
+1784,Praba Hutasoit,Medan,Business
+1785,Okta Habibi,Surabaya,Individual
+1786,Warta Safitri,Depok,Business
+1787,Taswir Suwarno,Bandung,Business
+1788,Gangsa Kusumo,Bandung,Individual
+1789,Mila Halimah,Jambi,Individual
+1790,Gamblang Pranowo,Depok,Individual
+1791,"Paulin Prabowo, S.Kom",Bogor,Individual
+1792,Dr. Pardi Rajata,Tangerang,Individual
+1793,drg. Luthfi Megantara,Lampung,Individual
+1794,"Tami Winarsih, S.Ked",Solo,Individual
+1795,Restu Wijayanti,Jambi,Business
+1796,Dt. Dodo Narpati,Tangerang,Business
+1797,Edi Pangestu,Bandung,Individual
+1798,"H. Lasmanto Saputra, S.Gz",Tangerang,Individual
+1799,Safina Anggriawan,Tangerang,Individual
+1800,Harsanto Wijayanti,Bandung,Business
+1801,Salimah Wahyuni,Bekasi,Individual
+1802,Zelaya Kurniawan,Jakarta,Individual
+1803,Erik Yulianti,Semarang,Individual
+1804,Gina Wibowo,Bandung,Individual
+1805,H. Baktiadi Sihotang,Pekanbaru,Individual
+1806,Zelaya Riyanti,Lampung,Business
+1807,R. Cengkir Napitupulu,Jambi,Individual
+1808,drg. Kanda Damanik,Bengkulu,Individual
+1809,Dirja Nuraini,Pekanbaru,Business
+1810,Juli Lestari,Pekanbaru,Business
+1811,Uli Manullang,Palembang,Individual
+1812,Ganjaran Thamrin,Malang,Business
+1813,Sari Sihombing,Semarang,Business
+1814,Jais Saefullah,Solo,Business
+1815,"Dt. Luis Rajasa, S.Sos",Jakarta,Business
+1816,"Cut Puti Setiawan, S.H.",Jambi,Business
+1817,Ganep Wijaya,Surabaya,Individual
+1818,"Cahyo Irawan, S.Sos",Padang,Individual
+1819,Ir. Luwar Utami,Yogyakarta,Individual
+1820,"Darsirah Agustina, S.H.",Bogor,Individual
+1821,R. Maria Saragih,Bekasi,Individual
+1822,dr. Melinda Namaga,Malang,Individual
+1823,Danang Yolanda,Cirebon,Individual
+1824,Laksana Namaga,Pekanbaru,Individual
+1825,"Raharja Pangestu, S.E.I",Pekanbaru,Individual
+1826,Shakila Novitasari,Palembang,Business
+1827,Irfan Maulana,Lampung,Individual
+1828,"Wardi Pratiwi, S.E.",Yogyakarta,Individual
+1829,Betania Puspita,Jambi,Individual
+1830,H. Banara Nashiruddin,Pekanbaru,Individual
+1831,Zalindra Maulana,Jakarta,Individual
+1832,"Ana Simanjuntak, S.Farm",Surabaya,Individual
+1833,Ilsa Handayani,Batam,Individual
+1834,"Yuni Uyainah, S.T.",Bogor,Business
+1835,Prayogo Nainggolan,Jambi,Individual
+1836,Cahyadi Nashiruddin,Tangerang,Individual
+1837,Prabowo Suryatmi,Bandung,Individual
+1838,Tgk. Rachel Purnawati,Bogor,Individual
+1839,R.A. Rina Pradipta,Jambi,Individual
+1840,Mahfud Dongoran,Medan,Business
+1841,Cindy Kuswandari,Medan,Individual
+1842,Jefri Suartini,Solo,Business
+1843,Tania Yulianti,Pekanbaru,Individual
+1844,Fitria Wibisono,Bengkulu,Individual
+1845,Nabila Mandala,Cirebon,Individual
+1846,Dadi Prasetyo,Jambi,Individual
+1847,Hasan Budiman,Solo,Individual
+1848,Laras Prasetya,Surabaya,Business
+1849,"Salsabila Pangestu, S.Kom",Yogyakarta,Individual
+1850,Cecep Farida,Palembang,Individual
+1851,"Ir. Nurul Simbolon, M.M.",Jambi,Business
+1852,Irsad Waskita,Semarang,Individual
+1853,"Dt. Lulut Wibowo, S.Psi",Batam,Business
+1854,Rahmi Pertiwi,Padang,Business
+1855,Drs. Paramita Yuniar,Padang,Individual
+1856,"Winda Firgantoro, M.TI.",Jambi,Individual
+1857,Jabal Hasanah,Padang,Business
+1858,"Cut Hesti Maryati, M.Pd",Batam,Individual
+1859,Unjani Gunarto,Bogor,Business
+1860,dr. Kariman Usamah,Solo,Individual
+1861,Dadap Siregar,Medan,Individual
+1862,Lala Sihombing,Tangerang,Individual
+1863,"T. Jail Marbun, S.Farm",Batam,Business
+1864,Rahmi Habibi,Batam,Individual
+1865,"Padma Megantara, M.M.",Pekanbaru,Individual
+1866,"Hj. Mila Iswahyudi, M.TI.",Depok,Business
+1867,Cemeti Padmasari,Malang,Individual
+1868,"Puji Mansur, S.Sos",Batam,Individual
+1869,Janet Hartati,Pekanbaru,Individual
+1870,Cemani Hasanah,Cirebon,Individual
+1871,R.A. Mutia Iswahyudi,Jakarta,Business
+1872,Janet Yulianti,Bogor,Individual
+1873,"Wulan Marpaung, S.IP",Lampung,Individual
+1874,Balijan Hartati,Medan,Business
+1875,"Gilang Hutasoit, M.TI.",Semarang,Individual
+1876,"Kiandra Melani, M.Ak",Malang,Individual
+1877,Harja Pudjiastuti,Medan,Business
+1878,Aurora Narpati,Yogyakarta,Individual
+1879,Padmi Wahyuni,Solo,Individual
+1880,"R. Elisa Maulana, S.E.",Jambi,Individual
+1881,"H. Aslijan Andriani, S.Pd",Medan,Business
+1882,Titi Hassanah,Bekasi,Individual
+1883,Sari Najmudin,Medan,Individual
+1884,Uda Mustofa,Tangerang,Individual
+1885,Ade Oktaviani,Sidoarjo,Individual
+1886,"T. Adinata Haryanti, M.Kom.",Lampung,Individual
+1887,"Dr. Puji Ardianto, M.Ak",Batam,Individual
+1888,Gilda Pratama,Pekanbaru,Individual
+1889,Hj. Nabila Hasanah,Cirebon,Individual
+1890,Maimunah Hutapea,Pekanbaru,Individual
+1891,Ir. Agnes Prasasta,Padang,Individual
+1892,T. Lukman Utami,Batam,Individual
+1893,Sutan Asirwanda Nashiruddin,Lampung,Individual
+1894,Asman Yolanda,Jambi,Individual
+1895,Ani Maulana,Depok,Business
+1896,"Cut Salwa Permata, M.Ak",Cirebon,Business
+1897,Julia Irawan,Tangerang,Individual
+1898,Balangga Agustina,Bekasi,Individual
+1899,Caraka Wulandari,Sidoarjo,Individual
+1900,Rahmi Wijayanti,Jambi,Individual
+1901,"Tira Riyanti, M.Farm",Palembang,Individual
+1902,"Dr. Cecep Hasanah, M.Farm",Bandung,Individual
+1903,Ani Iswahyudi,Semarang,Individual
+1904,"T. Gaman Uwais, S.Sos",Semarang,Individual
+1905,"Puti Vanya Aryani, M.Pd",Sidoarjo,Business
+1906,Erik Halimah,Surabaya,Individual
+1907,Banawi Saefullah,Batam,Individual
+1908,Paramita Zulkarnain,Jambi,Individual
+1909,Sutan Mursinin Pranowo,Pekanbaru,Individual
+1910,Cut Cici Pertiwi,Solo,Individual
+1911,"Siti Nuraini, S.Pt",Semarang,Individual
+1912,Tari Suartini,Bekasi,Business
+1913,"H. Edward Aryani, M.Ak",Solo,Individual
+1914,"dr. Hana Novitasari, M.Farm",Semarang,Individual
+1915,dr. Diah Susanti,Medan,Business
+1916,Dr. Putri Usamah,Palembang,Business
+1917,Nilam Najmudin,Sidoarjo,Individual
+1918,R.A. Titin Siregar,Bekasi,Individual
+1919,Abyasa Lazuardi,Padang,Individual
+1920,Jaka Utami,Palembang,Individual
+1921,"R. Okto Pranowo, M.Ak",Batam,Individual
+1922,Laras Gunawan,Yogyakarta,Individual
+1923,Kamaria Purwanti,Depok,Individual
+1924,"Ir. Danuja Anggriawan, S.Kom",Yogyakarta,Business
+1925,"Intan Rajasa, S.Pt",Bekasi,Business
+1926,Ifa Mayasari,Bengkulu,Individual
+1927,Tgk. Pranata Ardianto,Jakarta,Individual
+1928,Mahfud Sitorus,Bengkulu,Individual
+1929,Lala Purnawati,Jambi,Individual
+1930,Cut Zahra Natsir,Palembang,Individual
+1931,Gamblang Sirait,Surabaya,Individual
+1932,"Jatmiko Kusmawati, S.Gz",Sidoarjo,Individual
+1933,"Cahya Laksmiwati, S.E.I",Yogyakarta,Business
+1934,"Jagaraga Nasyiah, S.Psi",Palembang,Individual
+1935,Violet Zulkarnain,Medan,Business
+1936,"Amelia Nurdiyanti, S.Pd",Sidoarjo,Individual
+1937,Hj. Iriana Puspita,Bandung,Business
+1938,Dt. Daniswara Permata,Bandung,Business
+1939,"Gamblang Thamrin, S.Pt",Malang,Individual
+1940,Estiono Dabukke,Bengkulu,Individual
+1941,Keisha Utami,Solo,Business
+1942,R.M. Kenzie Sudiati,Bekasi,Individual
+1943,Fitria Riyanti,Batam,Individual
+1944,Saka Samosir,Tangerang,Individual
+1945,"Zamira Sihotang, S.Gz",Yogyakarta,Individual
+1946,Laras Irawan,Depok,Individual
+1947,Gilda Wahyudin,Depok,Individual
+1948,Yance Sihombing,Lampung,Individual
+1949,Karna Sihombing,Lampung,Individual
+1950,Balidin Wahyudin,Depok,Individual
+1951,"Dt. Prayogo Pangestu, S.Pt",Lampung,Individual
+1952,Ophelia Dongoran,Palembang,Individual
+1953,"drg. Utama Mardhiyah, S.E.I",Padang,Business
+1954,Ganep Laksmiwati,Surabaya,Individual
+1955,"Paramita Saragih, S.Psi",Jambi,Individual
+1956,Pranawa Januar,Batam,Individual
+1957,"Drs. Shania Mustofa, S.Kom",Padang,Individual
+1958,"Ani Haryanti, S.Sos",Solo,Individual
+1959,"Zelaya Nurdiyanti, S.IP",Solo,Individual
+1960,Galang Gunawan,Pekanbaru,Business
+1961,"Samsul Riyanti, S.Pt",Bekasi,Individual
+1962,Nadia Gunawan,Malang,Business
+1963,Karma Wahyuni,Cirebon,Individual
+1964,"Ira Damanik, M.Farm",Jakarta,Individual
+1965,"T. Manah Pranowo, S.Psi",Solo,Business
+1966,Dadi Suwarno,Cirebon,Individual
+1967,Patricia Simanjuntak,Palembang,Business
+1968,"drg. Mumpuni Lazuardi, S.T.",Pekanbaru,Individual
+1969,Candrakanta Saefullah,Tangerang,Individual
+1970,Aditya Oktaviani,Medan,Individual
+1971,Dr. Baktiono Putra,Yogyakarta,Business
+1972,Tgk. Kunthara Simanjuntak,Sidoarjo,Business
+1973,Dinda Suryono,Medan,Individual
+1974,R.A. Ella Hidayanto,Sidoarjo,Individual
+1975,Rahmi Sirait,Batam,Individual
+1976,drg. Asirwanda Mustofa,Lampung,Individual
+1977,Jarwi Wulandari,Jambi,Individual
+1978,Balamantri Winarno,Semarang,Individual
+1979,Bakianto Aryani,Bandung,Individual
+1980,Elma Riyanti,Bogor,Individual
+1981,Hj. Zalindra Hassanah,Solo,Individual
+1982,dr. Ira Sitorus,Padang,Individual
+1983,"R.A. Tania Winarsih, M.Pd",Jambi,Individual
+1984,Virman Hastuti,Lampung,Individual
+1985,R. Cornelia Hastuti,Depok,Individual
+1986,Jaga Saragih,Sidoarjo,Individual
+1987,"Margana Hastuti, M.Kom.",Palembang,Individual
+1988,Warta Prasetyo,Sidoarjo,Individual
+1989,Satya Susanti,Medan,Business
+1990,Karimah Wijaya,Bekasi,Individual
+1991,Naradi Widiastuti,Pekanbaru,Business
+1992,Winda Simbolon,Padang,Individual
+1993,Nova Dabukke,Tangerang,Individual
+1994,Jaswadi Kusumo,Medan,Business
+1995,Natalia Hariyah,Batam,Individual
+1996,"R. Intan Tampubolon, M.Ak",Jakarta,Business
+1997,R. Oni Jailani,Jambi,Business
+1998,Yuliana Kurniawan,Cirebon,Business
+1999,Puti Yulianti,Surabaya,Individual
+2000,Prima Sihombing,Surabaya,Individual
+2001,drg. Himawan Rahayu,Malang,Individual
+2002,Halima Safitri,Solo,Individual
+2003,Kuncara Manullang,Surabaya,Individual
+2004,Kiandra Haryanto,Pekanbaru,Individual
+2005,Fathonah Rahayu,Bengkulu,Individual
+2006,Violet Fujiati,Bengkulu,Business
+2007,dr. Puji Prakasa,Jakarta,Individual
+2008,Mujur Winarsih,Batam,Individual
+2009,Okta Pertiwi,Medan,Business
+2010,"Dr. Calista Rahayu, M.Ak",Padang,Individual
+2011,Jane Puspita,Lampung,Individual
+2012,Rizki Handayani,Bekasi,Individual
+2013,Gaiman Waskita,Padang,Individual
+2014,Liman Kurniawan,Batam,Business
+2015,"Rahmat Riyanti, S.Sos",Batam,Individual
+2016,Nilam Yuliarti,Sidoarjo,Individual
+2017,"Aswani Iswahyudi, S.Kom",Malang,Individual
+2018,"R. Ratna Usada, S.Ked",Bengkulu,Individual
+2019,"R.M. Mitra Maryadi, M.M.",Bengkulu,Business
+2020,T. Harsaya Susanti,Solo,Individual
+2021,Dr. Faizah Putra,Cirebon,Individual
+2022,"Tomi Simanjuntak, S.Pd",Yogyakarta,Business
+2023,Hj. Ilsa Fujiati,Cirebon,Individual
+2024,"Jelita Irawan, M.Farm",Bandung,Individual
+2025,Luwar Melani,Sidoarjo,Individual
+2026,Zulfa Mahendra,Medan,Individual
+2027,"Tgk. Almira Uwais, M.Pd",Malang,Individual
+2028,Abyasa Purwanti,Medan,Individual
+2029,"dr. Carla Suryono, S.Ked",Bogor,Individual
+2030,Ian Rahayu,Bengkulu,Individual
+2031,Sari Simanjuntak,Batam,Individual
+2032,"Kezia Waskita, S.Sos",Cirebon,Individual
+2033,Puji Prabowo,Padang,Individual
+2034,"Cawuk Kusmawati, S.E.I",Jakarta,Individual
+2035,Kala Winarno,Padang,Individual
+2036,"dr. Zaenab Agustina, S.E.I",Medan,Individual
+2037,Salsabila Mahendra,Solo,Individual
+2038,Adikara Hidayanto,Batam,Business
+2039,"Agus Megantara, M.Kom.",Solo,Individual
+2040,"Ibrani Mansur, S.Pt",Tangerang,Individual
+2041,Maras Agustina,Batam,Individual
+2042,"Dr. Winda Suartini, S.Farm",Solo,Individual
+2043,R. Mutia Melani,Sidoarjo,Individual
+2044,Puspa Hartati,Padang,Individual
+2045,Kamila Prasetyo,Malang,Individual
+2046,Irwan Suartini,Solo,Individual
+2047,Koko Mandasari,Depok,Business
+2048,"R.A. Tania Mardhiyah, S.T.",Jambi,Individual
+2049,Puji Permata,Jambi,Individual
+2050,Ami Firgantoro,Lampung,Individual
+2051,Dr. Tiara Uwais,Bogor,Individual
+2052,Laksana Laksmiwati,Tangerang,Individual
+2053,"Cindy Megantara, M.TI.",Cirebon,Individual
+2054,"Tgk. Nadia Maryati, S.Pt",Surabaya,Individual
+2055,Drs. Bakidin Prasasta,Yogyakarta,Individual
+2056,Siti Wijayanti,Jambi,Business
+2057,"Bahuwarna Usada, M.Pd",Lampung,Individual
+2058,"Drs. Galang Suryatmi, S.Gz",Padang,Individual
+2059,Patricia Anggriawan,Padang,Business
+2060,Mutia Mulyani,Tangerang,Business
+2061,Queen Sitompul,Solo,Individual
+2062,Kamila Sihombing,Tangerang,Individual
+2063,Eli Firgantoro,Medan,Individual
+2064,"Rina Sihombing, M.Farm",Depok,Business
+2065,Almira Usamah,Padang,Individual
+2066,Ratna Narpati,Depok,Business
+2067,Cut Sakura Siregar,Tangerang,Business
+2068,"H. Leo Dongoran, S.Pd",Bandung,Individual
+2069,Chelsea Mahendra,Bekasi,Business
+2070,R. Soleh Setiawan,Bekasi,Individual
+2071,Diah Susanti,Pekanbaru,Individual
+2072,Ika Rajasa,Yogyakarta,Business
+2073,Opung Kusumo,Sidoarjo,Individual
+2074,R. Rika Maryadi,Cirebon,Individual
+2075,"Ivan Uwais, S.E.",Padang,Individual
+2076,Violet Prakasa,Depok,Business
+2077,Elvina Nuraini,Surabaya,Individual
+2078,"Cut Jasmin Hutasoit, S.E.I",Sidoarjo,Individual
+2079,R. Zalindra Lailasari,Jambi,Business
+2080,"dr. Prasetya Winarno, S.H.",Batam,Individual
+2081,"Irnanto Uyainah, S.E.",Batam,Individual
+2082,Koko Situmorang,Solo,Business
+2083,Maras Saptono,Tangerang,Individual
+2084,"R. Aslijan Marbun, M.M.",Palembang,Business
+2085,Nabila Sihombing,Pekanbaru,Individual
+2086,Ulva Nasyidah,Malang,Individual
+2087,Harjasa Zulaika,Batam,Business
+2088,"Kayla Kusmawati, S.T.",Solo,Individual
+2089,Karta Fujiati,Bogor,Business
+2090,Edward Hassanah,Sidoarjo,Individual
+2091,Shania Sihotang,Jambi,Individual
+2092,Ir. Yahya Gunarto,Cirebon,Individual
+2093,Vero Nasyidah,Padang,Business
+2094,"Garang Astuti, M.Ak",Depok,Business
+2095,"Sidiq Saputra, S.Psi",Malang,Individual
+2096,Hasna Januar,Malang,Individual
+2097,Safina Padmasari,Cirebon,Individual
+2098,Malika Wulandari,Medan,Individual
+2099,"Halima Wulandari, M.Farm",Batam,Individual
+2100,"Sutan Karma Sirait, S.E.",Surabaya,Individual
+2101,Pia Anggriawan,Pekanbaru,Individual
+2102,"Adika Hidayat, S.Ked",Solo,Individual
+2103,Cinthia Novitasari,Bekasi,Business
+2104,Mahdi Hassanah,Bogor,Business
+2105,Gawati Suryono,Solo,Individual
+2106,Febi Firmansyah,Bekasi,Individual
+2107,Lukman Iswahyudi,Jakarta,Individual
+2108,Wakiman Riyanti,Bogor,Individual
+2109,"Tugiman Pratama, M.Ak",Semarang,Individual
+2110,"Banawi Lazuardi, S.Pt",Surabaya,Individual
+2111,"Ir. Diah Waluyo, M.Farm",Bogor,Business
+2112,"R.M. Umar Kusumo, S.E.",Jakarta,Individual
+2113,Ida Hastuti,Malang,Individual
+2114,"Waluyo Hutagalung, M.M.",Tangerang,Business
+2115,Vivi Aryani,Depok,Individual
+2116,"Salwa Sinaga, S.T.",Sidoarjo,Individual
+2117,Purwadi Hidayanto,Yogyakarta,Individual
+2118,Vicky Halim,Cirebon,Individual
+2119,Kayla Sitorus,Yogyakarta,Business
+2120,Eka Saptono,Surabaya,Business
+2121,Irnanto Hidayat,Surabaya,Business
+2122,Farah Suryatmi,Solo,Individual
+2123,Elma Yuliarti,Cirebon,Individual
+2124,Cici Megantara,Jambi,Individual
+2125,KH. Irfan Pratama,Sidoarjo,Individual
+2126,Hj. Cici Handayani,Sidoarjo,Individual
+2127,"Hana Jailani, S.Gz",Malang,Individual
+2128,Bagus Pertiwi,Sidoarjo,Individual
+2129,"Hafshah Hassanah, S.Ked",Bogor,Individual
+2130,Eka Yolanda,Lampung,Business
+2131,"Abyasa Firgantoro, S.Sos",Bandung,Business
+2132,Eka Sitompul,Jambi,Individual
+2133,Ratih Adriansyah,Jakarta,Individual
+2134,H. Wage Lestari,Lampung,Individual
+2135,Maya Waskita,Bandung,Individual
+2136,"Puti Puput Prasetyo, S.Ked",Bekasi,Business
+2137,Shakila Laksmiwati,Malang,Individual
+2138,Kasim Nasyiah,Bandung,Individual
+2139,Juli Zulaika,Pekanbaru,Business
+2140,Lalita Hakim,Jambi,Individual
+2141,"Yusuf Yuliarti, S.Pt",Bengkulu,Business
+2142,Patricia Siregar,Yogyakarta,Business
+2143,Saadat Haryanti,Cirebon,Individual
+2144,"KH. Elvin Yuliarti, S.Kom",Solo,Individual
+2145,Kadir Gunarto,Bandung,Business
+2146,Salimah Nainggolan,Bekasi,Individual
+2147,Tami Wibisono,Malang,Individual
+2148,Lasmono Tamba,Yogyakarta,Individual
+2149,Chelsea Usamah,Solo,Individual
+2150,Unjani Nainggolan,Yogyakarta,Individual
+2151,Argono Nababan,Yogyakarta,Business
+2152,Najib Rahayu,Bandung,Individual
+2153,Jindra Wibisono,Semarang,Individual
+2154,Prima Namaga,Bandung,Individual
+2155,"Gaiman Mandasari, M.Pd",Malang,Business
+2156,"Dr. Anita Firgantoro, S.Psi",Jakarta,Business
+2157,Gandi Gunarto,Jakarta,Individual
+2158,Devi Prabowo,Jakarta,Individual
+2159,"Ir. Mulyanto Nurdiyanti, M.M.",Semarang,Individual
+2160,"Tedi Nasyiah, S.E.I",Medan,Business
+2161,"Ratna Pradipta, S.Pt",Jakarta,Business
+2162,Oman Megantara,Tangerang,Business
+2163,Safina Budiyanto,Malang,Individual
+2164,Raina Gunawan,Bandung,Individual
+2165,Nardi Yulianti,Depok,Individual
+2166,Aditya Natsir,Cirebon,Individual
+2167,"Asirwanda Samosir, S.IP",Sidoarjo,Individual
+2168,Rahmi Narpati,Cirebon,Individual
+2169,"Ir. Bella Kurniawan, S.IP",Bekasi,Business
+2170,Rina Susanti,Cirebon,Business
+2171,Atma Pangestu,Batam,Individual
+2172,Jessica Wastuti,Bandung,Individual
+2173,Jane Lazuardi,Surabaya,Business
+2174,"Kamal Palastri, S.E.I",Sidoarjo,Business
+2175,Zalindra Prabowo,Bogor,Individual
+2176,"Dt. Lega Natsir, S.Psi",Jakarta,Business
+2177,Banawa Saefullah,Cirebon,Business
+2178,Praba Agustina,Medan,Individual
+2179,Mursinin Uwais,Pekanbaru,Business
+2180,R.M. Ismail Prasasta,Lampung,Individual
+2181,Cut Diana Januar,Batam,Individual
+2182,"Ir. Luwar Waluyo, S.E.",Malang,Individual
+2183,Tasnim Laksita,Malang,Business
+2184,Adiarja Ardianto,Cirebon,Individual
+2185,Wira Irawan,Lampung,Individual
+2186,"Sadina Rahayu, S.Pd",Surabaya,Individual
+2187,Talia Kusmawati,Medan,Business
+2188,"Dian Putra, S.E.I",Batam,Individual
+2189,"Emong Nurdiyanti, M.M.",Bandung,Business
+2190,Halima Natsir,Solo,Business
+2191,Cut Rina Najmudin,Cirebon,Individual
+2192,"Najwa Suryatmi, S.Pt",Lampung,Business
+2193,"Raden Sihombing, S.I.Kom",Surabaya,Individual
+2194,Agnes Puspita,Batam,Individual
+2195,Dadi Lazuardi,Bandung,Business
+2196,R. Lasmanto Tarihoran,Jakarta,Business
+2197,"Drs. Ophelia Prasetya, M.M.",Malang,Individual
+2198,"Ir. Maryanto Pranowo, S.T.",Batam,Individual
+2199,Dagel Kusumo,Bengkulu,Business
+2200,"R.M. Mahdi Kusmawati, M.Kom.",Palembang,Individual
+2201,Capa Winarsih,Bogor,Individual
+2202,Asmadi Yuliarti,Jakarta,Business
+2203,Intan Pranowo,Medan,Individual
+2204,Hafshah Sitorus,Bekasi,Individual
+2205,Dr. Aurora Jailani,Bekasi,Individual
+2206,"Anastasia Nasyiah, S.E.",Bandung,Individual
+2207,Panji Dabukke,Semarang,Business
+2208,Oliva Latupono,Solo,Individual
+2209,Umar Prakasa,Batam,Business
+2210,"Maimunah Rahayu, M.Farm",Sidoarjo,Individual
+2211,Lili Napitupulu,Yogyakarta,Business
+2212,"Shania Simbolon, S.H.",Tangerang,Individual
+2213,"R. Gamani Pradana, S.IP",Lampung,Individual
+2214,Okto Zulkarnain,Malang,Business
+2215,"R.A. Keisha Prasetya, S.Pt",Malang,Individual
+2216,Restu Laksita,Padang,Business
+2217,Tirtayasa Fujiati,Palembang,Business
+2218,Darijan Suryatmi,Jakarta,Individual
+2219,Elma Wibisono,Padang,Business
+2220,Diana Haryanti,Yogyakarta,Individual
+2221,"Febi Usamah, S.I.Kom",Jakarta,Individual
+2222,Farah Sitorus,Malang,Individual
+2223,Anggabaya Purnawati,Pekanbaru,Individual
+2224,Estiono Mansur,Surabaya,Individual
+2225,Simon Hastuti,Bandung,Individual
+2226,Lili Narpati,Tangerang,Business
+2227,"Tgk. Darmaji Sihombing, M.Ak",Surabaya,Business
+2228,Paiman Uyainah,Sidoarjo,Business
+2229,R. Ratih Puspasari,Tangerang,Individual
+2230,"R.A. Clara Zulkarnain, M.TI.",Pekanbaru,Individual
+2231,Zelda Pratama,Malang,Individual
+2232,Dr. Zalindra Hariyah,Bekasi,Business
+2233,Amalia Aryani,Semarang,Individual
+2234,"Hilda Prayoga, S.Psi",Cirebon,Individual
+2235,Ratna Prasetya,Batam,Individual
+2236,R. Queen Ardianto,Depok,Individual
+2237,Aurora Gunarto,Palembang,Individual
+2238,Uchita Mayasari,Tangerang,Individual
+2239,Irwan Nuraini,Cirebon,Individual
+2240,Natalia Januar,Sidoarjo,Individual
+2241,Nilam Permadi,Semarang,Individual
+2242,Kalim Budiman,Padang,Individual
+2243,"Uchita Wasita, S.Kom",Jakarta,Business
+2244,Gatot Sihombing,Yogyakarta,Individual
+2245,Marsudi Iswahyudi,Bengkulu,Individual
+2246,Jatmiko Winarsih,Padang,Individual
+2247,Elisa Haryanti,Pekanbaru,Individual
+2248,"Ir. Ulva Padmasari, S.Ked",Cirebon,Individual
+2249,Malika Mandala,Bandung,Individual
+2250,"drg. Fitria Uwais, M.M.",Tangerang,Individual
+2251,"Siska Adriansyah, S.Pt",Cirebon,Individual
+2252,Shakila Sitorus,Solo,Individual
+2253,Dt. Ega Aryani,Medan,Individual
+2254,"T. Nalar Suryatmi, M.Pd",Sidoarjo,Business
+2255,R.A. Winda Hutapea,Depok,Individual
+2256,dr. Unjani Hakim,Sidoarjo,Business
+2257,Ir. Galih Habibi,Jambi,Business
+2258,Harjo Utama,Sidoarjo,Individual
+2259,Raina Gunarto,Pekanbaru,Business
+2260,Karimah Natsir,Semarang,Business
+2261,"Kurnia Hidayat, M.Pd",Jambi,Individual
+2262,"Vicky Putra, S.E.I",Lampung,Business
+2263,Halima Namaga,Tangerang,Individual
+2264,Martaka Kuswandari,Lampung,Individual
+2265,"Umi Prastuti, S.Kom",Batam,Individual
+2266,"H. Prabawa Prasetyo, S.Psi",Pekanbaru,Business
+2267,Hasna Mardhiyah,Sidoarjo,Business
+2268,"Indra Saefullah, S.Gz",Surabaya,Individual
+2269,Hardana Situmorang,Depok,Individual
+2270,Nova Mardhiyah,Palembang,Business
+2271,R. Jarwadi Nasyidah,Cirebon,Individual
+2272,"Rudi Nasyidah, S.Pd",Surabaya,Individual
+2273,Raina Uwais,Surabaya,Business
+2274,"Ir. Warsita Haryanto, S.Kom",Semarang,Business
+2275,Clara Hutapea,Bekasi,Individual
+2276,Elma Suwarno,Semarang,Business
+2277,Balangga Marbun,Jakarta,Individual
+2278,Carla Maulana,Depok,Individual
+2279,Eka Putra,Solo,Individual
+2280,Ir. Ajimin Sihombing,Bekasi,Individual
+2281,Sabrina Namaga,Solo,Individual
+2282,Jasmani Situmorang,Bekasi,Business
+2283,Maimunah Yuliarti,Medan,Individual
+2284,Erik Nainggolan,Pekanbaru,Individual
+2285,Ajimin Pradipta,Padang,Individual
+2286,"Drs. Septi Sitorus, S.Farm",Surabaya,Business
+2287,dr. Safina Yuliarti,Medan,Individual
+2288,"Tgk. Jayeng Rahayu, M.TI.",Palembang,Individual
+2289,"Drs. Maimunah Haryanti, S.Pd",Palembang,Business
+2290,R. Widya Samosir,Jakarta,Business
+2291,Paiman Rajata,Bandung,Individual
+2292,Jayadi Wahyudin,Bengkulu,Individual
+2293,Vera Hardiansyah,Semarang,Individual
+2294,Garan Suryono,Depok,Business
+2295,Eli Safitri,Lampung,Individual
+2296,Narji Nasyiah,Cirebon,Business
+2297,Elvina Natsir,Bandung,Individual
+2298,"Hj. Wulan Mangunsong, S.E.",Pekanbaru,Individual
+2299,Bambang Gunarto,Palembang,Business
+2300,Ratih Mahendra,Semarang,Individual
+2301,Hana Uwais,Batam,Individual
+2302,Danang Purwanti,Pekanbaru,Individual
+2303,"Ami Widiastuti, S.Psi",Semarang,Individual
+2304,Dalima Wahyudin,Palembang,Business
+2305,Puput Marpaung,Bengkulu,Individual
+2306,T. Banawi Dongoran,Bekasi,Individual
+2307,Najwa Maulana,Batam,Individual
+2308,Jamalia Mangunsong,Bengkulu,Individual
+2309,Okta Palastri,Solo,Individual
+2310,Tgk. Marsudi Sihombing,Yogyakarta,Individual
+2311,Icha Pertiwi,Surabaya,Individual
+2312,"Cakrajiya Pratiwi, M.M.",Bengkulu,Individual
+2313,Shakila Kusumo,Lampung,Individual
+2314,"Natalia Gunarto, S.E.I",Malang,Individual
+2315,"Kusuma Latupono, S.Pd",Bengkulu,Business
+2316,Himawan Safitri,Medan,Business
+2317,"R.A. Melinda Tamba, S.Pt",Depok,Individual
+2318,Amelia Sudiati,Surabaya,Individual
+2319,"Dagel Padmasari, M.TI.",Pekanbaru,Individual
+2320,Purwa Setiawan,Malang,Individual
+2321,Ajimin Hutasoit,Pekanbaru,Individual
+2322,drg. Murti Winarsih,Depok,Business
+2323,Kambali Wijaya,Cirebon,Business
+2324,Joko Simanjuntak,Batam,Individual
+2325,Ir. Oni Hakim,Bekasi,Individual
+2326,"Gatra Widodo, S.E.I",Padang,Business
+2327,"Zulaikha Aryani, S.I.Kom",Bengkulu,Individual
+2328,Kasiyah Budiman,Semarang,Individual
+2329,Jelita Tampubolon,Batam,Business
+2330,Melinda Purwanti,Cirebon,Business
+2331,Darijan Handayani,Malang,Individual
+2332,"Lidya Handayani, S.Pd",Batam,Individual
+2333,Reksa Anggraini,Palembang,Individual
+2334,"Lidya Mandala, M.Farm",Bogor,Individual
+2335,Puti Dinda Pranowo,Bengkulu,Business
+2336,Nabila Novitasari,Bengkulu,Business
+2337,Bella Rahayu,Bogor,Business
+2338,"dr. Bakidin Ardianto, S.Farm",Depok,Individual
+2339,"Vinsen Saputra, S.Farm",Pekanbaru,Business
+2340,Kala Hariyah,Sidoarjo,Individual
+2341,"Qori Mandala, S.Kom",Bengkulu,Individual
+2342,Rafi Wibowo,Bekasi,Business
+2343,Puspa Lestari,Bekasi,Individual
+2344,Ridwan Sihombing,Malang,Business
+2345,"Ir. Ilsa Lailasari, M.Pd",Palembang,Individual
+2346,"Malika Prasetyo, S.Ked",Depok,Business
+2347,"Dt. Candra Saptono, S.Pd",Malang,Individual
+2348,"Rafid Usada, M.Kom.",Sidoarjo,Individual
+2349,Martani Widiastuti,Batam,Individual
+2350,Lidya Nugroho,Bogor,Individual
+2351,Shakila Yuliarti,Malang,Individual
+2352,Alambana Lazuardi,Bekasi,Individual
+2353,"T. Jumadi Hidayat, M.Ak",Sidoarjo,Individual
+2354,"Karen Prastuti, M.Kom.",Jambi,Business
+2355,drg. Hana Utami,Solo,Individual
+2356,"Jaswadi Lazuardi, S.I.Kom",Depok,Individual
+2357,H. Kamal Budiyanto,Jambi,Individual
+2358,"Tgk. Elisa Prastuti, S.Gz",Depok,Individual
+2359,Galuh Hariyah,Medan,Business
+2360,"Diana Tamba, S.E.",Jambi,Individual
+2361,Empluk Tarihoran,Bekasi,Individual
+2362,Siska Tamba,Bengkulu,Individual
+2363,Elvin Siregar,Lampung,Individual
+2364,Ir. Waluyo Hutagalung,Bandung,Individual
+2365,Sutan Pranata Utami,Batam,Individual
+2366,Prakosa Kuswoyo,Sidoarjo,Individual
+2367,R. Puji Sinaga,Bogor,Individual
+2368,"dr. Yunita Sihombing, S.T.",Palembang,Individual
+2369,"Nalar Tarihoran, S.IP",Jambi,Business
+2370,Drs. Garan Megantara,Bandung,Business
+2371,Cahyo Maryati,Semarang,Individual
+2372,Kasiyah Laksita,Padang,Business
+2373,Jasmin Marpaung,Semarang,Business
+2374,Darimin Mangunsong,Sidoarjo,Individual
+2375,Sutan Radika Nainggolan,Batam,Individual
+2376,"Dr. Luwes Novitasari, M.Pd",Solo,Individual
+2377,"Puspa Latupono, S.Farm",Bandung,Individual
+2378,Citra Latupono,Bogor,Individual
+2379,"R. Anita Kuswandari, S.I.Kom",Solo,Individual
+2380,Shakila Tarihoran,Padang,Individual
+2381,Rendy Handayani,Surabaya,Business
+2382,Drs. Vanesa Siregar,Palembang,Business
+2383,Nyana Sihombing,Palembang,Business
+2384,Panca Lazuardi,Padang,Business
+2385,Cagak Megantara,Palembang,Individual
+2386,"Ghaliyati Samosir, S.E.I",Yogyakarta,Individual
+2387,Cager Hutapea,Palembang,Individual
+2388,Shakila Kusumo,Bogor,Business
+2389,Ajiman Laksmiwati,Tangerang,Individual
+2390,"dr. Artanto Napitupulu, S.IP",Yogyakarta,Individual
+2391,Putu Wahyuni,Medan,Business
+2392,Drs. Asmuni Halimah,Padang,Individual
+2393,Upik Ramadan,Pekanbaru,Individual
+2394,Atmaja Sihombing,Depok,Individual
+2395,"Adikara Kuswoyo, S.IP",Bekasi,Business
+2396,R.A. Rini Pangestu,Surabaya,Individual
+2397,Mumpuni Tampubolon,Solo,Individual
+2398,Bakijan Maulana,Malang,Individual
+2399,"Tgk. Ratna Tampubolon, S.I.Kom",Medan,Individual
+2400,Sabar Mardhiyah,Yogyakarta,Business
+2401,"H. Luwar Permadi, M.TI.",Bengkulu,Individual
+2402,Puti Cinthia Prastuti,Padang,Individual
+2403,"Dt. Karsana Pratama, S.Kom",Bekasi,Individual
+2404,Ella Nasyiah,Solo,Individual
+2405,Olga Januar,Semarang,Business
+2406,Viman Mayasari,Bengkulu,Individual
+2407,"Dr. Karimah Rahmawati, S.E.",Palembang,Individual
+2408,Samiah Kurniawan,Yogyakarta,Individual
+2409,Rafid Thamrin,Jakarta,Individual
+2410,Lintang Prabowo,Palembang,Individual
+2411,Sutan Hasim Kusumo,Jambi,Individual
+2412,"Tgk. Bancar Hastuti, S.IP",Surabaya,Individual
+2413,R.M. Jumari Tarihoran,Pekanbaru,Individual
+2414,"Irma Puspita, S.Gz",Bekasi,Business
+2415,Gamanto Lailasari,Solo,Business
+2416,Harsana Suryono,Medan,Business
+2417,Rahayu Saragih,Semarang,Individual
+2418,"Saadat Handayani, S.H.",Bekasi,Business
+2419,dr. Elvin Aryani,Bogor,Business
+2420,Sabri Hidayat,Batam,Individual
+2421,"Dr. Shania Uwais, S.E.",Lampung,Business
+2422,Mursita Lestari,Yogyakarta,Individual
+2423,"Bala Widodo, M.M.",Batam,Individual
+2424,Ir. Murti Hutasoit,Semarang,Business
+2425,Cakrabirawa Widodo,Solo,Business
+2426,Talia Rahayu,Palembang,Individual
+2427,Opung Narpati,Yogyakarta,Individual
+2428,Galih Napitupulu,Bengkulu,Individual
+2429,Farah Riyanti,Surabaya,Individual
+2430,"drg. Dewi Pradipta, S.Farm",Bandung,Business
+2431,"Najwa Setiawan, M.Farm",Semarang,Individual
+2432,Tgk. Usyi Yuniar,Padang,Individual
+2433,Kani Kusmawati,Depok,Business
+2434,"Luhung Waskita, M.Kom.",Jambi,Individual
+2435,T. Cakrajiya Hasanah,Depok,Individual
+2436,Banawi Ramadan,Cirebon,Individual
+2437,Najwa Pradipta,Surabaya,Individual
+2438,"Wardaya Mansur, S.Ked",Bekasi,Individual
+2439,Okto Habibi,Malang,Business
+2440,"Puti Najwa Wastuti, S.Ked",Semarang,Business
+2441,Harjaya Suartini,Tangerang,Individual
+2442,"Gamanto Mangunsong, S.Pd",Bandung,Business
+2443,Ir. Cinta Hutagalung,Bogor,Individual
+2444,"Pardi Nurdiyanti, M.Kom.",Lampung,Individual
+2445,"drg. Damar Sihombing, M.Kom.",Bogor,Individual
+2446,Ophelia Rajata,Medan,Individual
+2447,Tgk. Rusman Namaga,Cirebon,Business
+2448,Dt. Wawan Firmansyah,Solo,Individual
+2449,Devi Winarno,Padang,Business
+2450,Iriana Waluyo,Semarang,Business
+2451,Michelle Firgantoro,Palembang,Individual
+2452,Cecep Puspita,Surabaya,Individual
+2453,"Satya Sihombing, S.E.",Sidoarjo,Business
+2454,Mala Mansur,Cirebon,Individual
+2455,Tina Wibisono,Bengkulu,Individual
+2456,Vanesa Kusumo,Palembang,Individual
+2457,Hj. Nurul Wahyuni,Bengkulu,Individual
+2458,Ir. Kayun Pertiwi,Solo,Individual
+2459,Nabila Purwanti,Lampung,Individual
+2460,"R. Ophelia Hakim, S.Sos",Yogyakarta,Business
+2461,Nilam Rahayu,Padang,Individual
+2462,Raisa Wastuti,Semarang,Individual
+2463,Vivi Suryono,Jambi,Business
+2464,Almira Dabukke,Palembang,Individual
+2465,Cut Dian Utama,Palembang,Individual
+2466,Yessi Padmasari,Bandung,Business
+2467,Prakosa Utami,Depok,Individual
+2468,Kezia Kuswoyo,Tangerang,Individual
+2469,Jelita Tamba,Yogyakarta,Individual
+2470,Kamaria Hakim,Depok,Business
+2471,"Dipa Prayoga, S.H.",Batam,Individual
+2472,"Galang Rahayu, S.Pt",Jakarta,Business
+2473,"Bella Samosir, S.IP",Bekasi,Individual
+2474,Ella Damanik,Bengkulu,Individual
+2475,Tgk. Aris Haryanti,Cirebon,Business
+2476,"Saka Anggraini, M.Farm",Jambi,Individual
+2477,dr. Emas Damanik,Malang,Individual
+2478,"Nadine Rahmawati, S.Ked",Batam,Business
+2479,Keisha Pertiwi,Jakarta,Individual
+2480,Janet Pertiwi,Jakarta,Individual
+2481,Respati Lestari,Medan,Individual
+2482,Muhammad Wulandari,Palembang,Individual
+2483,Gandi Mandasari,Malang,Business
+2484,KH. Prakosa Widiastuti,Bekasi,Individual
+2485,Eli Susanti,Bengkulu,Business
+2486,Karimah Fujiati,Solo,Business
+2487,Jamal Usada,Jambi,Individual
+2488,"Puti Zaenab Nasyiah, S.Kom",Yogyakarta,Individual
+2489,Hani Hardiansyah,Sidoarjo,Individual
+2490,Queen Wacana,Batam,Individual
+2491,"Sutan Leo Iswahyudi, M.Farm",Jakarta,Individual
+2492,Lega Sirait,Depok,Individual
+2493,Betania Purnawati,Tangerang,Individual
+2494,"Dr. Jaswadi Aryani, S.Kom",Padang,Individual
+2495,Wulan Hutagalung,Jambi,Individual
+2496,"Ridwan Sihombing, M.TI.",Padang,Business
+2497,"T. Ian Wijayanti, M.Pd",Solo,Business
+2498,Farah Agustina,Batam,Individual
+2499,Hafshah Oktaviani,Cirebon,Business
+2500,drg. Mumpuni Pudjiastuti,Cirebon,Individual
+2501,Teguh Budiyanto,Batam,Business
+2502,"Niyaga Maryati, S.E.",Bekasi,Individual
+2503,Dr. Gabriella Wijayanti,Depok,Business
+2504,"Dr. Hasna Uyainah, M.Pd",Jambi,Business
+2505,"Drs. Simon Fujiati, M.Farm",Lampung,Individual
+2506,"Sari Halim, M.TI.",Semarang,Business
+2507,Galih Hariyah,Yogyakarta,Business
+2508,Dimas Maryadi,Bengkulu,Business
+2509,"Silvia Salahudin, S.Farm",Bekasi,Individual
+2510,Jamalia Haryanto,Semarang,Individual
+2511,"Damu Zulkarnain, S.T.",Semarang,Business
+2512,"Tgk. Septi Marpaung, S.T.",Yogyakarta,Individual
+2513,"Limar Prakasa, S.Sos",Semarang,Individual
+2514,Balijan Maryadi,Tangerang,Individual
+2515,Alambana Prasasta,Pekanbaru,Individual
+2516,"T. Jaiman Laksita, M.Pd",Depok,Business
+2517,Lintang Yuliarti,Palembang,Individual
+2518,Damar Manullang,Medan,Individual
+2519,Diana Dabukke,Cirebon,Business
+2520,Widya Setiawan,Tangerang,Business
+2521,"Kunthara Nugroho, S.Gz",Surabaya,Individual
+2522,"Nova Damanik, S.Gz",Batam,Individual
+2523,"Puti Iriana Suartini, S.Pd",Jambi,Individual
+2524,"Puti Laila Utama, S.Pt",Cirebon,Business
+2525,Zalindra Mandala,Depok,Individual
+2526,Balidin Pertiwi,Bekasi,Individual
+2527,"Olivia Lazuardi, M.TI.",Sidoarjo,Business
+2528,"Radit Prastuti, M.TI.",Sidoarjo,Individual
+2529,Najwa Iswahyudi,Cirebon,Individual
+2530,Limar Maheswara,Palembang,Individual
+2531,"KH. Galar Sitompul, M.Farm",Bandung,Individual
+2532,"Kayla Prakasa, S.Farm",Sidoarjo,Individual
+2533,Cakrabirawa Kurniawan,Tangerang,Business
+2534,Dariati Saefullah,Pekanbaru,Individual
+2535,Laila Rajasa,Batam,Business
+2536,"Ir. Amelia Lestari, M.Pd",Yogyakarta,Individual
+2537,Tira Kusumo,Semarang,Business
+2538,Puji Anggraini,Palembang,Individual
+2539,Sabrina Prayoga,Pekanbaru,Individual
+2540,Violet Maulana,Solo,Business
+2541,Nabila Uwais,Malang,Individual
+2542,"Tgk. Ayu Yuliarti, M.Ak",Lampung,Individual
+2543,Saadat Wijayanti,Jakarta,Business
+2544,"Dt. Muhammad Winarsih, S.H.",Palembang,Business
+2545,Puspa Winarno,Palembang,Individual
+2546,Suci Tarihoran,Malang,Business
+2547,"Ir. Banawi Nasyidah, S.H.",Bekasi,Individual
+2548,"Dr. Kayla Anggriawan, S.Sos",Depok,Individual
+2549,Ilsa Iswahyudi,Palembang,Business
+2550,"R.A. Ifa Pranowo, S.E.",Semarang,Individual
+2551,Siti Simanjuntak,Tangerang,Business
+2552,"KH. Margana Wasita, S.Gz",Bekasi,Individual
+2553,Zelaya Hutapea,Malang,Individual
+2554,"Dr. Nadine Zulkarnain, S.Psi",Padang,Business
+2555,"Lintang Januar, S.E.",Bandung,Business
+2556,"Hana Mayasari, S.Pt",Pekanbaru,Business
+2557,Lili Suartini,Yogyakarta,Individual
+2558,"Yulia Pudjiastuti, S.Psi",Surabaya,Business
+2559,Talia Dabukke,Depok,Individual
+2560,"Dt. Maras Yuniar, S.E.",Palembang,Individual
+2561,"Ibun Yuniar, S.E.I",Cirebon,Individual
+2562,Himawan Pangestu,Bandung,Individual
+2563,"Gaduh Sihotang, M.Farm",Bekasi,Business
+2564,Balapati Manullang,Jambi,Individual
+2565,Kariman Yulianti,Yogyakarta,Business
+2566,"R.M. Slamet Riyanti, S.Farm",Tangerang,Individual
+2567,"Tgk. Jabal Kuswandari, S.E.I",Batam,Individual
+2568,Ellis Rahayu,Malang,Business
+2569,"dr. Wirda Suryono, S.Kom",Surabaya,Business
+2570,Heryanto Uwais,Yogyakarta,Individual
+2571,Hartana Waluyo,Surabaya,Individual
+2572,"Ir. Genta Damanik, S.Ked",Palembang,Individual
+2573,Ir. Luwar Utami,Padang,Business
+2574,Umaya Irawan,Pekanbaru,Individual
+2575,Faizah Saptono,Malang,Individual
+2576,"Zulaikha Narpati, S.Gz",Bogor,Individual
+2577,Raina Aryani,Cirebon,Business
+2578,Tgk. Eka Irawan,Padang,Individual
+2579,Ella Purnawati,Jambi,Individual
+2580,Aditya Novitasari,Lampung,Individual
+2581,Vera Hasanah,Surabaya,Individual
+2582,"Hj. Nilam Lazuardi, S.H.",Palembang,Business
+2583,"Farhunnisa Nainggolan, S.T.",Jambi,Business
+2584,Ulva Lailasari,Padang,Individual
+2585,Diah Astuti,Bengkulu,Individual
+2586,"R.A. Rahayu Pratama, S.Pd",Padang,Business
+2587,"Shania Nainggolan, S.Farm",Jakarta,Individual
+2588,Hasan Maulana,Solo,Individual
+2589,Elvin Saptono,Surabaya,Individual
+2590,Lasmanto Hartati,Yogyakarta,Individual
+2591,Hairyanto Padmasari,Bekasi,Individual
+2592,"Marsudi Haryanti, S.Pt",Depok,Individual
+2593,Jarwadi Mansur,Bandung,Individual
+2594,"dr. Talia Widodo, S.Kom",Medan,Individual
+2595,"Kiandra Anggraini, M.Ak",Padang,Individual
+2596,Belinda Kuswoyo,Tangerang,Individual
+2597,Dt. Aslijan Sitorus,Jambi,Individual
+2598,Jarwi Thamrin,Sidoarjo,Individual
+2599,Hj. Wani Rahimah,Palembang,Individual
+2600,"Ulva Gunawan, S.Ked",Cirebon,Individual
+2601,Ophelia Safitri,Malang,Business
+2602,Ilsa Widodo,Pekanbaru,Business
+2603,"Hairyanto Mustofa, M.Pd",Bandung,Business
+2604,Laksana Nugroho,Jambi,Individual
+2605,Ella Mardhiyah,Cirebon,Business
+2606,Jessica Hastuti,Yogyakarta,Business
+2607,Bakidin Simanjuntak,Jakarta,Individual
+2608,"Paris Astuti, S.E.I",Lampung,Individual
+2609,Calista Sihotang,Sidoarjo,Individual
+2610,Cagak Mandasari,Bengkulu,Business
+2611,"Tgk. Ulva Tarihoran, S.Farm",Batam,Individual
+2612,Hani Suryatmi,Depok,Individual
+2613,"Tgk. Padma Sihotang, S.Farm",Solo,Business
+2614,Galih Lestari,Jakarta,Individual
+2615,"R.M. Kala Wahyuni, M.M.",Malang,Individual
+2616,Dacin Maryadi,Bandung,Individual
+2617,Dartono Najmudin,Tangerang,Individual
+2618,Jarwadi Rajata,Yogyakarta,Individual
+2619,Nrima Hastuti,Bengkulu,Individual
+2620,Calista Lailasari,Jambi,Individual
+2621,Ilyas Tamba,Padang,Individual
+2622,"Putri Laksita, M.M.",Bekasi,Individual
+2623,Carla Maulana,Bengkulu,Individual
+2624,Gantar Iswahyudi,Yogyakarta,Business
+2625,Taswir Suryono,Bandung,Business
+2626,Rafid Narpati,Solo,Individual
+2627,"Oni Saputra, M.Farm",Tangerang,Business
+2628,"Lanang Prabowo, M.Farm",Batam,Individual
+2629,Karsa Pertiwi,Surabaya,Business
+2630,Hamzah Hutagalung,Jambi,Individual
+2631,Pranawa Mandasari,Malang,Individual
+2632,"Bakiono Sitompul, S.Ked",Jakarta,Business
+2633,Sabrina Zulaika,Malang,Business
+2634,Hartana Wahyudin,Semarang,Business
+2635,Puti Zalindra Sinaga,Sidoarjo,Business
+2636,Alambana Hutapea,Surabaya,Individual
+2637,Yance Wahyuni,Bekasi,Business
+2638,Mutia Utami,Medan,Individual
+2639,Rina Wahyuni,Surabaya,Individual
+2640,Gambira Gunawan,Bandung,Business
+2641,"Luthfi Hartati, S.Psi",Palembang,Individual
+2642,"Uchita Purnawati, S.E.I",Depok,Individual
+2643,Setya Hardiansyah,Bandung,Individual
+2644,"Ir. Eko Sinaga, S.Gz",Malang,Business
+2645,"Belinda Pudjiastuti, M.Ak",Depok,Individual
+2646,Cornelia Wacana,Semarang,Individual
+2647,Elma Permadi,Cirebon,Individual
+2648,"dr. Bakidin Damanik, S.Kom",Solo,Individual
+2649,Harsanto Waskita,Depok,Individual
+2650,Septi Yolanda,Bengkulu,Individual
+2651,Banawa Salahudin,Malang,Individual
+2652,Wani Astuti,Bogor,Individual
+2653,"Yani Saragih, M.Ak",Lampung,Individual
+2654,Gatot Widiastuti,Jakarta,Individual
+2655,Rafi Uwais,Surabaya,Business
+2656,Sutan Jindra Hassanah,Padang,Individual
+2657,Nabila Santoso,Medan,Individual
+2658,Ir. Lintang Iswahyudi,Malang,Individual
+2659,"dr. Rosman Uwais, M.Ak",Malang,Business
+2660,Ibrahim Usamah,Medan,Individual
+2661,Cornelia Gunarto,Jakarta,Individual
+2662,Tgk. Jaiman Wastuti,Malang,Individual
+2663,Marsudi Mangunsong,Batam,Individual
+2664,Paramita Usamah,Bengkulu,Business
+2665,"Karna Hutasoit, S.Pd",Jambi,Individual
+2666,Maya Hutapea,Pekanbaru,Individual
+2667,"drg. Eja Maryadi, S.E.I",Solo,Individual
+2668,"Unggul Salahudin, S.H.",Depok,Individual
+2669,dr. Ega Purnawati,Solo,Business
+2670,Kusuma Hutagalung,Padang,Individual
+2671,Kambali Kurniawan,Bekasi,Individual
+2672,dr. Hendri Kuswoyo,Bogor,Individual
+2673,Salimah Purnawati,Malang,Individual
+2674,"Tgk. Kamila Rajasa, M.Farm",Malang,Individual
+2675,Pranawa Mardhiyah,Bengkulu,Individual
+2676,Balijan Wijayanti,Tangerang,Individual
+2677,Elma Najmudin,Padang,Individual
+2678,"drg. Aurora Hutasoit, S.Farm",Batam,Individual
+2679,"Ifa Sihotang, M.Farm",Bogor,Business
+2680,"Mutia Winarsih, M.M.",Yogyakarta,Business
+2681,Tgk. Jasmin Nashiruddin,Depok,Individual
+2682,Cengkal Hutapea,Pekanbaru,Individual
+2683,"Rahmi Rajata, S.IP",Tangerang,Business
+2684,Patricia Budiyanto,Jakarta,Individual
+2685,Harto Latupono,Depok,Individual
+2686,Cawisono Yolanda,Surabaya,Individual
+2687,Michelle Waskita,Malang,Business
+2688,"Hj. Uli Suartini, M.Kom.",Sidoarjo,Business
+2689,Raina Susanti,Palembang,Individual
+2690,Shakila Wulandari,Jambi,Business
+2691,"Samiah Widodo, S.Pd",Solo,Individual
+2692,Budi Mansur,Jakarta,Individual
+2693,Dadap Kusumo,Jakarta,Individual
+2694,"Cut Tami Nainggolan, S.Ked",Padang,Individual
+2695,Jaya Yulianti,Lampung,Business
+2696,Martaka Permadi,Medan,Individual
+2697,Zaenab Utami,Palembang,Individual
+2698,"Drs. Fitriani Irawan, S.Pd",Padang,Individual
+2699,"drg. Cakrajiya Kusmawati, S.Farm",Depok,Business
+2700,Bambang Marbun,Semarang,Business
+2701,Okta Handayani,Solo,Business
+2702,Nadine Damanik,Batam,Individual
+2703,"Dr. Restu Prasasta, S.Kom",Solo,Individual
+2704,Qori Wijaya,Bandung,Individual
+2705,Ganda Anggriawan,Lampung,Individual
+2706,Lasmono Astuti,Semarang,Individual
+2707,Zizi Lailasari,Surabaya,Individual
+2708,"Ratna Riyanti, M.Pd",Medan,Individual
+2709,Ani Laksita,Bekasi,Business
+2710,Nova Mulyani,Sidoarjo,Individual
+2711,Ir. Shania Laksita,Bekasi,Business
+2712,Nasab Halim,Bekasi,Business
+2713,Dt. Indra Permata,Jakarta,Individual
+2714,Puspa Haryanto,Lampung,Individual
+2715,Septi Agustina,Bekasi,Individual
+2716,Calista Lailasari,Jambi,Individual
+2717,Hj. Jelita Hassanah,Semarang,Individual
+2718,"Maya Damanik, S.E.",Padang,Individual
+2719,Tari Nababan,Surabaya,Individual
+2720,Jelita Farida,Semarang,Individual
+2721,Jono Prasetya,Solo,Individual
+2722,Hj. Jessica Suartini,Jakarta,Individual
+2723,"Hj. Nadia Mustofa, S.Pd",Batam,Individual
+2724,"Tania Wibisono, S.Farm",Medan,Business
+2725,"Hj. Safina Tarihoran, M.Kom.",Yogyakarta,Individual
+2726,"R.M. Luthfi Pranowo, S.Pd",Semarang,Individual
+2727,"Ulva Irawan, M.Kom.",Jambi,Business
+2728,Cawuk Pangestu,Sidoarjo,Individual
+2729,Luluh Lestari,Sidoarjo,Individual
+2730,Putu Agustina,Bengkulu,Individual
+2731,Ilsa Prakasa,Palembang,Individual
+2732,Kalim Hardiansyah,Bekasi,Individual
+2733,Gatot Rajata,Bengkulu,Individual
+2734,Shania Manullang,Batam,Business
+2735,Raden Mardhiyah,Pekanbaru,Individual
+2736,Respati Haryanto,Bandung,Individual
+2737,Mala Latupono,Pekanbaru,Individual
+2738,R.A. Devi Purwanti,Jakarta,Business
+2739,Jinawi Rajata,Bekasi,Individual
+2740,Violet Thamrin,Batam,Business
+2741,"Dt. Prasetya Puspita, S.T.",Batam,Individual
+2742,Simon Mulyani,Yogyakarta,Business
+2743,Hj. Ciaobella Hardiansyah,Semarang,Individual
+2744,Wirda Haryanti,Bekasi,Individual
+2745,"Puti Cici Suryatmi, M.Ak",Palembang,Individual
+2746,"R. Ridwan Purwanti, S.Gz",Cirebon,Individual
+2747,R. Caturangga Usamah,Depok,Business
+2748,Tedi Putra,Yogyakarta,Business
+2749,Endah Siregar,Tangerang,Individual
+2750,"Maimunah Mayasari, M.Kom.",Semarang,Individual
+2751,"Cinthia Mangunsong, S.I.Kom",Tangerang,Individual
+2752,Yuliana Mandala,Sidoarjo,Business
+2753,Samsul Pangestu,Lampung,Individual
+2754,Lidya Ardianto,Depok,Individual
+2755,Rafid Kusmawati,Semarang,Individual
+2756,Irma Mayasari,Cirebon,Business
+2757,Bakiadi Santoso,Solo,Business
+2758,Tina Agustina,Surabaya,Individual
+2759,Siti Widiastuti,Depok,Individual
+2760,Cakrawangsa Nuraini,Padang,Individual
+2761,Winda Pradana,Jambi,Business
+2762,Rama Aryani,Malang,Individual
+2763,Laila Haryanti,Pekanbaru,Individual
+2764,"Drs. Wulan Zulaika, S.I.Kom",Jambi,Business
+2765,Ilyas Maulana,Palembang,Business
+2766,"Dt. Nasim Maryati, S.Pt",Yogyakarta,Individual
+2767,Gandi Sihotang,Padang,Business
+2768,Vera Marbun,Jakarta,Individual
+2769,Almira Wijaya,Sidoarjo,Individual
+2770,"Dt. Mitra Yuniar, S.E.I",Surabaya,Individual
+2771,Cut Siti Wijayanti,Tangerang,Individual
+2772,T. Hari Wacana,Surabaya,Individual
+2773,"Naradi Puspasari, S.Pd",Batam,Individual
+2774,"Uli Sihotang, S.I.Kom",Palembang,Individual
+2775,Raden Setiawan,Tangerang,Individual
+2776,Drs. Viman Maulana,Tangerang,Individual
+2777,"Latika Hassanah, S.Kom",Palembang,Business
+2778,Drs. Pandu Safitri,Sidoarjo,Individual
+2779,"Ilyas Situmorang, S.Sos",Yogyakarta,Individual
+2780,"Sutan Teguh Sihombing, S.Pt",Palembang,Individual
+2781,Kawaya Sitorus,Medan,Individual
+2782,Tari Mahendra,Bandung,Individual
+2783,Dr. Edi Prabowo,Bekasi,Individual
+2784,Kajen Puspasari,Surabaya,Business
+2785,Putri Siregar,Bengkulu,Individual
+2786,"Ir. Capa Damanik, S.Ked",Cirebon,Business
+2787,"Dr. Lega Rajata, S.H.",Cirebon,Business
+2788,"Tgk. Tari Anggraini, M.TI.",Medan,Individual
+2789,Opan Halim,Sidoarjo,Individual
+2790,"dr. Hana Utami, M.TI.",Bogor,Individual
+2791,Dewi Hardiansyah,Palembang,Business
+2792,"Ir. Wage Maheswara, M.M.",Sidoarjo,Individual
+2793,Queen Ardianto,Bogor,Business
+2794,Jessica Prakasa,Lampung,Business
+2795,"H. Laksana Pratiwi, M.Pd",Jambi,Business
+2796,"Ir. Gina Tampubolon, S.Pd",Batam,Individual
+2797,Salwa Pertiwi,Lampung,Individual
+2798,"Cahyono Waluyo, M.TI.",Batam,Individual
+2799,"Hilda Jailani, S.Psi",Bogor,Individual
+2800,Drs. Dadi Tarihoran,Batam,Individual
+2801,Cinthia Maulana,Depok,Business
+2802,"Lintang Zulkarnain, S.Pt",Tangerang,Individual
+2803,Aswani Anggraini,Yogyakarta,Business
+2804,Jaswadi Prabowo,Lampung,Business
+2805,Citra Uwais,Bekasi,Individual
+2806,"Karsa Waskita, M.Farm",Palembang,Individual
+2807,Dr. Prayogo Widodo,Depok,Individual
+2808,"Tgk. Restu Mandasari, S.Farm",Yogyakarta,Individual
+2809,Shakila Lestari,Yogyakarta,Individual
+2810,"Lidya Marpaung, S.E.I",Padang,Individual
+2811,R.M. Jayeng Haryanti,Medan,Individual
+2812,Niyaga Mulyani,Medan,Business
+2813,"Drs. Devi Prabowo, M.M.",Bengkulu,Individual
+2814,Ami Manullang,Solo,Business
+2815,Tgk. Viman Lazuardi,Jakarta,Individual
+2816,drg. Carla Lazuardi,Jakarta,Individual
+2817,Queen Siregar,Bandung,Business
+2818,Karman Mangunsong,Pekanbaru,Business
+2819,Hardana Samosir,Depok,Business
+2820,Ilsa Sihombing,Tangerang,Individual
+2821,Ana Megantara,Depok,Individual
+2822,Purwanto Rahmawati,Malang,Business
+2823,Alika Samosir,Malang,Individual
+2824,Gasti Najmudin,Palembang,Individual
+2825,"Dr. Ade Maheswara, M.Pd",Batam,Individual
+2826,Betania Gunawan,Bekasi,Individual
+2827,Novi Pertiwi,Padang,Individual
+2828,Padmi Hartati,Depok,Business
+2829,Violet Waluyo,Tangerang,Individual
+2830,Zahra Sudiati,Bandung,Business
+2831,Prabowo Mandala,Bandung,Business
+2832,Ir. Jagaraga Hartati,Bandung,Individual
+2833,"Ikin Maryadi, S.Psi",Surabaya,Individual
+2834,Raharja Oktaviani,Malang,Individual
+2835,"Leo Wasita, S.Sos",Cirebon,Business
+2836,Uda Widodo,Sidoarjo,Business
+2837,Puput Gunawan,Jambi,Business
+2838,"Tirtayasa Handayani, S.T.",Surabaya,Individual
+2839,"Bakidin Marbun, S.Ked",Semarang,Business
+2840,Hj. Wulan Saragih,Sidoarjo,Individual
+2841,Ir. Bancar Yuniar,Tangerang,Individual
+2842,R. Dadi Safitri,Padang,Individual
+2843,Drs. Praba Habibi,Surabaya,Individual
+2844,Drs. Fitriani Kusmawati,Medan,Individual
+2845,Dt. Banawa Wahyuni,Pekanbaru,Business
+2846,R.M. Yono Budiyanto,Solo,Individual
+2847,Winda Putra,Depok,Business
+2848,Radit Prastuti,Solo,Business
+2849,Chelsea Nasyidah,Batam,Individual
+2850,dr. Lalita Rahmawati,Bandung,Individual
+2851,Joko Damanik,Batam,Individual
+2852,Maya Najmudin,Surabaya,Individual
+2853,Aisyah Nuraini,Solo,Individual
+2854,Kezia Rajasa,Surabaya,Individual
+2855,Balijan Januar,Sidoarjo,Individual
+2856,R.M. Edison Megantara,Bengkulu,Business
+2857,Dodo Irawan,Bengkulu,Business
+2858,Gaiman Wasita,Malang,Individual
+2859,"Cawisadi Halim, M.Ak",Palembang,Individual
+2860,Elvina Dongoran,Padang,Individual
+2861,"Amelia Salahudin, S.Sos",Bogor,Individual
+2862,Galuh Megantara,Surabaya,Business
+2863,Janet Rajata,Palembang,Individual
+2864,Yunita Lazuardi,Pekanbaru,Business
+2865,Damar Permadi,Yogyakarta,Individual
+2866,"Drs. Langgeng Prakasa, M.Kom.",Medan,Individual
+2867,KH. Johan Winarno,Cirebon,Individual
+2868,Embuh Halim,Jakarta,Individual
+2869,Malika Puspasari,Pekanbaru,Individual
+2870,Bella Laksmiwati,Medan,Individual
+2871,Hasim Usada,Bandung,Business
+2872,Vino Budiyanto,Surabaya,Individual
+2873,Puspa Rahmawati,Yogyakarta,Business
+2874,"Baktianto Prayoga, M.Pd",Yogyakarta,Business
+2875,"Panji Mahendra, S.Pd",Bengkulu,Individual
+2876,drg. Melinda Hutasoit,Malang,Individual
+2877,"Hj. Olivia Putra, S.E.I",Bandung,Business
+2878,Puput Narpati,Malang,Individual
+2879,"Sutan Kawaya Anggraini, M.Pd",Surabaya,Individual
+2880,Azalea Adriansyah,Batam,Business
+2881,"Dr. Yance Safitri, S.Pd",Batam,Individual
+2882,"Caturangga Adriansyah, S.Gz",Batam,Individual
+2883,Humaira Rahimah,Yogyakarta,Individual
+2884,Zalindra Zulaika,Bekasi,Individual
+2885,Kamaria Usamah,Lampung,Individual
+2886,Lanang Melani,Bengkulu,Business
+2887,Aurora Marpaung,Yogyakarta,Individual
+2888,"Patricia Pratiwi, S.Pt",Jakarta,Individual
+2889,Clara Widodo,Sidoarjo,Individual
+2890,"Dewi Mandala, M.Pd",Solo,Individual
+2891,Mala Pranowo,Palembang,Individual
+2892,Drs. Wani Simanjuntak,Depok,Business
+2893,"Warsita Siregar, S.T.",Pekanbaru,Business
+2894,"H. Jabal Saputra, S.H.",Solo,Business
+2895,"Galur Siregar, S.Kom",Tangerang,Individual
+2896,Rahayu Sitompul,Sidoarjo,Individual
+2897,Vino Mansur,Sidoarjo,Individual
+2898,"Virman Adriansyah, M.Ak",Cirebon,Individual
+2899,Agnes Anggriawan,Solo,Business
+2900,"Cawuk Zulkarnain, M.Pd",Sidoarjo,Individual
+2901,"Tiara Lestari, S.Sos",Bekasi,Individual
+2902,R. Pandu Yulianti,Yogyakarta,Individual
+2903,"Bahuwarna Nasyiah, S.Ked",Solo,Individual
+2904,"Hj. Maimunah Wulandari, S.IP",Sidoarjo,Individual
+2905,Yulia Waluyo,Bengkulu,Individual
+2906,"Ir. Kani Wibisono, S.E.",Cirebon,Individual
+2907,"Cut Dewi Hariyah, S.I.Kom",Bengkulu,Business
+2908,Ibun Anggriawan,Medan,Business
+2909,Paiman Damanik,Pekanbaru,Individual
+2910,"T. Maman Tamba, S.Kom",Batam,Business
+2911,Rahman Susanti,Padang,Business
+2912,"Gadang Prasetya, S.H.",Pekanbaru,Individual
+2913,Karen Firgantoro,Bogor,Individual
+2914,Nilam Sudiati,Jakarta,Business
+2915,Adiarja Napitupulu,Cirebon,Business
+2916,"Hj. Lala Kusumo, S.T.",Malang,Business
+2917,Drs. Nilam Narpati,Yogyakarta,Individual
+2918,Sutan Maryanto Pratiwi,Semarang,Business
+2919,"Mahmud Suartini, M.Farm",Bengkulu,Individual
+2920,Atmaja Rahmawati,Solo,Individual
+2921,Panca Haryanto,Cirebon,Individual
+2922,Eka Purnawati,Solo,Business
+2923,"R.A. Putri Saefullah, S.Kom",Solo,Individual
+2924,"Hj. Ayu Wastuti, M.Pd",Palembang,Individual
+2925,Tgk. Sabrina Purwanti,Bengkulu,Business
+2926,Ade Aryani,Semarang,Individual
+2927,"Muni Yulianti, S.Gz",Tangerang,Individual
+2928,"dr. Mala Wasita, S.T.",Jambi,Business
+2929,Maman Maryati,Tangerang,Business
+2930,Nilam Tarihoran,Malang,Individual
+2931,KH. Artawan Prasetyo,Malang,Individual
+2932,Estiawan Andriani,Jakarta,Business
+2933,drg. Galih Ardianto,Padang,Business
+2934,Febi Sitorus,Lampung,Individual
+2935,Tasnim Pertiwi,Pekanbaru,Individual
+2936,"Dt. Okto Prasetyo, S.Farm",Bekasi,Individual
+2937,Vero Prayoga,Depok,Individual
+2938,Catur Sitompul,Pekanbaru,Individual
+2939,Bella Utami,Solo,Individual
+2940,"Bakti Dabukke, M.Kom.",Jambi,Individual
+2941,Yani Dongoran,Sidoarjo,Business
+2942,Hj. Juli Ramadan,Tangerang,Individual
+2943,Balangga Kusmawati,Bogor,Individual
+2944,Yusuf Siregar,Depok,Individual
+2945,"Cut Yuni Sitorus, M.TI.",Bengkulu,Individual
+2946,"Sutan Warsa Hidayanto, M.Ak",Medan,Business
+2947,Dr. Vanesa Kuswoyo,Cirebon,Business
+2948,"Ivan Prastuti, S.IP",Semarang,Business
+2949,Aswani Firmansyah,Batam,Individual
+2950,Iriana Haryanto,Medan,Individual
+2951,"R.M. Aswani Handayani, S.Gz",Lampung,Business
+2952,Rahmi Utami,Medan,Individual
+2953,Bella Jailani,Bandung,Individual
+2954,"Asman Purwanti, S.Gz",Jambi,Individual
+2955,Zizi Wibowo,Sidoarjo,Individual
+2956,Cinta Safitri,Batam,Individual
+2957,"dr. Daruna Rahimah, M.Ak",Bandung,Individual
+2958,Jaeman Winarno,Medan,Business
+2959,Wulan Aryani,Sidoarjo,Individual
+2960,Ir. Cinthia Sirait,Depok,Individual
+2961,"Wakiman Wulandari, S.Ked",Surabaya,Individual
+2962,Padma Sitompul,Palembang,Individual
+2963,R.A. Cici Jailani,Bengkulu,Business
+2964,Legawa Hidayat,Medan,Individual
+2965,R.A. Queen Mahendra,Bengkulu,Business
+2966,"Kacung Rajasa, S.I.Kom",Lampung,Individual
+2967,Novi Safitri,Bengkulu,Individual
+2968,Fitria Prasasta,Palembang,Individual
+2969,Raditya Gunawan,Padang,Business
+2970,Cagak Saragih,Pekanbaru,Individual
+2971,drg. Oliva Yulianti,Batam,Individual
+2972,"Tgk. Galang Padmasari, M.Pd",Bengkulu,Individual
+2973,"R.M. Cakrajiya Halimah, S.Pd",Jakarta,Individual
+2974,dr. Icha Uwais,Cirebon,Individual
+2975,Karja Rahmawati,Medan,Individual
+2976,"Mustika Maulana, S.Gz",Malang,Individual
+2977,Jono Purwanti,Surabaya,Business
+2978,"Cut Lintang Situmorang, S.Kom",Palembang,Individual
+2979,Manah Pangestu,Bandung,Business
+2980,"R. Ganep Nainggolan, M.Kom.",Cirebon,Individual
+2981,"Talia Hastuti, M.Ak",Pekanbaru,Individual
+2982,"Julia Prastuti, M.Farm",Cirebon,Individual
+2983,Raisa Salahudin,Malang,Individual
+2984,Julia Marpaung,Malang,Individual
+2985,Jaeman Gunarto,Yogyakarta,Individual
+2986,Gawati Adriansyah,Malang,Business
+2987,"Darmana Pradana, M.M.",Lampung,Individual
+2988,R.A. Halima Laksmiwati,Jakarta,Business
+2989,"Vivi Sitompul, S.Sos",Palembang,Individual
+2990,Heru Nashiruddin,Bogor,Business
+2991,"Cut Karen Anggriawan, S.Pt",Bengkulu,Business
+2992,Ana Puspita,Depok,Individual
+2993,Caket Siregar,Depok,Individual
+2994,Febi Usamah,Sidoarjo,Individual
+2995,dr. Aurora Dabukke,Bogor,Individual
+2996,Dalimin Suryono,Padang,Individual
+2997,Darmaji Saptono,Semarang,Individual
+2998,"Ellis Sirait, M.Pd",Yogyakarta,Individual
+2999,Cemani Napitupulu,Bandung,Individual
+3000,Cecep Saptono,Bekasi,Individual

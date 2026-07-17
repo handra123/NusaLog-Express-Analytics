@@ -1,0 +1,16 @@
+warehouse_id,warehouse_name,city,region,daily_shipment_capacity
+1,Cabang Jakarta,Jakarta,Jawa,402
+2,Cabang Bandung,Bandung,Jawa,735
+3,Cabang Surabaya,Surabaya,Jawa,570
+4,Cabang Semarang,Semarang,Jawa,406
+5,Cabang Yogyakarta,Yogyakarta,Jawa,371
+6,Cabang Malang,Malang,Jawa,320
+7,Cabang Bekasi,Bekasi,Jawa,421
+8,Cabang Bogor,Bogor,Jawa,766
+9,Cabang Tangerang,Tangerang,Jawa,514
+10,Cabang Depok,Depok,Jawa,630
+11,Cabang Medan,Medan,Sumatra,758
+12,Cabang Palembang,Palembang,Sumatra,387
+13,Cabang Padang,Padang,Sumatra,672
+14,Cabang Pekanbaru,Pekanbaru,Sumatra,399
+15,Cabang Lampung,Lampung,Sumatra,430
